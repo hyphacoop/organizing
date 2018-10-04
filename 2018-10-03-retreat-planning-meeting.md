@@ -1,9 +1,9 @@
 Retreat Planning Meeting # 1 (Oct 03)
 =============================
 
-[📧 Mailing List: XXXX@cryptography.dog](mailto:XXXX@cryptography.dog)
-[🗓 Calendar](https://calendar.google.com/calendar/embed?src=s2224p8sptnujs736vplf9anjo%40group.calendar.google.com&ctz=America%2FToronto)
-[📑 Retreat Planning Board](https://github.com/cryptographydog/december-meetup/projects/1)
+[📧 Mailing List: XXXX@cryptography.dog](mailto:XXXX@cryptography.dog)  
+[🗓 Calendar](https://calendar.google.com/calendar/embed?src=s2224p8sptnujs736vplf9anjo%40group.calendar.google.com&ctz=America%2FToronto)  
+[📑 Retreat Planning Board](https://github.com/cryptographydog/december-meetup/projects/1)  
 
 Time: 03 Oct 2018 5:30 pm EST
 Location: https://appear.in/offline
@@ -95,5 +95,5 @@ Attending: benhylau, dcwalk, ansuz, rob, udit, garry
     - Starting an ON co-op:
         - https://www.ic.gc.ca/eic/site/106.nsf/eng/h_00073.html#ontario
         -  https://www.ontario.coop/starting-co-operative
-- [ ] dawn: to focus on adding coop  resources to (a) pad?
+- [ ] dawn: to focus on adding coop resources to (a) pad?
 - [ ] aaron: move meeting notes into the repo (see https://hackmd.io/BqPYmfK1RfCRG7Yi_aEk0A)
