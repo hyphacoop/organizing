@@ -1,5 +1,5 @@
-Retreat Planning Meeting # 1 (Oct 03)
-=============================
+Retreat Planning Meeting # 1 03 Oct
+===================================
 
 [🗓 Calendar](https://calendar.google.com/calendar/embed?src=s2224p8sptnujs736vplf9anjo%40group.calendar.google.com&ctz=America%2FToronto)  
 [📑 Retreat Planning Board](https://github.com/cryptographydog/december-meetup/projects/1)  
