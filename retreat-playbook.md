@@ -214,6 +214,23 @@ This is a broad overview of the steps required to start a worker co-op that shou
 - What the retreat is for and our aims for today
 - Logistics
     - Recording this meeting
+    - [Shared notepad](https://hackmd.io/PbNVbPUhSTKL7oEtnrzpuw)
+    - Making decisions will be through full consensus of those present
+- How we will work together, proposed group agreements:
+    - Shared responsibility for conversation (step up listening, step up speaking)
+    - One person speaking at a time
+    - Honest respect with each other
+    - Focused, on topic discussion
+    - Keep each other on time
+    - Device-free
+
+*Facilitator: Dawn*  
+*Scribe: Ben (ensure how we work is documented)*
+
+- How we got here
+- What the retreat is for and our aims for today
+- Logistics
+    - Recording this meeting
     - Shared document (new)
     - Making decisions will be through full consensus of those present
 - How we will work together
