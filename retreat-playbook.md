@@ -212,7 +212,7 @@ This is a broad overview of the steps required to start a worker co-op that shou
 
 - How we got here
 - What the retreat is for and our aims for today
-- Logistics
+- Logistics:
     - Recording this meeting
     - [Shared notepad](https://hackmd.io/PbNVbPUhSTKL7oEtnrzpuw)
     - Making decisions will be through full consensus of those present
