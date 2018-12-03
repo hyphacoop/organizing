@@ -1,5 +1,5 @@
-Toronto Worker Co-op 2019
-=========================
+People's Interest and Availability for 2019
+===========================================
 
 ## Availability
 
@@ -33,15 +33,3 @@ Toronto Worker Co-op 2019
 * **elon** I am interested on working with decentralized / offline networks, learning new technologies, and skills. I would like to work on various projects with people that have the same interest and mindset. I also would like working with hardware and getting them to talk to one another. I have experience in system administration, networking, and managing infrastructure. I am willing to contribute my time into this cooperative.
 
 * **rob** My primary interest here is in the idea/experiment of setting up the worker co-op itself. Specifically I hope to contribute to shaping: organizational structure, governance models, the value proposition to members, business model. Designing a system that supports everyone’s professional preferences, in terms of the content of the work and the lifestyle afforded, is the intriguing part for me. I hope I can be useful in synthesizing input, helping the group to locate consensus, and articulating a collective vision. My background is in the arts and I spent several years advising large public and private sector organizations as an innovation, brand, and foresight strategist at a management consultancy with a heavy design bent.
-
-## Resources
-
-* https://handbook.enspiral.com/agreements/people.html
-* https://www.rootsystems.nz/
-* We could talk to the [oat.tao](http://tao.ca/) or [anarres.ca](http://anarres.ca/) (old tech worker co-op!) folks still in toronto 
-
-## Similar Organizations
-
-* [Koumbit.org](https://www.koumbit.org/en/about) - Montreal
-* [Enspiral](https://enspiral.com/) - NZ
-* [May First/People Link](https://mayfirst.org/en/) - Binational, based in the US and Mexico
