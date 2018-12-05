@@ -6,7 +6,7 @@ Toronto Workers Co-op offline.systems Process Meeting (Part 2)
 
 Time: 14 Sep 2018 4:30 pm EST  
 Location: https://appear.in/offline  
-Attending: Aaron, Benedict, Dawn, Garry, Elon??  
+Attending: ansuz, benhylau, dcwalk, garry, elon??  
 
 [TOC]
 
