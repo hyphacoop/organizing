@@ -22,7 +22,6 @@ Attending: benhylau, evan
 
 * Generally, before funding PL loves
     * clear goals that are easy to evaluate progress on where everyone can see benefits of
-    * https://docs.google.com/spreadsheets/d/10p9kCi5BwNPXD5LKpT-t0mbkTeT8wTHw85s-7A6zopM/edit#gid=0
     * https://docs.google.com/spreadsheets/d/1Lfd91hi3nFlLRS1r-FHvK2ip2Ll6ukraufCgepw43bw/edit#gid=94942032
 * 2018 goals sound okay
     * fund SSBC-style grants for curriculum development for facilitators
