@@ -232,7 +232,7 @@ This is a broad overview of the steps required to start a worker co-op that shou
 
 - Each person will spend 5 minutes to share their thoughts from the solo activities
 - Prompt for break: 
-    > What impact do want this co-operative to have on its members, on society, and on larger ecosystems (bioregions) over the next 10 years?
+    > What impact do we want this co-operative to have on its members, on society, and on larger ecosystems (bioregions) over the next 10 years?
 
 ### Co-drafting vision & mission
 
