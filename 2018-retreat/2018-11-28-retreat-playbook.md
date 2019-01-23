@@ -1,7 +1,7 @@
 :palm_tree: Cryptography.dog Retreat Playbook :palm_tree:
-=================================
+=========================================================
 
-**Status**: *Finalized, Nov 28 2018*  
+**Status**: *Finalized Nov 28, 2018*  
 After finalization, all members can fork their own hackpad copy for using the playbook.
 
 [TOC]
@@ -10,7 +10,7 @@ After finalization, all members can fork their own hackpad copy for using the pl
 
 A [group of individuals]( https://hackmd.io/BqPYmfK1RfCRG7Yi_aEk0A)–community organizers, researchers, technologists, designers, and dreamers–have indicated their desire to form a worker co-op. We're holding a retreat to establish our collective vision, align on shared values, consider ways of working together, and plan future activities.
 
-This **Retreat Playbook** is designed by a sub-comittee of volunteers. It contains context, pre-read material, and solo exercises to be conducted *before our retreat* to accelerate the process of finding common ground *during our retreat*. 
+This **Retreat Playbook** is designed by a sub-committee of volunteers. It contains context, pre-read material, and solo exercises to be conducted *before our retreat* to accelerate the process of finding common ground *during our retreat*. 
 
 In addition to this playbook, we will be using [Loomio](https://loomio.cryptography.dog) for remote collaboration on certain decisions.
 
@@ -37,7 +37,7 @@ To ensure the sync time we have together is productive, we are asking all meetin
 
 ### Readings
 
-*Time Required: 3 hours*  
+*Time Required: 1-4 hours*  
 *When to do: Before Day 1*
 
 During the retreat you're encouraged to share a few thoughts from the following readings:
@@ -64,7 +64,7 @@ _____________________________________
 
 ### Solo Visioning Exercise
 
-*Time Required: 1.5 hours*  
+*Time Required: 1 hour*  
 *When to do: Before Day 1*
 
 If you are unfamiliar with or would like a refresher on our use of the terms **mission**, **vision**, and **values**, review the reference material (if needed) in [Appendix A](#Appendix-A-Reference-Material-on-Mission-Vision-Values). The solo activities that follow will help us establish the shared vision of this cooperative.
@@ -184,7 +184,7 @@ This is a broad overview of the steps required to start a worker co-op that shou
 | 3. Hold an organizing meeting | :palm_tree: Retreat meetings on Dec 4 & 8 :palm_tree: |
 | 4. Conduct a viability study  | Draft business plan and conduct feasibility study (including approach to Y1 financing) |
 | **PHASE III - ORGANIZING AND GETTING STARTED** || 
-| 5. Organize the association <br> Set up adhoc committies such as: <br> - Planning <br> - Tools <br> - Drafting by-laws | Draft bylaws and recommendation to submit articles of incorporation <br> Early identified issues: <br>- Nature of Board (all, subset?) <br> - Nature of Membership (tiers, flat?) <br> - Nature of Capital (shares, buy-in?) <br> - Nature of Profit (how to manage surplus; see FSCO Guide) |
+| 5. Organize the association <br> Set up adhoc committees such as: <br> - Planning <br> - Tools <br> - Drafting by-laws | Draft bylaws and recommendation to submit articles of incorporation <br> Early identified issues: <br>- Nature of Board (all, subset?) <br> - Nature of Membership (tiers, flat?) <br> - Nature of Capital (shares, buy-in?) <br> - Nature of Profit (how to manage surplus; see FSCO Guide) |
 | 6. Organize the enterprise <br> - Plan the operations <br> - Plan start up financing <br> - Recruit and train staff <br> - Ensure legal compliance | Consult a lawyer over by-laws <br> Prepare member handbook: <br> - Connecting by-laws and our working processes through our values <br> - Plain-language duties and checklists for required roles (president, secretary, finance person) <br> - What it means to be a good member <br> - Archive of agreements and minutes <br> - Guide to our ways of working | 
 | 7. Hold the initial General Meeting | By-laws must be adopted within 18 months |
 
@@ -224,17 +224,6 @@ This is a broad overview of the steps required to start a worker co-op that shou
     - Keep each other on time
     - Device-free
 
-*Facilitator: Dawn*  
-*Scribe: Ben (ensure how we work is documented)*
-
-- How we got here
-- What the retreat is for and our aims for today
-- Logistics
-    - Recording this meeting
-    - Shared document (new)
-    - Making decisions will be through full consensus of those present
-- How we will work together
-    - [add bootstrap list]
 
 ### 5-minute sharebacks
 
@@ -243,7 +232,7 @@ This is a broad overview of the steps required to start a worker co-op that shou
 
 - Each person will spend 5 minutes to share their thoughts from the solo activities
 - Prompt for break: 
-    > What impact do want this co-operatives to have on its members, on society, and on larger ecosystems (bioregions) over the next 10 years?
+    > What impact do we want this co-operative to have on its members, on society, and on larger ecosystems (bioregions) over the next 10 years?
 
 ### Co-drafting vision & mission
 
@@ -262,7 +251,7 @@ This is a broad overview of the steps required to start a worker co-op that shou
     ```
 - Consense on Vision & Mission completed template
 - Develop potential draft Mission and Visions statements to be iterated on Loomio
-  - Remember: the words don't don't have to be perfect! The final wordsmithing happens afterwards
+  - Remember: the words don't have to be perfect! The final wordsmithing happens afterwards
 
 ### Finding value alignment
 
@@ -271,7 +260,7 @@ This is a broad overview of the steps required to start a worker co-op that shou
 
 - Co-draft list of values
 - Consense on **broad alignment** present in collected values as reflective of the participants of this cooperative
-  - Remember: the values are not finalized! This is an early group of collected approaches, motivations, and committments
+  - Remember: the values are not finalized! This is an early group of collected approaches, motivations, and commitments
 
 ## Retreat Async Work
 
@@ -316,12 +305,12 @@ This is a broad overview of the steps required to start a worker co-op that shou
     - Legal requirements (Pre-retreat work)
     - Individual availability and needs (Retreat Async work)
     - Membership status and constraints
-    - Grants, supporting ourselves, work opportunities
+    - Grants, supporting ourselves, and work opportunities
     - Understanding risks
     - Anything missing?
 - Generate list of milestones together and discuss scope:
     - What needs to happen based on above?
-- Order list of milestones chronlogically
+- Order list of milestones chronologically
     - What's the most important and what are the dependencies?
     - How will we work moving forward?
 
@@ -330,7 +319,7 @@ This is a broad overview of the steps required to start a worker co-op that shou
 *Facilitator/Scribe: Dawn*  
 *Timekeeper: Ben*
 
-- Idenitify dates for each milestone according to previously discussed factors
+- Identify dates for each milestone according to previously discussed factors
     - When will it happen?
 - Cluster identified milestones and activities by category, eg: tools, legal, etc.
 - Establish working groups (including a shepherd) for determined categories and assign milestones to hit
@@ -342,10 +331,10 @@ This is a broad overview of the steps required to start a worker co-op that shou
 
 - Check in on current tools and practices we use to facilitate decision making 
 - Consense on checklist of how working groups will make decisions and describe practices and workflows
-    - How do people make desisions
+    - How do people make decisions
     - How will working groups communicate
     - How can people participate
-- Consense on how we will use existing tools (or test others others):
+- Consense on how we will use existing tools (or test others):
     - Loomio
     - Shared Calendar
     - GitHub (GitLab)
