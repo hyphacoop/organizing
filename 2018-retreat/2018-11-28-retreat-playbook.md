@@ -8,7 +8,7 @@ After finalization, all members can fork their own hackpad copy for using the pl
 
 ## Background
 
-A [group of individuals](people.md)–community organizers, researchers, technologists, designers, and dreamers–have indicated their desire to form a worker co-op. We're holding a retreat to establish our collective vision, align on shared values, consider ways of working together, and plan future activities.
+A [group of individuals](/people.md)–community organizers, researchers, technologists, designers, and dreamers–have indicated their desire to form a worker co-op. We're holding a retreat to establish our collective vision, align on shared values, consider ways of working together, and plan future activities.
 
 This **Retreat Playbook** is designed by a sub-committee of volunteers. It contains context, pre-read material, and solo exercises to be conducted *before our retreat* to accelerate the process of finding common ground *during our retreat*. 
 
