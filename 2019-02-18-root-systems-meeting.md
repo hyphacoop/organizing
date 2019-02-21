@@ -36,7 +36,7 @@ Attending: patcon, mikey@enspiral/root, benhylau, dan@bamboo/root
 - Education for "how to be a co-op owner" would have been great idea! -- Dan
 - Great to be transparent externally, but focus on **accessible info** internally. -- Dan
 - Good step one: build informal network of ally orgs. Directory. -- Dan
-- "Member hiatus" policy hightly recommended so that only active members have votes. (See: Enspiral)
+- "Member hiatus" policy highly recommended so that only active members have votes. (See: Enspiral)
 
 ## Notes
 
