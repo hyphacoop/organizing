@@ -1,3 +1,7 @@
+---
+source: https://hackmd.io/s/Bk9t2FNLN
+---
+
 # 2019-02-27 Toronto Workers Co-op: All-Hands Meeting
 
 <sup>[from template][template]</sup>
