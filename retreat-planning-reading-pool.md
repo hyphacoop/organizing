@@ -71,6 +71,7 @@ Collaboration, Methodologies (Could be merged with the above?? 🤔):
 
 New Economies:
 - :globe_with_meridians: [Center for Global Justice: Solidarity Economy Directory](https://globaljusticecenter.org/solidarity-economy-directory/International)
+- :globe_with_meridians: [The Future of Social Economy Leadership and Organizational Composition in Canada: Demand from Demographics, and Difference through Diversity](https://journals.openedition.org/interventionseconomiques/2794)
 
 Commons, anti-capitalism:
 - :books: Elinor Ostrom (1990) *Governing the Commons* (dawn has a copy)
