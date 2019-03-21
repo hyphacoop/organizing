@@ -53,6 +53,7 @@ Civics, Tech, Politics:
 - :globe_with_meridians: [Diana Nucera "Two-way Streets: Forging the Paths Towards Participatory Civic Technology"](https://civicquarterly.com/article/two-way-streets/)
 - :globe_with_meridians: [Design Justice Principles](http://designjusticenetwork.org/network-principles/)
 - :globe_with_meridians: [From "Openness" to Justice](http://hackeducation.com/2014/11/16/from-open-to-justice)
+- :page_facing_up: [Indigenous Cooperatives in Canada: The Complex Relationship Between Cooperatives, Community Economic Development, Colonization, and Culture](http://www.jeodonline.com/sites/jeodonline.com/files/articles/2015/08/13/6sengupta13aug2015.pdf)
 
 Collaboration, Methodologies (Could be merged with the above?? 🤔):
 - :globe_with_meridians: [Study Collaboration](http://studycollaboration.com)
@@ -70,6 +71,7 @@ Collaboration, Methodologies (Could be merged with the above?? 🤔):
 
 New Economies:
 - :globe_with_meridians: [Center for Global Justice: Solidarity Economy Directory](https://globaljusticecenter.org/solidarity-economy-directory/International)
+- :globe_with_meridians: [The Future of Social Economy Leadership and Organizational Composition in Canada: Demand from Demographics, and Difference through Diversity](https://journals.openedition.org/interventionseconomiques/2794)
 
 Commons, anti-capitalism:
 - :books: Elinor Ostrom (1990) *Governing the Commons* (dawn has a copy)
