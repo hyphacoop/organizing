@@ -8,7 +8,7 @@ filename: -meeting-template.md
 [:date: Calendar][cal] | [:cat: GitHub][gh] | [:open_file_folder: GDrive][gdrive]
 
 Time: ...  
-Location: https://appear.in/offline  
+Location: https://meet.jit.si/offline  
 Attending: ...
 
 [TOC]
