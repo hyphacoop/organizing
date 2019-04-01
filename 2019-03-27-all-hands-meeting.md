@@ -1,6 +1,3 @@
----
-filename: -meeting-template.md
----
 # 2019-03-27 Toronto Workers Co-op: All-Hands Meeting
 
 <sup>[from template][template]</sup>
