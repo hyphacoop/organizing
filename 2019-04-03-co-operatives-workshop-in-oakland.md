@@ -12,6 +12,7 @@ Attending: Danny Spitzberg, Eugene, Pam, Ben + 3 other workshop participants
 
 ## Notes
 
+- Ben learnt of a co-operative workshop through Pam, hosted by Danny and Eugene, so they went...
 - [User Worker Owner](https://docs.google.com/document/d/1HGawyGojIBAxvkCQUrWGQWSEwZDPmY0wslvrujWYogI/edit)
     - May do an event in May this year
     - Remote participation by livestream
