@@ -83,6 +83,7 @@ Commons, anti-capitalism:
 - :page_facing_up: Yochai Benkler [Commons-Based Peer Production and Virtue](https://nissenbaum.tech.cornell.edu/papers/jopp_235.pdf)
 - :page_facing_up: Stavros Stavrides [Common Space: The City as Commons](https://zajednicko.org/mreznabibliografija/wp-content/uploads/sites/2/2018/04/Stavrides-Stavros_Common-Space-The-City-as-Commons.pdf)
 - :clapper: Richard Sennett [The Decline of the Skills Society](https://www.youtube.com/watch?v=mjd5iM42APA)
+- :globe_with_meridians: Scott Alexander [Meditations On Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
 Reqs for co-ops in Canada (Federal, Ontario) see [**research document**](https://hackmd.io/s/SJwTqa767#):
 - :page_facing_up: [Registering a coop - Official Guide by Financial Services Commision of Ontario](https://www.fsco.gov.on.ca/en/coops/Documents/register_co-ops-guide.pdf)
