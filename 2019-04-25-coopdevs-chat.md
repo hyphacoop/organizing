@@ -1,4 +1,5 @@
 ---
+source_url: https://hackmd.io/V9joJrlrSvWed0-ez2Phag
 ---
 # 2019-04-25 Toronto Workers Co-op: CoopDevs Chat
 
