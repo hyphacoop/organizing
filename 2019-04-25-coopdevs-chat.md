@@ -59,7 +59,7 @@ Attending: patcon, dcwalk, ben&ferran, pau
 - Grant as a means to start and consolidate projects.
     - ERP (resource planning) example: goal is that next year should be in market and switch to customer revenue v. grant
     - lucky: city gov and catalan govt eager to fund coop and solidarity econ
-        - [research group at catalon university](https://www.uoc.edu/portal/en/in3/recerca/grups/digital_commons) are big fans of platform coop and them (pilot proj & EU funding)
+        - [research group at Catalunya university](https://www.uoc.edu/portal/en/in3/recerca/grups/digital_commons) are big fans of platform coop and them (pilot proj & EU funding)
         - for Katuma digital platform coop
         - coopdevs initated it as a kind of little incubator, each member has many projects
 - org has accumulated many projects
