@@ -76,7 +76,7 @@ Attending: patcon, dcwalk, ben&ferran, pau
     - time tracking: trello or [Toggl](https://www.toggl.com/trello-time-tracking/) are we winning/losing money? How much productive/reproductive work are we doing? Which projects are we investing more. We are using closed source toggl.com . "our" tool [Odoo](https://www.odoo.com/) has some feature for time tracking but it's a little clumsy.
     - Odoo is an enterprise solution. Focused on CRM, invoicing, accounting, ...  and has miriads of modules. Companies try to fit everything inside it.
 - making decisions
-    - initial difference on contracts of wokers with owner-workers in the legal and responsability plane, but info and decision making is shared. 
+    - initial difference on contracts of workers with owner-workers in the legal and responsibility plane, but info and decision making is shared
     - quarterly planning
     - play it fairly casual (in response to advice process vs consensus etc)
     - project lead (both for internal and customer-facing)
