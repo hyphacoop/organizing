@@ -16,7 +16,7 @@ Attending: patcon, dcwalk, ben&ferran, pau
 ## Agenda
 
 - Intros
-    - Hypha Workers Co-op
+    - Hypha Worker Co-op
     - CoopDevs
 - Open Questions (from [question bank](https://docs.google.com/spreadsheets/d/1vjnT0afFh-Ss1BCYZg7nuLyjwZqzRLsSzkhej_OdoFo/edit#gid=348272266))
 
