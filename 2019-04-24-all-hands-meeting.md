@@ -130,7 +130,7 @@ Notetaker:
 ### DC collaboration
 
 - Shared a document as a pitch to have both a project in hypha that features in her dissertation work, [pitch pad]( https://hackmd.io/kLoRWrsnQAGg29pVtZvYSQ?view)
-- Timline: drafting proposal, have to defend end of May, would be starting fieldwork July/August
+- Timeline: drafting proposal, have to defend end of May, would be starting fieldwork July/August
 - Happy to share draft proposal (tho it is 30 pages!!)
 - This is all pitch, would be the beginning of a conversation!
 - **Consensed to go ahead** (more to come!)
