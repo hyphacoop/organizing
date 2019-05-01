@@ -1,33 +1,17 @@
-Retreat Planning Reading Pool
-=============================
-
-Let's collect readings for the the retreat here. 
-
-## Proposed Approach
-
-To make this manageable for everyone, let's try breaking this work up into a few stages:
-
-**Stage 1: Creating a long-list** of links, readings, topics, podcasts, discussions, videos (really any type of content) that people think is interesting and relevant to the co-op. During this stage it's totally okay if the list is pretty noisy because it would be good to have a divergent set of ideas. If you're on the fence about something being worth putting here, lean towards putting it in.
-
-**Stage 2: Determining the most imporant themes** after discussing what was collected in stage 1, during a planning meeting (Oct 17th??).
-
-**Stage 3: Creating a short list of readings**
-
----
-
-## Stage 1 Long List [ we are here ]
+Reading Pool
+============
 
 :::info
 **Legend**
 :globe_with_meridians: Web/online resources `:globe_with_meridians:`
-:page_facing_up: PDF reports or articles `:page_facing_up:` 
+:page_facing_up: PDF reports or articles `:page_facing_up:`
 :speaker: Audio`:speaker:`
 :clapper: Video `:clapper:`
 :bulb: Wild ideas `:bulb:`
 :::
 
 
-**7 International Co-operative Principles**: *** 
+**7 International Co-operative Principles**: ***
 - :globe_with_meridians: [ICA Cooperative identity, values & principles](https://www.ica.coop/en/whats-co-op/co-operative-identity-values-principles)
 - :page_facing_up: [ICA Guidance Notes to the Co-operative Principles](https://www.ica.coop/sites/default/files/publication-files/ica-guidance-notes-en-310629900.pdf)
 - :globe_with_meridians: [Willy Street Seven Cooperative Principles](https://www.willystreet.coop/seven-cooperative-principles)
@@ -47,7 +31,7 @@ Tech Worker Co-ops:
 - :page_facing_up: [Balancing Performance with Principles in Coops and Mutuals, Report by Ernst and Young](https://www.ey.com/Publication/vwLUAssets/Enlightened_co-operative_governance/$FILE/Enlightened%20co-operative%20governance_EN.pdf)
 - :bulb: Some form of co-op member interviewing?
 
-Civics, Tech, Politics: 
+Civics, Tech, Politics:
 - :globe_with_meridians: [Paul Frazee "Information Civics"](https://infocivics.com/)
 - :page_facing_up: [Langdon Winner "Do Artifacts have Politics"](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 - :globe_with_meridians: [Diana Nucera "Two-way Streets: Forging the Paths Towards Participatory Civic Technology"](https://civicquarterly.com/article/two-way-streets/)
@@ -79,7 +63,7 @@ Commons, anti-capitalism:
 - :page_facing_up: JK Gibson-Graham, J Cameron, & S Healy (2016) "Commoning as a postcapitalist politics" In *Releasing the Commons: Rethinking the futures of the commons*
 - :page_facing_up: G Caffentzis, S Frederici (2014) "Commons against and beyond capitalism"
 - :page_facing_up: S Frederici (2011) "Feminism and the politics of the commons"
-    - **Talk in Toronto**: :calendar: [22 Jan 2019, 16:00-18:00](http://complit.utoronto.ca/events/silvia-federicis-public-lecture-tba/) 
+    - **Talk in Toronto**: :calendar: [22 Jan 2019, 16:00-18:00](http://complit.utoronto.ca/events/silvia-federicis-public-lecture-tba/)
 - :page_facing_up: Yochai Benkler [Commons-Based Peer Production and Virtue](https://nissenbaum.tech.cornell.edu/papers/jopp_235.pdf)
 - :page_facing_up: Stavros Stavrides [Common Space: The City as Commons](https://zajednicko.org/mreznabibliografija/wp-content/uploads/sites/2/2018/04/Stavrides-Stavros_Common-Space-The-City-as-Commons.pdf)
 - :clapper: Richard Sennett [The Decline of the Skills Society](https://www.youtube.com/watch?v=mjd5iM42APA)
@@ -96,8 +80,3 @@ Why decentralize?
 - :clapper: Sarah Friend [Decentralization and its Discontents](https://www.youtube.com/watch?v=Km6EYsBYAlY) at Radical Networks 2018
 - :page_facing_up: Nathan Schnieder n.d. "Decentralization: An Incomplete Ideology" (ask dawn for pdf)
 - :globe_with_meridians: [Data Together Reading List](https://github.com/datatogether/reading_datatogether) or [Zotero Group](https://www.zotero.org/groups/datatogether)
-  
-
-## Stage 2 Imporant Themes
-
-## Stage 3 Short List
