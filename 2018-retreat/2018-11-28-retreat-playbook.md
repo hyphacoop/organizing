@@ -1,5 +1,5 @@
-:palm_tree: Cryptography.dog Retreat Playbook :palm_tree:
-=========================================================
+:palm_tree: Tech Worker Co-op Retreat Playbook :palm_tree:
+==========================================================
 
 **Status**: *Finalized Nov 28, 2018*  
 After finalization, all members can fork their own hackpad copy for using the playbook.
