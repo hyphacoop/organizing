@@ -62,7 +62,10 @@ Attending: patcon, dcwalk, ben&ferran, pau
         - [research group at Catalunya university](https://www.uoc.edu/portal/en/in3/recerca/grups/digital_commons) are big fans of platform coop and them (pilot proj & EU funding)
         - for Katuma digital platform coop
         - coopdevs initated it as a kind of little incubator, each member has many projects
-- org has accumulated many projects
+
+![coopdevs projects](https://i.imgur.com/dozQl5n.jpg)
+
+- org has accumulated many projects (above diagram shows members responsible for them)
     - examples: internal tech, communication (social nw), katuma, timeoverflow...
     - coop telecom = 30% income
     - but most weight in income: SomConnexió (telecom), OpenFoodNetwork
