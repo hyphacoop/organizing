@@ -65,7 +65,9 @@ Attending: patcon, dcwalk, ben&ferran, pau
 
 ![coopdevs projects](https://i.imgur.com/dozQl5n.jpg)
 
-- org has accumulated many projects (above diagram shows members responsible for them)
+- org has accumulated many projects
+  - above diagram shows members responsible for them
+  - note: ferran+antonio (less responsibilities) are non-member staff; rest are member-owners
     - examples: internal tech, communication (social nw), katuma, timeoverflow...
     - coop telecom = 30% income
     - but most weight in income: SomConnexió (telecom), OpenFoodNetwork
