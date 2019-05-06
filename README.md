@@ -1,4 +1,4 @@
-# 
+# Hypha Co-op: Organizing
 
 Coordination and documents for Hypha, a worker co-operative based out of Ontario, Canada.
 
