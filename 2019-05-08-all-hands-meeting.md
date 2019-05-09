@@ -45,7 +45,7 @@ Notetaker:
   - Opportunities and Proposals 
     - dc: pitch collaboration as part of her dissertation work (done last time - any more discussions required?): https://hackmd.io/kLoRWrsnQAGg29pVtZvYSQ?view dc: timeline on discussion could comfortably wait until June, July
   - [Transition of Infrastructure](https://loomio.cryptography.dog/d/WbpzjRho/transition-virtual-office-to-co-operative-name-and-identity) (and Cleanup)
-    - cleanup: github "december-retreat", reading pool
+    - cleanup: GitHub "december-retreat", reading pool
     - decision: [google drive and opportunities sheet](https://loomio.cryptography.dog/d/WbpzjRho/transition-virtual-office-to-co-operative-name-and-identity)
     - decision: [internal domain](https://loomio.cryptography.dog/d/GF980QVL/domain-name-selection)
     - decision: [chat rooms](https://loomio.cryptography.dog/p/p6ZJPTB7/matrix-room-rename-to-hypha_-tomesh-net)
@@ -84,8 +84,9 @@ Notetaker:
     - Double-back later
 - [Governance][gov-wg]
     - Loomio tidying
-    - Call with Fourth Pig coming up
-    - Montreal non-profit coop called _Koubit_. patcon will be in MTL mid-june.
+    - Call with _Fourth Pig_ coming up
+    - Montreal non-profit coop called _Koubit_
+        - patcon will be in Montreal mid-June
     - Process: Loomio thread for convo. Interview notes are in Google Drive Sheet, with notes to be published on GitHub.
 - [Infra & Ops][ino-wg]
     - To be resolved: Domain question (internal vs external) (deferred to later convo)
@@ -129,14 +130,14 @@ Notetaker:
         - patcon: potentially not a staging area with the CRM consideration
         - Temporality of staging (week, year, 2 years?)
         - Premature optimization?
-        - e.g. keybase, hosted Nextcloud
+        - e.g. Keybase, hosted Nextcloud
             - Hosted by other services? e.g. finances
         - For later discussion:
             - Long term Nextcloud might be a good idea
                 - Service we could offer to others
         - Okay for using Google Drive as temporary/long-term location
         - **Consensed in check-in (vote) to set up public/private nested Google Drive structure**
-    - is this duplicating work (is it a sustainable method)? 
+    - Is this duplicating work (is it a sustainable method)? 
         - Separate docs
         - EDGI: 2 years scaling with minimal issues
     - #todo: patcon to try out proposed structure to see if top-level is world viewable (permissions)
@@ -188,7 +189,7 @@ Notetaker:
     - udit M.I.A. for most of June
     - **cultivator for rest of May: dc**
     - **cultivator for June: patcon**
-- dc: happy to cultivate, but mostly unavai June-July
+- dc: happy to cultivate, but mostly unavailable June-July
 - _Announcements_ section would be nice to have in Agenda
 
 
