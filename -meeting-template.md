@@ -15,21 +15,33 @@ Attending: ...
 
 ## Agenda
 
+- Previous Action Items
+- Runthrough Announcements and Updates (add below)
 - Quick Working Group Updates (10 mins)
     - [Business Planning][biz-wg]
     - [Finance][fin-wg]
     - [Governance][gov-wg]
     - [Infra & Ops][ino-wg]
+- Discussion
+    ...
+
+## Announcements
+
 - ...
 
 ## Notes
 
 - ...
 
-## Actionable Items
+## Follow Up
+
+### Actionable Items
 
 - [ ] ...
 
+### Upcoming Discussions
+
+- ...
 
 <!-- Links -->
 [template]: https://hackmd.io/0mgHiik2QwOLbOT-2_Uh7w?edit
