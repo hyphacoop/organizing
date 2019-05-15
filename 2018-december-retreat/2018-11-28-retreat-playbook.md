@@ -31,7 +31,7 @@ To ensure the sync time we have together is productive, we are asking all meetin
 
 - Sign up to [Loomio](https://loomio.cryptography.dog) and fill out your profile :v: 
 - Read essential and selected [Readings](#Readings)
-- Complete the [Solo Visioning Exercise](#Solo-Visioning-Ehttps://github.com/hyphacoop/organizing/blob/add-retreat-docsxercise)
+- Complete the [Solo Visioning Exercise](#Solo-Visioning-Exercise)
 - Complete the [Solo Values Prioritization Exercise](#Solo-Values-Prioritization-Exercise)
 - Review the [Summary of Legal Requirements](./ontario-coop-requirements.md)
 
