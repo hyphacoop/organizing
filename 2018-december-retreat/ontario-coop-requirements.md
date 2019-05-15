@@ -66,7 +66,7 @@ the Co-op Development "[Advisory Services Application](https://ontario.coop/appl
 
 - A worker co‐op exists primarily to create employment for its members.
 - All members of a worker co‐operative must be employees, but not all employees must be members... At least 75% of all employees must be members and at least 75% of permanent, full-time employees must be members.
-- > [name=patcon] was curious what this meant in practice, so [sketched out](Diagramming co-op membership rules https://imgur.com/gallery/AmdyFNr)
+  - [**@patcon**](https://github.com/patcon) was curious what this meant in practice, so [sketched out](https://imgur.com/gallery/AmdyFNr) a diagramming of co-op membership rules
 - A possible pitfall of worker co‐ops may occur when there is no clear or accessible path from employment to membership.
 - ServiceOntario is responsible for the incorporation of co-operative corporations (co-ops) in Ontario
 - Financial Services Commission of Ontario (FSCO) oversees aspects of co-op regulation under the Co-operative Corporations Act.
