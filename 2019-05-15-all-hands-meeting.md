@@ -12,6 +12,7 @@ Attending:
 - garry
 - dc (cultivator)
 - ben
+- patcon
 
 Notetaker:  
 - [ ] benedict  
