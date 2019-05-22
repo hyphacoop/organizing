@@ -78,7 +78,7 @@ Notetaker:
 - Review of previous action items
 - Toolchain discussion - one more week
 - Review infra transfer and flag as actionable items
-- Announcements section (please add if)
+- Announcements section (please add in)
 
 ### Working group updates
 
@@ -92,7 +92,6 @@ Notetaker:
 - [Governance][gov-wg]
     - Waiting on meeting with Fourth Pig (were given other leads)
     - In person meeting with Danny Spitzberg time poll https://www.when2meet.com/?7825838-NfcEa
-
 - Discussion Prioritization
     - Remote participation and building trust
     - beginning of business planning
@@ -145,8 +144,22 @@ Notetaker:
 
 ### Upcoming Discussions
 
-- **late-MAY** Review business plan and Y1 strategic/financial plan
+- **late-MAY** Review business plan and Y1 strategic/financial plan. Key discussion points:
+    - Competitive positioning
+    - Project pricing
+    - Sweat equity
+    - Wage (Living Wage, Guaranteed Income)
+    - Relationship of "billable" and "non-billable" work and compensation
+- Check-in on note-taking software
+  - +template change? "Announcements," "Standing Items (e.g., opportunities, project check-in)" section
+- Design jamming continues
 - **late-MAY** Articles of Incorporation
+- Opportunities and Proposals 
+    - Hosting our own cloud (e.g., Nextcloud instance) for others too
+- Check-in on [Transition of Infrastructure](https://loomio.cryptography.dog/d/WbpzjRho/transition-virtual-office-to-co-operative-name-and-identity) (and Cleanup)
+    - decision: [using shortlinks in official way](https://loomio.cryptography.dog/d/GF980QVL/domain-name-selection/14)
+- **early-JUN** Check-in [dc's research/study proposal](https://hackmd.io/kLoRWrsnQAGg29pVtZvYSQ?view)
+- **early-JUN** Finances software
 
 <!-- Links -->
 [template]: https://github.com/hyphacoop/december-retreat/blob/master/-meeting-template.md
