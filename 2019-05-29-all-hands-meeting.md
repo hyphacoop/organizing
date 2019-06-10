@@ -1,4 +1,4 @@
-# 2019-05-27 Toronto Workers Co-op: All-Hands and Business Planning
+# 2019-05-29 Toronto Workers Co-op: All-Hands Meeting
 
 <sup>[from template][template]</sup>
 
@@ -23,9 +23,6 @@ Notetaker:
 - [~] yurko  
 
 [TOC]
-
-
-# Wednesday May 29
 
 ## Agenda 
 
@@ -140,11 +137,7 @@ Start with three pitches:
 #### 8. Strategic Plan (lite)
 
 
-
 #### 9. Review/walkthrough Articles of Incorporation
-
-
-
 
 
 ## Follow Up
