@@ -6,7 +6,7 @@
 
 Time: 17:00 - 18:00 EDT  
 Location: https://meet.jit.si/hyphacoop  
-Attending: patcon, dcwalk, garrying, elon, 
+Attending: patcon, dcwalk, garrying, elon, yurko (later) 
 
 Notetaker: garry
 
@@ -80,6 +80,7 @@ Notetaker: garry
 - TODO Patcon: A poll on project call schedule/cadence and format
 
 ### Task Tracking
+
 - For project work:
     - Get concensus with the project team on task management/tracking
 - Multiple levels and tools: internal projects with working groups and external groups
