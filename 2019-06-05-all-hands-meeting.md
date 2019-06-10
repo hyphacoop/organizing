@@ -41,6 +41,7 @@ Notetaker: garry
 ## Notes
 
 ### Working group updates
+
 - [Business Planning][biz-wg]
     - Updating of the business planning doc
     - Strategic and financial plan for first year
@@ -61,6 +62,7 @@ Notetaker: garry
         - Loomio decision
 
 ### Meeting Pace
+
 - Summer schedule is changing for people
     - Should we continue meeting weekly?
     - Getting over the hump of incorporation
@@ -98,7 +100,9 @@ Notetaker: garry
 - Maybe have the role accounted for with an incoming project and be a model for org-level PM process
 - Fuzzy multiple places: Loomio, GitHub, Google Doc, Hackmd, Chat
 
-## Actionable Items
+## Follow Up
+
+### Actionable Items
 
 - [ ] all: Review short-link implementation MVP
 - [ ] patcon: Create a Loomio thread on short link implementation
@@ -108,6 +112,24 @@ Notetaker: garry
 - [ ] patcon: update template with new format ([example](https://github.com/hyphacoop/organizing/blob/master/2019-05-15-all-hands-meeting.md))
 - [ ] patcon: migrate last week's notes to github
 - [ ] patcon: migrate these notes to github
+
+### Upcoming Discussions
+
+(Copied from May 27, 29 meeting)
+
+- Review Y1 strategic/financial plan:
+  - Compensation
+    - Relationship of "billable" and "non-billable" work and compensation
+    - Wage (Living Wage, Guaranteed Income)
+  - Financal Plan
+    - Y1 operating costs
+    - Projected income (profit-loss) statement
+  - Strategic Plan (lite)
+- Design jamming continues
+- Check-in on [Transition of Infrastructure](https://loomio.cryptography.dog/d/WbpzjRho/transition-virtual-office-to-co-operative-name-and-identity) (and Cleanup)
+    - decision: [using shortlinks in official way](https://loomio.cryptography.dog/d/GF980QVL/domain-name-selection/14)
+- Check-in [dc's research/study proposal](https://hackmd.io/kLoRWrsnQAGg29pVtZvYSQ?view)
+- Finances software
 
 
 <!-- Links -->
