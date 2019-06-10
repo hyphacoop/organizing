@@ -8,7 +8,7 @@ filename: -meeting-template.md
 [:date: Calendar][cal] | [:cat: GitHub][gh] | [:open_file_folder: GDrive][gdrive]
 
 Time: ...  
-Location: https://meet.jit.si/offline  
+Location: https://meet.jit.si/hyphacoop  
 Attending: ...
 
 [TOC]
@@ -44,7 +44,7 @@ Attending: ...
 - ...
 
 <!-- Links -->
-[template]: https://hackmd.io/0mgHiik2QwOLbOT-2_Uh7w?edit
+[template]: https://link.hypha.club/template
 [cal]: https://calendar.google.com/calendar/embed?src=s2224p8sptnujs736vplf9anjo%40group.calendar.google.com&ctz=America%2FToronto
 [gh]: https://github.com/cryptographydog/december-retreat
 [gdrive]: https://drive.google.com/drive/u/0/folders/14KYnYwOEK3InYZ3jCn-Gtf5q430sE9oc
