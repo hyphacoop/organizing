@@ -44,7 +44,7 @@ Attending: ...
 - ...
 
 <!-- Links -->
-[template]: https://link.hypha.club/template
+[template]: https://link.hypha.coop/template
 [cal]: https://calendar.google.com/calendar/embed?src=s2224p8sptnujs736vplf9anjo%40group.calendar.google.com&ctz=America%2FToronto
 [gh]: https://github.com/cryptographydog/december-retreat
 [gdrive]: https://drive.google.com/drive/u/0/folders/14KYnYwOEK3InYZ3jCn-Gtf5q430sE9oc
