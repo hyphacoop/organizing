@@ -10,7 +10,7 @@ Attending: patcon, dcwalk, garrying, elon, yurko (later)
 
 Notetaker: garry
 
-:raising_hand: Next: benedict, patcon, udit, dc, elon, yurko, garry
+:raising_hand: Next: benedict, patcon, udit, dc, elon, yurko, garry  
 <sup>Bump to end on taking turn :)</sup>
 
 [TOC]
