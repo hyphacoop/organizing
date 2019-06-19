@@ -51,7 +51,7 @@ Notetaker: ...
 [cal]: https://calendar.google.com/calendar/embed?src=s2224p8sptnujs736vplf9anjo%40group.calendar.google.com&ctz=America%2FToronto
 [gh]: https://github.com/hyphacoop/organizing
 [gdrive]: https://drive.google.com/drive/u/0/folders/14KYnYwOEK3InYZ3jCn-Gtf5q430sE9oc
-[biz-wg]: https://loomio.cryptography.dog/g/ojZI2bPl/working-groups-business-planning
-[fin-wg]: https://loomio.cryptography.dog/g/sRPwaorg/working-groups-finance
-[gov-wg]: https://loomio.cryptography.dog/g/BaAj6dQn/working-groups-governance-by-laws-incorporation-articles-gm-
-[ino-wg]: https://loomio.cryptography.dog/g/KvARWad7/working-groups-infrastructure-and-operations
+[biz-wg]: https://loomio.hypha.coop/g/ojZI2bPl/working-groups-business-planning
+[fin-wg]: https://loomio.hypha.coop/g/sRPwaorg/working-groups-finance
+[gov-wg]: https://loomio.hypha.coop/g/BaAj6dQn/working-groups-governance-by-laws-incorporation-articles-gm-
+[ino-wg]: https://loomio.hypha.coop/g/KvARWad7/working-groups-infrastructure-and-operations
