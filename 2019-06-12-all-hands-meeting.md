@@ -29,7 +29,7 @@ Notetaker: benedict
     - [ ] patcon: create loomio poll for new summer meeting/check-in cadence
     - [ ] garry+patcon: begin drafting org PM role definition
     - [x] patcon: update [template][template] with new call url
-    - [ ] patcon: update template with new format ([example](https://github.com/hyphacoop/organizing/blob/master/2019-05-15-all-hands-meeting.md))
+    - [x] patcon: update template with new format ([example](https://github.com/hyphacoop/organizing/blob/master/2019-05-15-all-hands-meeting.md))
     - [ ] dcwalk: migrate last week's 
     to github
     - [ ] dcwalk: migrate these notes to github
