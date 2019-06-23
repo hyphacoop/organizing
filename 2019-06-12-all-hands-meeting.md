@@ -108,10 +108,6 @@ Notetaker: benedict
 - [ ] elon: organizing larger infra strategy WG meetings
 - [ ] ben: Aether coordinating and scheduling first meetings
 
-### Upcoming Discussions
-
-- ...
-
 <!-- Links -->
 [template]: https://link.hypha.coop/template
 [cal]: https://calendar.google.com/calendar/embed?src=s2224p8sptnujs736vplf9anjo%40group.calendar.google.com&ctz=America%2FToronto
