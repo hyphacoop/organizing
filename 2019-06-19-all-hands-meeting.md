@@ -21,7 +21,7 @@ Notetaker: elon
     - [x] patcon: update [template][template] with new call url
     - [x] patcon: update template with new format ([example](https://github.com/hyphacoop/organizing/blob/master/2019-05-15-all-hands-meeting.md))
     - [x] patcon, garry: meet to discuss Admin PM & task tracking
-    - [ ] elon: organizing larger infra strategy WG meetings
+    - [x] elon: organizing larger infra strategy WG meetings
     - [x] ben: Aether coordinating and scheduling first meetings
 	    - [x] #action ben setting meeting with burak.
         - [x] #action add details to shared hackmd.
