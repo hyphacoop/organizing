@@ -85,6 +85,7 @@ Notetaker: elon
         - Password Manager
         - Better to "complete" (e.g. Loomio) one thing than start many things (e.g. shortlink, hackfoldr, password manager, timetracker are in this state atm)
         - Completion means pushing one thing into our regular workflow, whereas things that are spun-up but not adopted by all becomes a burden to maintain and adds to cog overload
+- Ben wants to on our next call try equal speaking time
 
 ## Follow Up
 
