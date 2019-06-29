@@ -97,10 +97,6 @@ Notetaker: elon
     - [ ] All: Discuss this item at next all-hands
 - [ ] All: reflect on how we can interact in ways that make things move forward (e.g. forcing each other to express how they feel as to make others feel more permissioned to push things forward more assertively)
 
-### Upcoming Discussions
-
-- ...
-
 <!-- Links -->
 [template]: https://link.hypha.coop/template
 [meetings]: https://link.hypha.coop/meetings
