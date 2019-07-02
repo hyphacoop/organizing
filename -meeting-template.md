@@ -1,4 +1,4 @@
-# YYYY-MM-DD Toronto Workers Co-op: All-Hands Meeting
+# YYYY-MM-DD Hypha Worker Co-op: All Hands Meeting
 
 <sup>[from template][template]</sup>
 
