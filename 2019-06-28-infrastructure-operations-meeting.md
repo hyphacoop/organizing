@@ -62,7 +62,7 @@ Notetaker: dc
         - chat to be disposable (anything important goes anywhere else)
         - love task manager... thinking about loomio and rel'n between task manager.
         - taking actions in meetings (e.g., "2019-06-28," "infra" blah blah)  
-        - something about Ben's comment and logging in the morning (Patcon sees this as a task manager)
+        - think about chat as analogous to "server logs". should be both machine-readable and human-readable. want annotations in chat to quickly answer "what are all the #actions that have come up?".
     - dc:
         - canonical places
         - not hardline on there being just "one place" to get caught up
