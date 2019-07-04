@@ -62,7 +62,7 @@ Notetaker: yurko (garry)
     - Develop kadence in team
         - Challange of asyncronus
     - Encouraging empathy and gratitude
-    - Follow throught (help define)
+    - Follow through (help define)
         - Clearly defined start of project
         - Clearly defined end of project
         - Deadlines :thumbsup: 
