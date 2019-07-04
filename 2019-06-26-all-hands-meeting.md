@@ -96,7 +96,7 @@ Notetaker: yurko (garry)
 
 - LinkedIn as Branding
     - We dont have a website
-    - Linked is effort
+    - LinkedIn is effort
         - Who we are
         - What we done
     - Possibly forcing people onto it
