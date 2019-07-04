@@ -106,7 +106,7 @@ Notetaker: yurko (garry)
     - Purpose
         -  Can't advocate without a presence
         -  Would entities consider working with a group like this
-    -  Do we want to be know?
+    -  Do we want to be known?
         -  Yurko mentioend that currenty Aether/Burak is low risk and good test
         -  Lead is genreation important?
     -  Pat: Value lead generation
