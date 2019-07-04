@@ -105,7 +105,7 @@ Notetaker: yurko (garry)
     - Do we tell people who we are some how else
     - Is it ethicly not where we want to be
     - Purpose
-        -  Cant advocate without a presense
+        -  Can't advocate without a presence
         -  Would entities consier workign with a group like this
     -  Do we want to be know?
         -  Yurko mentioend that currenty Aether/Burak is low risk and good test
