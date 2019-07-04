@@ -81,7 +81,6 @@ Notetaker: yurko (garry)
         - Review next call
         - Not disolve working group 
             - Clear idea what we need to be tackling in next.... months  (4-5)
-            - 
     - Other's experience (Yurko):
         - reflecting on his exprieence (organized chaos)
         - wild-west of development
