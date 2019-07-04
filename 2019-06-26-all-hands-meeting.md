@@ -135,7 +135,6 @@ Notetaker: yurko (garry)
     - [ ] All: Discuss this item at next all-hands
 - [ ] Ben wants to on our next call try equal speaking time
 - [ ] All: reflect on how we can interact in ways that make things move forward (e.g. forcing each other to express how they feel as to make others feel more permissioned to push things forward more assertively)
-
 - [ ] create thread for discussion of lead generation
 
 ### Upcoming Discussions
