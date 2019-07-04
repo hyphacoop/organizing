@@ -105,7 +105,7 @@ Notetaker: yurko (garry)
     - Is it ethicly not where we want to be
     - Purpose
         -  Can't advocate without a presence
-        -  Would entities consier workign with a group like this
+        -  Would entities consider working with a group like this
     -  Do we want to be know?
         -  Yurko mentioend that currenty Aether/Burak is low risk and good test
         -  Lead is genreation important?
