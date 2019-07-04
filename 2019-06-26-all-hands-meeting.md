@@ -129,7 +129,6 @@ Notetaker: yurko (garry)
 
 ### Actionable Items
 - [ ] Review past #todos and recover potentials lost items
-- [ ] 
 - [ ] Consensus by team members and cooperative about how to split $
     - [ ] All: Research ahead of next meeting
     - [ ] All: Discuss this item at next all-hands
