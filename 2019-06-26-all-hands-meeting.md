@@ -108,7 +108,7 @@ Notetaker: yurko (garry)
         -  Would entities consider working with a group like this
     -  Do we want to be known?
         -  Yurko mentioend that currenty Aether/Burak is low risk and good test
-        -  Lead is genreation important?
+        -  Lead is generation important?
     -  Pat: Value lead generation
         -  is there enough bandwidth
         -  bring in contractors?
