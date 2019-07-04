@@ -94,7 +94,7 @@ Notetaker: yurko (garry)
 - Contracts and money meeintg 
     - https://hackmd.io/okYnBNQvSey-GcbfOI3evw
 
-- Linked in as Branding
+- LinkedIn as Branding
     - We dont have a website
     - Linked is effort
         - Who we are
