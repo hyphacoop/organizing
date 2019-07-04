@@ -110,7 +110,7 @@ Notetaker: yurko (garry)
         -  Yurko mentioend that currenty Aether/Burak is low risk and good test
         -  Lead is genreation important?
     -  Pat: Value lead generation
-        -  is there enough bandwtih
+        -  is there enough bandwidth
         -  bring in contractors?
     -  Garry: start the converstion
         -  Transparent
