@@ -61,7 +61,7 @@ Notetaker:
 
 Next meeting? 
 2 weeks? dc and yurko can't make it
-3 weeks? sounds good -- Jul 24 (All Hands)
+3 weeks? yurko away (until jul 26). sounds good -- Jul 24 (All Hands)
 Biweekly following 
 
 ### Actionable Items
