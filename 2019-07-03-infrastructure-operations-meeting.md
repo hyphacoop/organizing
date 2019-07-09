@@ -48,7 +48,7 @@ Notetaker:
     - dc: just wanted to make sure I understood this process
 - Next steps:
     - Ranking poll is going to close over weekend
-    - Poll for next all hands meeting
+    - Poll to make use of front-runner will be created and close by next all hands meeting in coming week.
 - Values and our tools - parked until we had more time
     - #todo dc to do some set up for that convo later
 - Accounting/billing
