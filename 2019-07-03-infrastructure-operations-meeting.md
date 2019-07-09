@@ -61,9 +61,10 @@ Notetaker:
 ## Follow Up
 
 Next meeting? 
-2 weeks? dc and yurko can't make it
-3 weeks? yurko away (until jul 26). sounds good -- Jul 24 (All Hands)
-Biweekly following 
+  - 2 weeks? dc and yurko can't make it
+  - 3 weeks? yurko away (until jul 26). 
+  - Schedule for 3 weeks -- Jul 24 (All Hands) so set another times
+- Set up biweekly meetings following 
 
 ### Actionable Items
 
