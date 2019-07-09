@@ -6,7 +6,7 @@
 
 Time: Wed, June 26 @ 5pm ET  
 Location: https://meet.jit.si/hyphacoop  
-Attending: Elon Gary Yurko Pat
+Attending: Elon, Gary, Yurko, Pat
 
 Notetaker: yurko (garry)
 
@@ -123,9 +123,7 @@ Notetaker: yurko (garry)
     
 ## Follow Up
 
-
 - Org PM role (patcon, garry)
-
 
 ### Actionable Items
 - [ ] Review past #todos and recover potentials lost items
@@ -137,10 +135,8 @@ Notetaker: yurko (garry)
 - [ ] create thread for discussion of lead generation
 
 ### Upcoming Discussions
-https://hackmd.io/gHIERg6JQ3m-igLd_1jPeQ?both
 
-- Linked in as Branding
-- ...
+- LinkedIn as Branding
 
 <!-- Links -->
 [template]: https://link.hypha.coop/template
