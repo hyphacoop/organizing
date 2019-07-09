@@ -4,7 +4,7 @@
 
 [:date: Calendar][calendar] | [:cat: GitHub][gh] | [:open_file_folder: GDrive][gdrive] | [:notebook: Meeting Index][meetings]
 
-Time: Wed, June 12, 2019 @ 17.00-18.00 ET    
+Time: Wed, July 3, 2019 @ 17.00-18.00 ET    
 Location: https://meet.jit.si/hyphacoop  
 Attending: 
 - elon
