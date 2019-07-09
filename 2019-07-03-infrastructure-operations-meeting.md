@@ -52,10 +52,11 @@ Notetaker:
 - Values and our tools - parked until we had more time
     - #todo dc to do some set up for that convo later
 - Accounting/billing
-    - Do we need to have accounting software set up RIGHT NOW
+    - Do we need to have accounting software set up RIGHT NOW?
+        - need it soon, but able to do manual invoices if needed for the interim
     - More complicated things: auditing, HSTs, payroll
     - #todo patcon: ask cotech folks and briarwood co-op how they do their books and invoicing
-    - #todo dc: call kenzie; co-op creator; OCA? 
+    - #todo dc: reach out to kenzie; co-op creator; OCA... RE: accountant referrals
 
 ## Follow Up
 
@@ -71,10 +72,10 @@ Biweekly following
 - [ ] patcon/dc: add link shortner to the handbook
 - [ ] dc: do some set up for values and our tools talk
 - [ ] patcon: ask cotech folks and briarwood co-op how they do their book
-- [ ] dc: call kenzie; co-op creator; OCA? 
+- [ ] dc: call kenzie and co-op creator folks RE: accountant referrals
+- [ ] dc: reach out to OCA RE: accountant referrals? 
 - [ ] patcon: set up July 24 meeting + biweekly infra meetings
-- [ ] elon: add notes to gh
-
+- [x] elon: add notes to gh
 
 <!-- Links -->
 [template]: https://link.hypha.coop/template
