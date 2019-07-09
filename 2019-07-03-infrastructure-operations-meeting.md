@@ -47,7 +47,7 @@ Notetaker:
     - patcon: Feeling blocked, want to start using sometime. yurko feels this pain
     - dc: just wanted to make sure I understood this process
 - Next steps:
-    - Poll is going to close
+    - Ranking poll is going to close over weekend
     - Poll for next all hands meeting
 - Values and our tools - parked until we had more time
     - #todo dc to do some set up for that convo later
