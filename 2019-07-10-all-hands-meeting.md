@@ -124,12 +124,10 @@ Notetaker: patcon
 - [ ] Schedule next infra call
 - [ ] Org Project Manager role definition (patcon, garry) 
 - [ ] archive this week's notes
-### Upcoming Discussions
 
-- ...
 
 <!-- Links -->
-[templatehttps://link.hypha.coop/template
+[template]: https://link.hypha.coop/template
 [meetings]: https://link.hypha.coop/meetings
 [calendar]: https://link.hypha.coop/calendar
 [gh]: https://github.com/hyphacoop/organizing
