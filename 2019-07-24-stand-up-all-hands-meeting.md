@@ -38,17 +38,17 @@ Notetaker:
 
   - @dc
     - _last:_ Follow up with Service Ontario (articles of incorporation timeline, bin #), patcon sync on accountant, started draft cwcf membership, tried record voicemail
-    - _next:_ Record voicemail, co-working session
+    - _next:_ Record voicemail, co-working session, pick up on business plan work
     - _blockers:_ Time, task tracker setup (public issues), handbook text
 
   - @elon
     - _last:_ Time for infra meeting (patcon, elon, atm)
     - _next:_ Infra meeting setup (soonish)
-    - _blockers:_ Get people to fill in time for infra meeting (https://www.when2meet.com/?7944486-GqBDW)
+    - _blockers:_ Get people to [fill in time for infra meeting](https://www.when2meet.com/?7944486-GqBDW)
 
   - @ben
     - _last:_ Coming back from dWeb
-    - _next:_ Loomio catch-up, follow up on Aether, transfer from patcon
+    - _next:_ Loomio catch-up, follow up on Aether (transfer from patcon)
     - _blockers:_ No blockers
 
   - @garry
