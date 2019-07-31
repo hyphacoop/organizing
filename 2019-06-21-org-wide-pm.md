@@ -71,7 +71,7 @@ The purpose of this meeting was to take notes during a largely informal discussi
         - exportability. lock-in escape.
         - we should be able to take a risk. we have little to lose on choosing something like trello.
         - reminds of **value proposition** (from Pivotal): that products can work on mainstream clouds or your own. recognizing many diff types of business and many diff types of challenges.
-- patcon: **open source tools are NOT always the best ones**. our asset is **trustworthiness**, and sometimes we should introduce closed source tools if they t
+- patcon: **open source tools are NOT always the best ones**. our asset is **trustworthiness**, and sometimes we should introduce closed source tools if these tools support the client best in their short term needs.
 - I’d like to have a process making choices on client behalf that are **grounded in reality of what's succeeding in the world, and why?** we should keep knitting together the tools we want to win, with the ones that are common (for many good reasons) in this current moment.
 - scrappy nonprofits sometimes just need to **build political will** with a **trusted partner**. if we’re pushing something that adds to their **burden** (which they maybe can’t afford to tackle yet), then we’re perhaps **abusing that trust**
 - responsibilties
@@ -99,4 +99,4 @@ The purpose of this meeting was to take notes during a largely informal discussi
 - [x] Double-check with Garry whether we want to arrive with a draft doc (patcon)
     - We don't. Go in for convo.
 - [x] ~~Write draft role proposal~~
-- [ ] Prepare summary in agenda
+- [x] Prepare summary in agenda. (bolding accomplished this)
