@@ -48,7 +48,7 @@ Notetaker:
 
   - @ben
     - _last:_ Coming back from dWeb
-    - _next:_ Loomio catch-up, follow up on Aether (transfer from patcon)
+    - _next:_ Loomio catch-up, follow up on Aether (transfer from patcon), taking over as Cultivator for August
     - _blockers:_ No blockers
 
   - @garry
