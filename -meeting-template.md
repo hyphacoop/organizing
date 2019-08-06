@@ -1,56 +1,53 @@
 # YYYY-MM-DD Hypha Worker Co-op: All Hands Meeting
 
-<sup>[from template][template]</sup>
+<sup>[from template][template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][gdrive]</sup>
 
-[:date: Calendar][calendar] | [:cat: GitHub][gh] | [:open_file_folder: GDrive][gdrive] | [:notebook: Meeting Index][meetings]
-
-Time: ...  
-Location: https://meet.jit.si/hyphacoop  
-Attending: ...
-
-Notetaker: ...
-
-:raising_hand: Next: ... COPY FROM PREVIOUS WEEK  
-<sup>Bump to end on taking turn :)</sup>
-
-[TOC]
+Time:      ...  
+Location:  https://meet.jit.si/hyphacoop  
+Attending: ...  
+Notetaker: :raising_hand: ei, yj, gi, pc, dc, uv, bl  
 
 ## Agenda
 
-- Previous Action Items
-- Runthrough Announcements and Updates (add below)
-- Quick Working Group Updates (10 mins)
-    - [Business Planning][biz-wg]
-    - [Finance][fin-wg]
-    - [Governance][gov-wg]
-    - [Infra & Ops][ops-wg]
-- Discussion
-    ...
-
-## Announcements
-
-- ...
+| Item                                            | Time (min) |
+|:------------------------------------------------|-----------:|
+| [Previous Action Items][tasks]                  |          5 |
+| [Announcements](#Announcements)                 |          5 |
+| [Working Group Updates](#Working-Group-Updates) |         10 |
+| [Project Updates](#Project-Updates)             |         10 |
+| [Discussions](#Discussions)                     |         30 |
 
 ## Notes
 
-- ...
-
-## Follow Up
-
-### Actionable Items
-
-- [ ] ...
-
-### Upcoming Discussions
+### Announcements
 
 - ...
 
-<!-- Links -->
+### Working Group Updates
+
+- [Business Planning][biz-wg]
+- [Finance][fin-wg]
+- [Governance][gov-wg]
+- [Infra & Ops][ops-wg]
+
+### Project Updates
+
+- ...
+
+### Discussions
+
+- ...
+
+
+<!-- Links: Important -->
 [template]: https://link.hypha.coop/template
 [meetings]: https://link.hypha.coop/meetings
 [calendar]: https://link.hypha.coop/calendar
-[gh]: https://github.com/hyphacoop/organizing
-[gdrive]: https://link.hypha.coop/gdrive
+[tasks]:    https://link.hypha.coop/tasks
+[gh]:       https://link.hypha.coop/gh
+[gdrive]:   https://link.hypha.coop/gdrive
+
+<!-- Links: Working Groups -->
 [biz-wg]: https://link.hypha.coop/biz-wg
 [fin-wg]: https://link.hypha.coop/fin-wg
 [gov-wg]: https://link.hypha.coop/gov-wg
