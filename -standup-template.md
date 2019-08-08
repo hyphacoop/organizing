@@ -1,6 +1,6 @@
 # YYYY-MM-DD Hypha Worker Co-op: Standup Meeting
 
-<sup>[from template][standup-template]: https://link.hypha.coop/standup-template | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][gdrive]</sup>
+<sup>[from template][standup-template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][gdrive]</sup>
 
 Time:      ...  
 Location:  https://meet.jit.si/hyphacoop  
