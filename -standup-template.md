@@ -5,7 +5,7 @@
 Time:      ...  
 Location:  https://meet.jit.si/hyphacoop  
 Attending: ...  
-Notetaker: :raising_hand: ei, yj, gi, pc, dc, uv, bl  
+Notetaker: :raising_hand: el, yj, gi, pc, dc, uv, bl  
 
 ## Agenda
 
@@ -20,6 +20,10 @@ Notetaker: :raising_hand: ei, yj, gi, pc, dc, uv, bl
 	- last: 
 	- next: 
 	- blockers: 
+
+## Discussions
+
+- ...
 
 <!-- Links -->
 [standup-template]: https://link.hypha.coop/standup-template

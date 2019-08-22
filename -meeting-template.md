@@ -5,13 +5,13 @@
 Time:      ...  
 Location:  https://meet.jit.si/hyphacoop  
 Attending: ...  
-Notetaker: :raising_hand: ei, yj, gi, pc, dc, uv, bl  
+Notetaker: :raising_hand: el, yj, gi, pc, dc, uv, bl  
 
 ## Agenda
 
 | Item                                            | Time (min) |
 |:------------------------------------------------|-----------:|
-| [Previous Action Items][tasks]                  |          5 |
+| [Previous Action Items][tasks]                  |         15 |
 | [Announcements](#Announcements)                 |          5 |
 | [Working Group Updates](#Working-Group-Updates) |         10 |
 | [Project Updates](#Project-Updates)             |         10 |
@@ -38,6 +38,12 @@ Notetaker: :raising_hand: ei, yj, gi, pc, dc, uv, bl
 
 - ...
 
+
+### Action Items for Cultivator
+
+- [ ] Migrate items with `#todo:person` to [task board][tasks]
+- [ ] Publish meeting notes to [GitHub][gh]
+- [ ] Publish [meeting template][template] for next [meeting][meetings]
 
 <!-- Links: Important -->
 [template]: https://link.hypha.coop/template
