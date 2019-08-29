@@ -1,19 +1,11 @@
 # YYYY-MM-DD Hypha Worker Co-op: Standup Meeting
 
-<sup>[from template][standup-template]</sup>
+<sup>[from template][standup-template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][gdrive]</sup>
 
-[:date: Calendar][calendar] | [:cat: GitHub][gh] | [:open_file_folder: GDrive][gdrive] | [:notebook: Meeting Index][meetings]
-
-Time: ...  
-Location: https://meet.jit.si/hyphacoop  
-Attending: ...
-
-Notetaker: ...
-
-:raising_hand: Next: ... COPY FROM PREVIOUS WEEK  
-<sup>Bump to end on taking turn :)</sup>
-
-[TOC]
+Time:      ...  
+Location:  https://meet.jit.si/hyphacoop  
+Attending: ...  
+Notetaker: :raising_hand: el, yj, gi, pc, dc, uv, bl  
 
 ## Agenda
 
@@ -22,17 +14,21 @@ Notetaker: ...
   2. What do you plan to work on this coming week?
   3. What are your blockers?
 
-## Notes
+## Standup Notes
 
-- Standup
-  - @person
-    - last: ...
-    - next: ...
-    - blockers: ...
+- Person: ...
+	- last: 
+	- next: 
+	- blockers: 
+
+## Discussions
+
+- ...
 
 <!-- Links -->
 [standup-template]: https://link.hypha.coop/standup-template
 [meetings]: https://link.hypha.coop/meetings
 [calendar]: https://link.hypha.coop/calendar
-[gh]: https://github.com/hyphacoop/organizing
-[gdrive]: https://link.hypha.coop/gdrive
+[tasks]:    https://link.hypha.coop/tasks
+[gh]:       https://link.hypha.coop/gh
+[gdrive]:   https://link.hypha.coop/gdrive
