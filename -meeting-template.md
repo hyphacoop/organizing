@@ -5,7 +5,7 @@
 Time:      ...  
 Location:  https://meet.jit.si/hyphacoop  
 Attending: ...  
-Notetaker: :raising_hand: el, yj, gi, pc, dc, uv, bl  
+Notetaker: :raising_hand: Next up: COPY FROM PAST WEEK
 
 ## Agenda
 
