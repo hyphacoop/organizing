@@ -83,3 +83,16 @@
     | `Udit Vira` | `XXXXX` |
     | `Garry Ing` | `XXXXX` |
     | `Elon Li` | `XXXXX` |
+
+-----
+
+### Document History
+
+| Date | Revision | Description |
+|------|----------|-------------|
+| [2019-07-28][] | `@6ba3745` | First rejected submission. |
+| [2019-08-28][] | `HEAD` | Successfully amended and filed submission. |
+
+<!-- Links -->
+   [2019-07-28]: https://drive.google.com/file/d/1ZyC3IpUA2pWP5EJLFv_lkERrq6WUO6HU/view?usp=sharing
+   [2019-08-28]: https://drive.google.com/file/d/1mBI5uB8dR3u285b5pUFDvbUk-HT2bBXU/view?usp=sharing
