@@ -4,7 +4,7 @@
 
 1. The name of the co-operative is:
 
-    `HYPHA WORKER CO-OPERATIVE INC`
+    `HYPHA WORKER CO-OPERATIVE INC.`
 
 2. The head office is at the:
 
@@ -24,7 +24,7 @@
 
 5. The number of directors each stakeholder group in a multi-stakeholder co-operative may elect is:
 
-    `___`
+    `not applicable`
 
 6. The first directors are:
 
@@ -37,7 +37,7 @@
 
 7. Restrictions, if any, on the business the co-operative may carry on or on power the co-operative may exercise:
 
-    `___`
+    `not applicable`
 
 8. The amount of the minimum member loan, if any:
 
@@ -53,7 +53,7 @@
 
 11. The classes of membership, if any, are:
 
-    `Member`
+    `not applicable`
 
 12. The terms and conditions attaching to each class of membership are:
 
@@ -69,7 +69,8 @@
 
 15. Special provisions, if any, are:
 
-    `not applicable`
+    - `The primary object of the co-operative is to provide employment to its members.`
+    - `It is a condition of membership that, except in circumstances prescribed by the regulation under the Co-Operative Corporations Act, a member must be employed by the co-operative.`
 
 16. The names and residential addresses of the incorporators are:
 
