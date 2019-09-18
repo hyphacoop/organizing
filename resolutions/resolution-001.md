@@ -11,12 +11,12 @@ Therefore be it resolved that the board of directors has appointed the following
 
 | Office    | Name of officeholder |
 |-----------|----------------------|
-| President | Patrick Connolly     |
-| Secretary | Yurko Jaremko        |
+| President | Yurko Jaremko        |
+| Secretary | Benedict Lau         |
 
-[Signed by][sigfile] President: Patrick connolly
+[Signed by][sigfile] President: Yurko Jaremko
 Date: 2019-09-18
 
 <!-- Links -->
    [template]: -resolution-xxx.md
-   [sigfile]: resolution-001.md.patcon.asc
+   [sigfile]: resolution-001.md.yurkowashere.asc
