@@ -20,3 +20,4 @@ Date: 2019-09-18
 <!-- Links -->
    [template]: -resolution-xxx.md
    [sigfile]: resolution-001.md.yurkowashere.asc
+
