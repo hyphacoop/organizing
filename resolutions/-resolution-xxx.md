@@ -1,4 +1,4 @@
-# Hypha Co-op: Resolution Template
+﻿# Hypha Co-op: Resolution Template
 
 <!-- Title: -->
 # [ Ordinary / Special ] resolution [action]
@@ -15,9 +15,8 @@ Whereas...
 Therefore be it resolved that...
 <!-- the decision or statement -->
 
-[Signed by][sigfile] President: [president's name]
+Signed by President: [president's name]
 Date: YYYY-MM-DD
 
 <!-- Links -->
    [template]: -resolution-xxx.md
-   [sigfile]: resolution-xxx.md.XusernameX.asc
