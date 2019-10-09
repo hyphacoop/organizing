@@ -12,7 +12,7 @@
 
 1.  The following individuals are appointed and confirmed as officers of the Co-operative for a term of one year or until replaced:
 
-    уՍᏒᏦｏ　ᎫａᏒｅᎷᏦｏ: President; and\
+    Yurko Jaremko: President; and\
     Benedict Lau: Secretary.
 
 2.  Any one director or officer of the Co-operative is authorized to sign all documents and perform such acts as may be necessary or desirable to give effect to the above resolution.
@@ -30,13 +30,13 @@ __________________________________ :lock_with_ink_pen: [digital signature][sigfi
 Dawn Claire Walker
 
 __________________________________ :lock_with_ink_pen: [digital signature][sigfile-yurkowashere]\
-уՍᏒᏦｏ　ᎫａᏒｅᎷᏦｏ
+Yurko Jaremko
 
 __________________________________ :lock_with_ink_pen: [digital signature][sigfile-benhylau]\
 Benedict Lau
 
 <!-- Links -->
-   [sigfile-patcon]: https://raw.githubusercontent.com/hyphacoop/organizing/res/001-appoint-officers/resolutions/resolution-001-alt.md.patcon.asc
-   [sigfile-dcwalk]: https://raw.githubusercontent.com/hyphacoop/organizing/res/001-appoint-officers/resolutions/resolution-001-alt.md.dcwalk.asc
-   [sigfile-yurkowashere]: https://raw.githubusercontent.com/hyphacoop/organizing/res/001-appoint-officers/resolutions/resolution-001-alt.md.yurkowashere.asc
-   [sigfile-benhylau]: https://raw.githubusercontent.com/hyphacoop/organizing/res/001-appoint-officers/resolutions/resolution-001-alt.md.benhylau.asc
+   [sigfile-patcon]: resolution-001.md.patcon.asc
+   [sigfile-dcwalk]: resolution-001.md.dcwalk.asc
+   [sigfile-yurkowashere]: resolution-001.md.yurkowashere.asc
+   [sigfile-benhylau]: resolution-001.md.benhylau.asc

@@ -1,6 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
 # RESOLUTIONS OF THE BOARD OF DIRECTORS
 
 **Resolution in writing** of the board of directors of Hypha Worker Co-operative Inc. (the "Co-operative") held online on this 18th day of September, 2019.
@@ -15,7 +12,7 @@ Hash: SHA256
 
 1.  The following individuals are appointed and confirmed as officers of the Co-operative for a term of one year or until replaced:
 
-    уՍᏒᏦｏ　ᎫａᏒｅᎷᏦｏ: President; and\
+    Dawn Claire Walker: President; and\
     Benedict Lau: Secretary.
 
 2.  Any one director or officer of the Co-operative is authorized to sign all documents and perform such acts as may be necessary or desirable to give effect to the above resolution.
@@ -33,29 +30,13 @@ __________________________________ :lock_with_ink_pen: [digital signature][sigfi
 Dawn Claire Walker
 
 __________________________________ :lock_with_ink_pen: [digital signature][sigfile-yurkowashere]\
-уՍᏒᏦｏ　ᎫａᏒｅᎷᏦｏ
+Yurko Jaremko
 
 __________________________________ :lock_with_ink_pen: [digital signature][sigfile-benhylau]\
 Benedict Lau
 
 <!-- Links -->
-   [sigfile-patcon]: https://raw.githubusercontent.com/hyphacoop/organizing/res/001-appoint-officers/resolutions/resolution-001-alt.md.patcon.asc
-   [sigfile-dcwalk]: https://raw.githubusercontent.com/hyphacoop/organizing/res/001-appoint-officers/resolutions/resolution-001-alt.md.dcwalk.asc
-   [sigfile-yurkowashere]: https://raw.githubusercontent.com/hyphacoop/organizing/res/001-appoint-officers/resolutions/resolution-001-alt.md.yurkowashere.asc
-   [sigfile-benhylau]: https://raw.githubusercontent.com/hyphacoop/organizing/res/001-appoint-officers/resolutions/resolution-001-alt.md.benhylau.asc
------BEGIN PGP SIGNATURE-----
-
-wsFcBAEBCAAQBQJdkjxvCRC8jbkiPGpBdQAARqgQAFL8YGW0Bv0EY+0qeU/zmCwQ
-FvO/apmKZiSVjUthWiirXZ9ido65kl1noqIdaKddCwG+dLcee+NgE18wHdb8cTmW
-URoQtgZ00D+ugDk9Govjt/qbJ9oqNPiyFt+l74HjepH2BT01S7aPJIj3yiy9rP3D
-yUeepT06OBs9HeIxdtMkjGwedSsxco6nOG/TH72xvgVhLgHrFHJW15YWeyeWvdJ1
-5uS9OtQFDFyMyvYeQ4HQKMsgy5Ms+pjd6Y1XFqw/6iOmI97INds3pob1jh5c1Hml
-kxUB24QXzsfGrfOzQISXEQD80V9jZUV/dUsEXwC+t6MsVL07YIk4AnD5PFp+m0Qt
-n6JMo+gprPC1s4Bi5io5SXVUlEfueYsQSDSXXL5+5Fpw49XaCsqacjgZAHhRA3hj
-5q+6eHxH2Lc5GcpmFkjH76/6V0AMxn8jx4NZQTNEUtQYdiJAkMIFCIcUehoR/29v
-c82UjtD/pyoUEPZhrhm5NNLzY6E8ggAnTBjBhNnFkxE+Sd4XG8TUYgbVXcYVPQIB
-0KuyBG5DbERdAlu5NY90S0jOhMPRAXhjeRCuZyK56/62QGZ7uHRppxHNAg8r23m2
-I7BNb5UJqSf4ZllONQPioNPhCwUiIh2FvjHEqVclo+Bjk/+DSIQBuzjp5Ggh766d
-Ipn5OVhFhu3t3qInRUjx
-=Sqw4
------END PGP SIGNATURE-----
+   [sigfile-patcon]: resolution-001.md.patcon.asc
+   [sigfile-dcwalk]: resolution-001.md.dcwalk.asc
+   [sigfile-yurkowashere]: resolution-001.md.yurkowashere.asc
+   [sigfile-benhylau]: resolution-001.md.benhylau.asc
