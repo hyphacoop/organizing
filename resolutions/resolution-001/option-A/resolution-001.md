@@ -27,7 +27,7 @@ __________________________________ :lock_with_ink_pen: [digital signature][sigfi
 Patrick Cahill Connolly
 
 __________________________________ :lock_with_ink_pen: [digital signature][sigfile-dcwalk]\
-Dawn Claire Walker
+Dawn Walker
 
 __________________________________ :lock_with_ink_pen: [digital signature][sigfile-yurkowashere]\
 Yurko Ꭻаrеⅿ𝗄ס
