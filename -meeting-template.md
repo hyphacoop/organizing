@@ -18,6 +18,29 @@ Notetaker: :raising_hand: Next up: COPY FROM PAST WEEK
 | [Project Updates](#Project-Updates)             |         10 |
 | [Discussions](#Discussions)                     |         30 |
 
+- Personal Checkin
+- Task Board Review
+  - Archive _Done_ tasks :tada:
+  - Review [HIGH `[priority-★★★]`][l-pri-hi]
+  - Triage new tasks
+  - [missing WG label][l-nil]
+  - Working group updates
+    - [`wg:business-planning`][l-biz]
+    - [`wg:finance`][l-fin]
+    - [`wg:governance`][l-gov]
+    - [`wg:infra-ops`][l-ops]
+- Discussion
+- Process Checkin
+
+   [l-pri-hi]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:[priority-★★★]
+   [l-pri-md]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:[priority-★★☆]
+   [l-pri-lo]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:[priority-★☆☆]
+   [l-biz]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:business-planning"
+   [l-fin]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:finance"
+   [l-gov]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:governance"
+   [l-ops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:infra-ops"
+   [l-nil]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=-label%3Awg%3Ainfra-ops+-label%3Awg%3Afinance+-label%3Awg%3Agovernance+-label%3Awg%3Abusiness-planning
+
 ## Notes
 
 ### Announcements
