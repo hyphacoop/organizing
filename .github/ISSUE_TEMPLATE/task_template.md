@@ -2,13 +2,13 @@
 name: Task
 about: Create a high-level organizational task
 ---
-Re-ticketed from #
 
-## Shared Description
+## Task Description
 
-:speaking_head: **Loomio:** N/A  
-:date: **Due date:** N/A  
-:dart: **Success criteria:** ...  
+🎟️ **Re-ticketed from:** #  
+🗣 **Loomio:** N/A  
+📅 **Due date:** N/A  
+🎯 **Success criteria:** ...  
 
 ## To Do
 
