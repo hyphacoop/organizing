@@ -3,10 +3,10 @@
 <sup>[from template][standup-template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][gdrive]</sup>
 
 Time:       ...  
-Location:   https://meet.jit.si/hyphacoop  
+Location:   https://jitsi.hypha.coop/hyphacoop  
 Attending:  ...  
-Cultivator: ...
-Notetaker:  ... :raising_hand: Next up: COPY FROM PAST WEEK  
+Cultivator: ...  
+Notetaker:  ... :raising_hand: Next up: COPY FROM PAST WEEK
 
 ## Agenda
 
@@ -26,7 +26,7 @@ Notetaker:  ... :raising_hand: Next up: COPY FROM PAST WEEK
 
 - ...
 
-<!-- Links -->
+<!-- Links: Important -->
 [standup-template]: https://link.hypha.coop/standup-template
 [meetings]: https://link.hypha.coop/meetings
 [calendar]: https://link.hypha.coop/calendar
