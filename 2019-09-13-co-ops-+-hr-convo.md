@@ -1,7 +1,7 @@
 # 2019-09-13 Co-ops + HR convo
 
-:date: **Date:** Fri, Sept 13 @ 11:00-12:00 ET
-:family: **Who's here?** patcon, elisha gray
+:date: **Date:** Fri, Sept 13 @ 11:00-12:00 ET  
+:family: **Who's here?** patcon, elisha gray  
 :telephone_receiver: **Call Link:** https://appear.in/hyphacoop
 
 **Email**
