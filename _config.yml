@@ -1,0 +1,17 @@
+plugins:
+  - jemoji
+
+# Allows full rendering with autolinks and tasklists.
+# See: https://github.com/github/jekyll-commonmark-ghpages#installation
+markdown: CommonMarkGhPages
+
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions:
+    - "strikethrough"
+    - "autolink"
+    - "table"
+    - "tagfilter"
+    # This will start working when commonmarker is upgraded.
+    # See: https://github.com/github/jekyll-commonmark-ghpages/issues/13
+    - "tasklist"
