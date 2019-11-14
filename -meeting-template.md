@@ -1,3 +1,6 @@
+---
+private: false
+---
 # YYYY-MM-DD Hypha Worker Co-op: All Hands Meeting
 
 <sup>[from template][template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][gdrive]</sup>
