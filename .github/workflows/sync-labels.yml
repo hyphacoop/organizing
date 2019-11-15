@@ -21,8 +21,8 @@ jobs:
         uses: shivammathur/setup-php@master
         with:
           php-version: '7.3'
+      # See: https://github.com/vanilla/github-sync
       - run: |
-          # See: https://github.com/vanilla/github-sync
           composer require vanilla/github-sync
           for target in $LABEL_REPO_TARGETS; do
             # NOTE: "prune" ensures that missing tags will be culled from target repo, but ONLY if they are unused.
