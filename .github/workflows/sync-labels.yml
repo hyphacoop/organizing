@@ -1,0 +1,28 @@
+name: Sync Labels
+
+on:
+  label:
+    types: [created, edited, deleted]
+  push:
+    branches:
+      - master
+
+jobs:
+  label-sync:
+    name: Install & Run
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_API_TOKEN: ${{ secrets.GITHUB_API_TOKEN }}
+      LABEL_REPO_SOURCE: hyphacoop/organizing
+      LABEL_REPO_TARGETS: hyphacoop/organizing-private hyphacoop/handbook hyphacoop/shortlinks hyphacoop/hypha.coop hyphacoop/chatbot hyphacoop/worker-coop-scripts hyphacoop/spreadsheet2shortlinks hyphacoop/vision.hypha.coop
+    steps:
+      - name: Setup PHP
+        uses: shivammathur/setup-php@master
+        with:
+          php-version: '7.3'
+      - run: |
+          composer require vanilla/github-sync
+          for target in $LABEL_REPO_TARGETS; do
+            # NOTE: "prune" ensures that missing tags will be culled from target repo, but ONLY if they are unused.
+            ./vendor/bin/github-sync labels --from $LABEL_REPO_SOURCE --to $target --delete prune
+          done
