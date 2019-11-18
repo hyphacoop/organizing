@@ -74,7 +74,7 @@ Notetaker:  dc
     - next:
         - Work to close off some infra related issues
     - blockers:
-        - 
+        - None
 
 ## Future Discussions
 
@@ -99,8 +99,8 @@ Notetaker:  dc
 
 # Next meeting
 
-- Pay period
-- Yurko: one-pager on tax status +
+- Pay periods
+- #todo dc create issue: write one-pager on co-operative and tax status
 
 
 <!-- Links -->
