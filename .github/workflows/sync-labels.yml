@@ -12,9 +12,23 @@ jobs:
     name: Install & Run
     runs-on: ubuntu-latest
     env:
+      # Personal access token for `hyphacoop-bot` with `repo` permission
+      # See: https://github.com/hyphacoop/organizing/settings/secrets/new
       GITHUB_API_TOKEN: ${{ secrets.GITHUB_API_TOKEN }}
       LABEL_REPO_SOURCE: hyphacoop/organizing
-      LABEL_REPO_TARGETS: hyphacoop/organizing-private hyphacoop/handbook hyphacoop/shortlinks hyphacoop/hypha.coop hyphacoop/chatbot hyphacoop/worker-coop-scripts hyphacoop/spreadsheet2shortlinks hyphacoop/vision.hypha.coop
+      # Note: `hyphacoop-bot` user must also be given `write` access to repos via @hyphacoop/robots team.
+      # See: https://github.com/orgs/hyphacoop/teams/robots/repositories
+      # See: https://yaml-multiline.info/
+      LABEL_REPO_TARGETS: >-
+        hyphacoop/demo-repo
+        hyphacoop/handbook
+        hyphacoop/hypha.coop
+        hyphacoop/hyphacoop-chatbot
+        hyphacoop/organizing-private
+        hyphacoop/spreadsheet2shortlinks
+        hyphacoop/test-private
+        hyphacoop/vision.hypha.coop
+        hyphacoop/worker-coop-scripts
     steps:
       - name: Setup PHP
         # See: https://github.com/shivammathur/setup-php
