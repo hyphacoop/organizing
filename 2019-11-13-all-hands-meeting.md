@@ -25,12 +25,11 @@ Notetaker:  yurko :raising_hand: Next up: gi, uv, pc, dc, el, bl, yj
 ### Personal Checkins
 
 - In honour of the recent snowfall, what is your favourite winter activity?
-
-- pc - Winter date - fireplace show room with with some hot chocolate
-- elon - Stay at home - no winter stuff  - computer
-- ben - working indoor is quite nice - if i work in the winter i can play in the summer (the thought is nice tho)
-- yurko - winter road rage - making a snowman pre-slush stage
-- dc - missing snowboarding 
+  - pc - Winter date - fireplace show room with with some hot chocolate
+  - elon - Stay at home - no winter stuff  - computer
+  - ben - working indoor is quite nice - if i work in the winter i can play in the summer (the thought is nice tho)
+  - yurko - winter road rage - making a snowman pre-slush stage
+  - dc - missing snowboarding 
 
 ### Task Board Review
 
@@ -56,7 +55,6 @@ Notetaker:  yurko :raising_hand: Next up: gi, uv, pc, dc, el, bl, yj
     - #120 one-pager for our internal understanding. #new isuse: HST and non-profit vs for-profit.
     - #118
 - missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]
-
 - #todo dc: spawn issue for explainer/documentation of our status as a nonprofit worker co-operative
 
 ### Process Checkin
@@ -108,8 +106,7 @@ _Skip_
     - 20% time - that could be used for converstaions that are less structured
     - Could it be 1 person takes but supported by "peer support group" - possibly allot of support for this
     - Possibly - Pat takes the roll and pays coop for its time
-
-    - dc: this is not a hypha opportunity
+    - dc: this is not a hypha opportunity?
        - PC: legaly - not a hypha thing
        - PC: reallity its a "hack" to share 1 union position between multiple people
    - bl: legal language could be a blocker
@@ -145,9 +142,10 @@ _Skip_
 
 ### Action Items for Cultivator
 
-- [ ] Migrate items with `#todo:person` to [task board][tasks]
-- [ ] Publish meeting notes to [GitHub][gh]
-- [ ] Publish [meeting template][template] for next [meeting][meetings]
+- [x] Migrate items with `#todo:person` to [task board][tasks]
+- [x] Publish meeting notes to [GitHub][gh]
+- [x] Publish [meeting template][template] for next [meeting][meetings]
+- [ ] dc: spawn issue for explainer/documentation of our status as a nonprofit worker co-operative
 
 <!-- Links: Important -->
 [template]: https://link.hypha.coop/template
