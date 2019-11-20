@@ -28,7 +28,7 @@ Notetaker:  dc
         - Communications tools, ready to send PR
         - Discussion about pay period next all hands
     - next: 
-        - Decsision-making practices discussion
+        - Decision-making practices discussion
         - Set up quickbooks, maybe transferwise
     - blockers: 
         - Tax form to Burak (who has to decide?)
