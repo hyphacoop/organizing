@@ -49,7 +49,7 @@ Notetaker:  dc
         - How to get peoples input? Blocker to a finished proposal
 - Person: Patcon
     - last:
-        - mostly Civic Tech stuff in St. John
+        - mostly Civic Tech stuff in Saint John
         - time to first convo with luisa, coordinating around that, including the one that didn't happen today. Lesson: more time to schedule. Can't do "day of"
         - Updating cultivator meeting templates
     - next:  
