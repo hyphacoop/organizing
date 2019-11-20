@@ -24,7 +24,7 @@ Notetaker:  dc
     - last:
         - early distributed.press discussions, started weekly calls with near-term objective
         - want deck/website to discuss concept. Maybe longerterm wanting a research project in that space. More clarity in next month
-        - lots of aether catch-up, feataure work. Some gap/need for strategy work. Sales, audience strategy. Interest?
+        - lots of aether catch-up, feature work. Some gap/need for strategy work. Sales, audience strategy. Interest?
         - Communications tools, ready to send PR
         - Discussion about pay period next all hands
     - next: 
