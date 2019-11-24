@@ -42,14 +42,18 @@ jobs:
       # See: https://github.com/vanilla/github-sync
       - name: Sync labels
         run: |
-          composer require vanilla/github-sync
+          composer --quiet require vanilla/github-sync
           for target in $LABEL_REPO_TARGETS; do
             # NOTE: "prune" ensures that missing tags will be culled from target repo, but ONLY if they are unused.
             ./vendor/bin/github-sync labels --from $LABEL_REPO_SOURCE --to $target --delete prune
           done
       - name: Notify issue
-        run: >-
-          curl --request POST
-            --data "{'body': 'Labels have been synced!\nSee: ${EXPLAINING_LINK}'}"
-            --header "Authorization: token $GITHUB_API_TOKEN"
+        run: |
+          cat <<EOF > comment-payload.json
+          {"body": "Labels have been synced! About: $EXPLAINING_LINK\n\n<sub>:scroll: Technical log: https://github.com/$GITHUB_REPOSITORY/commit/$GITHUB_SHA/checks#step:3:15</sub>"}
+          EOF
+          cat comment-payload.json
+          curl --request POST \
+            --date @comment-payload.json \
+            --header "Authorization: token $GITHUB_API_TOKEN" \
             "https://api.github.com/repos/${NOTIFIED_REPO}/issues/${NOTIFIED_ISSUE}/comments"
