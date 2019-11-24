@@ -29,6 +29,10 @@ jobs:
         hyphacoop/test-private
         hyphacoop/vision.hypha.coop
         hyphacoop/worker-coop-scripts
+      # Posts comment to https://github.com/hyphacoop/organizing/issues/145
+      NOTIFIED_REPO: hyphacoop/organizing
+      NOTIFIED_ISSUE: 145
+      EXPLAINING_LINK: https://github.com/hyphacoop/organizing/pull/146
     steps:
       - name: Setup PHP
         # See: https://github.com/shivammathur/setup-php
@@ -36,9 +40,16 @@ jobs:
         with:
           php-version: '7.3'
       # See: https://github.com/vanilla/github-sync
-      - run: |
+      - name: Sync labels
+        run: |
           composer require vanilla/github-sync
           for target in $LABEL_REPO_TARGETS; do
             # NOTE: "prune" ensures that missing tags will be culled from target repo, but ONLY if they are unused.
             ./vendor/bin/github-sync labels --from $LABEL_REPO_SOURCE --to $target --delete prune
           done
+      - name: Notify issue
+        run: >-
+          curl --request POST
+            --data "{'body': 'Labels have been synced!\nSee: ${EXPLAINING_LINK}'}"
+            --header "Authorization: token $GITHUB_API_TOKEN"
+            "https://api.github.com/repos/${NOTIFIED_REPO}/issues/${NOTIFIED_ISSUE}/comments"
