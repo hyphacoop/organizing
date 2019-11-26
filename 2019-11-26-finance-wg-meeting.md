@@ -5,7 +5,7 @@
 Time:       Tue, Nov 26, 2019 @ 10:00am   
 Location:   https://jitsi.hypha.coop/hyphacoop  
 Attending:  yj, bl, pc  
-Cultivator: bl
+Cultivator: bl  
 Notetaker:  bl
 
 ## Agenda
