@@ -54,6 +54,6 @@ jobs:
           EOF
           cat comment-payload.json
           curl --request POST \
-            --date @comment-payload.json \
+            --data @comment-payload.json \
             --header "Authorization: token $GITHUB_API_TOKEN" \
             "https://api.github.com/repos/${NOTIFIED_REPO}/issues/${NOTIFIED_ISSUE}/comments"
