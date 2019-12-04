@@ -71,7 +71,7 @@ Notetaker:  uv :raising_hand: Next up: gi, pc, dc, el, bl, yj, uv
 - Person: pc
     - last: 
         - nice to have issues
-            - chatbot can deal with private messages
+            - chatbot can deal with private meeting notes
         - labels get synced with other repositories
         - handbooks and toolchains
         - fix up on github pages site that hosts notes
