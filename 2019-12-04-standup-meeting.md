@@ -145,7 +145,6 @@ Notetaker:  gi :raising_hand: Next up: dc, el, bl, yj, uv, pc, gi
     - ben: gi, uv, pc sync up pls
 - Schedule biz dev WG meeting
     - Reschedule for next week
-- udit: a bit separate, but would be nice to have shared language across all
 
 <!-- Links: Important -->
 [standup-template]: https://link.hypha.coop/standup-template
