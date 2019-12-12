@@ -27,7 +27,7 @@ Notetaker:  pc :raising_hand: Next up: gi, dc, el, bl, yj, uv, pc
 
 ### Personal Checkins
 
-- dc: obsessed with bsessedbsessedreacts to (previously derided) metalcore music videos: e.g., https://www.youtube.com/watch?v=8HFnXs3WAEs and https://www.youtube.com/watch?v=1coGoyz7pbI
+- dc: obsessed with reaction videos to (previously derided) metalcore music videos: e.g., https://www.youtube.com/watch?v=8HFnXs3WAEs and https://www.youtube.com/watch?v=1coGoyz7pbI
 
 
 ### Task Board Review
