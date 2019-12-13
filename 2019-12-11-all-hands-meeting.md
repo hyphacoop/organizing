@@ -109,7 +109,7 @@ Notetaker:  el :raising_hand: Next up: el, dc, bl, yj, uv, pc, gi
             - pc: payroll system seems to not fit our structure
             - pc: are we employees or contractors?
             - dc: irregular payroll can be not contractors
-            - dc: should've had a discussion before spawning a bunch of issues that make it seem a bunch of work, when in reality we probably don't need most of it
+            - dc: should have discussion before spawning a bunch of issues with a bunch of work, when we probably don't need to do all of it
             - bl: want more clarification about owner vs. employee vs. contractor from payroll/tax perspective, and from worker co-op requirement perspective
             
 ### Process Checkout
