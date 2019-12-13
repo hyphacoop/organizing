@@ -53,7 +53,7 @@ Notetaker:  ben, patcon
         - uv: we can change later, so let's do one default :+1:
     - uv: :bulb: internal buy-in is part of pipeline :+1:
         - before or after research? before.
-    - pc: :bulb: don't care about column labels. but my only strong preference is to have a first inactive columns, and the next one for more active deals like ~~distributed.press~~ :+1:
+    - pc: :bulb: don't care about column labels. but my only strong preference is to have a first inactive columns, and the next one for more active deals like ~~████████~~ :+1:
     - uv: :heart: backlog (first column) feels like "potential leads"
     - some "percentage closed" numbers stay the same in progressing columns.
         - pc: :bulb: let's have them always go up?
