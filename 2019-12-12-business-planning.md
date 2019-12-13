@@ -38,7 +38,7 @@ Notetaker:  ben, patcon
     - uv: project ppl pls put a paragraph (Primal Glow, Aether) #todo:bl+pc
     - uv: what other capabilities to put in a client-facing deck
     - uv: schedule half hour to do some brainstorming. #todo:uv schedule in new year.
-    - bl: overlap with website and garry's work
+    - bl: overlap with website and garry's work #77 
     - uv: timeline, done by end of Jan
     - all: focus on prior experiences and skillsets
     - dc: suggestion: template, ways to add future projects/elements to it
