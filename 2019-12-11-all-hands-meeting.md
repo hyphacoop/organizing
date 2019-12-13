@@ -71,7 +71,7 @@ Notetaker:  el :raising_hand: Next up: el, dc, bl, yj, uv, pc, gi
         - dc: they don't make you re-sign it per year even though technically you should
     - Waiting for approval from transferwise 
 - [Governance][gov-wg] :white_check_mark: [`wg:governance`][l-gov]
-    - Havent' been meeting and picking up meeting in the new year
+    - Haven't been meeting and picking up meeting in the new year
 - [Infra & Ops][ops-wg] :white_check_mark: [`wg:infra-ops`][l-ops]
     - Blocked on not having a meeting
 
