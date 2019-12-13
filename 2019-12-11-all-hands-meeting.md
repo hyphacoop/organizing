@@ -64,7 +64,7 @@ Notetaker:  el :raising_hand: Next up: el, dc, bl, yj, uv, pc, gi
 - [Finance][fin-wg] :white_check_mark: [`wg:finance`][l-fin]
     - patcon: #156 Payroll. Finance WG decided to go with Wagepoint. Registered. CRA payroll program account is now set up. Currently doing Wagepoint setup.
     - Decided not to go with QB payroll and using wagepoint
-    - decide on vacation time 
+    - Decide on vacation time 
     - ex. $100 from client, employee gets $75 + (4% of $75)
         - vacation accrual. pay out weekly for now, but is short-term. expect to start withholding and manage in medium future, e.g. before year-end.
     - TD1 and TD1-ON
