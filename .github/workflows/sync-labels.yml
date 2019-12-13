@@ -5,7 +5,7 @@ on:
     types: [created, edited, deleted]
   push:
     paths:
-      - .github/workflows/*.yml
+      - .github/workflows/sync-labels.yml
     branches:
       - master
 
