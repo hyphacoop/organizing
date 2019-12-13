@@ -22,11 +22,11 @@ Notetaker:  ben, patcon
 
 ## Notes
 
-:+1: Agreement
-:heart: Feeling
+:+1: Agreement  
+:heart: Feeling  
 :bulb: Ideas/Proposals
 
-- business plan
+- #85 business plan
     - dc: let's treat this as snapshotted doc that goes to sleep, not living doc :+1:
         - :bulb: let's put away and revisit for AGM? :+1: all
     - pc: On social assistance rn: Ontario Works. part of that is to write and review a business plan with Toronto Business Development Centre.
@@ -76,8 +76,8 @@ Notetaker:  ben, patcon
 ### Action Items for Cultivator
 
 - [ ] Migrate items with `#todo:person` to [task board][tasks]
-- [ ] Publish meeting notes to [GitHub][gh]
-- [ ] Publish [meeting template][template] for next [meeting][meetings]
+- [x] Publish meeting notes to [GitHub][gh]
+- [x] Publish [meeting template][template] for next [meeting][meetings]
 
 <!-- Links: Important -->
 [template]: https://link.hypha.coop/template
