@@ -88,7 +88,7 @@ _`#acc` indicates questions for our accountant_
 - #todo infra passbolt admin. created #175
     - #todo infra doc groups
     - #todo safe place to store within the week
-- #todo wrap up in year-end summary
+- #todo wrap up in year-end summary #164
     - #todo couple lines from each 1h before
     - #todo:patcon group summary
 
