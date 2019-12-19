@@ -1,5 +1,6 @@
 ---
-private: false
+breaks:  false # See: https://github.com/hackmdio/codimd/issues/40#issuecomment-172927690
+private: false # See: https://github.com/hyphacoop/hyphacoop-chatbot#archive
 ---
 # YYYY-MM-DD Hypha Worker Co-op: All Hands Meeting
 
