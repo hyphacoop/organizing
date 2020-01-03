@@ -15,7 +15,7 @@ Attending:
 - neto - [Camba Co-op](https://camba.coop/), Buenos Aires, Argentina
 
 
-**Contents**
+**Contents**  
 [TOC]
 
 ## Notes
