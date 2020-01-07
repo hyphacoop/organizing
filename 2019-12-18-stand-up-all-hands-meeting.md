@@ -93,7 +93,7 @@ Notetaker:  dc :raising_hand: Next up: bl, yj, uv, pc, gi, el, dc
     - Holding off on it until we have a clearer picture
     - Currently able to use YJ's temporary number in meantime
 - Branding
-    - dc: I'm hoping we can have a minimum product that we are able to share feels like a priority. I was not expecting us to still be where we are end of 2019
+    - dc: I'm hoping we can have a minimum product that we are able to share. This feels like a priority. I was not expecting us to still be where we are end of 2019
     - bl: see a priority
     - pc: we can be thoughtful about communicating that to luisa
     - bl: pitch deck / branding synchronization?
