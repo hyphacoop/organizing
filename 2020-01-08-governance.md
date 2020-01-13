@@ -26,7 +26,7 @@ Notetaker: dw
 
 ### Personal Checkins
 
-- Pre-convo took us into meeting
+- pc: pre-convo that took us into meeting
 - dc: holiday mostly catching up on slowing down
 
 ### Milestones Review
@@ -88,21 +88,21 @@ From 2019-12-18 all hands:
     - Triage new tasks
     - missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]
 
-- Did a triage in order except looked at missing labels 
+- Did triage in order except for looking at missing labels 
 
 
 ### Discussions
 
 - Governance and Operations boundary?
-    - dc: concern over just bolting Ops on, should be its own thing (even if meets together/has same people for now.)
+    - dc: concern over just bolting Ops on, should be its own thing (even if it meets together/has same people for now)
         - very different scale of action
-        - worried if/how operations gets "ghettoized" as the no one wants to do tasks if left by itelf
+        - worried if/how operations gets "ghettoized" as the no one wants to do tasks if they are left by themselves
     - pc: importance of defining roles
 - What makes a successful AGM? What is it not?
     - pc: Should feel celebratory. Assuming bare minimum requirements are already done. Shouldn't feel rote/procedural (despite things being stacked in favour of that happening)
-    - dc: Alleviates tensions from previous year and sets a course for upcoming, in motivating way. Not a place to initiate controversial convos. If challenging topics, should have prep. No surprises.
+    - dc: Alleviates tensions from previous year and sets a course for upcoming year in a motivating way. Ideally, not a place to initiate controversial convos. If challenging topics, should have prep. No surprises to most people there.
 - Proposal for Operations:
-    - New tag for "in between" tasks (`needs-review`, `ownership-issue`, `boundary-object`)
+    - New tag for "in between" tasks (e.g., could be `needs-review`, `ownership-issue`, `boundary-object`)
     - `wg:ops` as new tag, rename existing to `wg:infra` 
     - "Ops" work (potentially) addressed at Governance WG for now.
 - Things to take to meeting today:
@@ -126,8 +126,8 @@ From 2019-12-18 all hands:
 
 ### Action Items for Cultivator
 
-- [ ] Migrate items with `#todo:person` to [task board][tasks]
-- [ ] Publish meeting notes to [GitHub][gh]
+- [x] Migrate items with `#todo:person` to [task board][tasks]
+- [x] Publish meeting notes to [GitHub][gh]
 - [ ] Publish [meeting template][template] for next [meeting][meetings]
 - [ ] dc: check in with uv about membership 
 - [ ] wg: 15 mins prep for next week
