@@ -18,6 +18,8 @@ Notetaker:  ... :raising_hand: Next up: COPY FROM PAST WEEK
   1. What did you work on this past week?
   2. What do you plan to work on this coming week?
   3. What are your blockers?
+  
+**Helpful link:** https://github.com/issues?q=org:hyphacoop+sort:updated-desc+involves:YOU
 
 ## Standup Notes
 
