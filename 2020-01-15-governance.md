@@ -166,7 +166,11 @@ Process questions:
 - [ ] Migrate items with `#todo:person` to [task board][tasks]
 - [ ] Publish meeting notes to [GitHub][gh]
 - [ ] Publish [meeting template][template] for next [meeting][meetings]
-- [ ] dc: 
+- [x] dc: governance goals shared to larger group
+- [ ] dc: ask any reason milestones/goals these might be sensitive info (aka can we post publicly?
+- [ ] dc: get governing visioning questions answered at all hands
+- [ ] dc: develop plan of work to achieve milestones (with AGM as critical milestone)
+- [ ] future conversation to finalize language if needed
 
 
 <!-- Links: Important -->
