@@ -163,8 +163,8 @@ Process questions:
 
 ### Action Items for Cultivator
 
-- [ ] Migrate items with `#todo:person` to [task board][tasks]
-- [ ] Publish meeting notes to [GitHub][gh]
+- [x] Migrate items with `#todo:person` to [task board][tasks]
+- [x] Publish meeting notes to [GitHub][gh]
 - [ ] Publish [meeting template][template] for next [meeting][meetings]
 - [x] dc: governance goals shared to larger group
 - [ ] dc: ask any reason milestones/goals these might be sensitive info (aka can we post publicly?
