@@ -1,6 +1,7 @@
 ---
 breaks:  false # See: https://github.com/hackmdio/codimd/issues/40#issuecomment-172927690
 private: false # See: https://github.com/hyphacoop/hyphacoop-chatbot#archive
+robots: noindex, nofollow, noarchive, nocache
 ---
 # YYYY-MM-DD Hypha Worker Co-op: Standup Meeting
 
