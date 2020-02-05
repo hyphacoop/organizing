@@ -73,7 +73,6 @@ Notetaker:  pc :raising_hand: Next up: yj, uv, gi, el, dc, bl, pc
     - ben: in Toronto all days of May
 - uv: i need bios from everyone #todo
 
-## Chat Summary
 ```
 **To Dos** from All Hands Standup meeting:
 - all: **feedback** for ben on dweb proposal in issue ⌛️ Jan 21 [organizing-private#11](https://github.com/hyphacoop/organizing-private/pull/11)
