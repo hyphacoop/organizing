@@ -21,6 +21,8 @@ Notetaker:  pc :raising_hand: Next up: yj, uv, gi, el, dc, bl, pc
 
 ## Standup Notes
 
+### Personal check-in 
+
 - what was your first email handle?
     - ben: ben_11991001 (ICQ NUMBA 4LYFE)
     - udit: udit10@ (age)
@@ -28,38 +30,33 @@ Notetaker:  pc :raising_hand: Next up: yj, uv, gi, el, dc, bl, pc
     - elon: SAMESIES as now. COMMITMENT
     - dc: used her a/s/l. burner addresses every yeeeeaaar. then greek mythos.
 
+### Standup
 
 - Person: ben
     - last: lots of docs. wrote dweb proposal.
     - next: dweb call is next week. call with Wendy on **Jan 21**
     - blockers: #todo needs feedback on  https://github.com/hyphacoop/organizing-private/pull/11
-
 - Person: elon
     - last: infra meeting.
     - next: cultivating infra.
     - blockers: none.
-
 - Person: garry
     - last: n/a
     - next: catchup. branding work.
         - udit: bizdev meeting wants to make easier for garry w/ limited time.
     - blockers: feels in need of recap.
-
 - Person: dc
     - last: governance stuffs. cultivated gov wg! bizdev stuff. reviewed PRs. insurance call.
     - next: more governance stuff re: objectives w goal-planning.
     - blockers: none.
-
 - Person: patcon
     - last: recently updated tix, updated crm deals, emails (code for canada, bookkeeper), payroll was run, learning accounting software, wrote guide doc for storing sensitive information, email address policy, circle-ci deploy fixes in handbook
     - next: figuring out personal emails (ben feels priority), getting bookkeeper sorted, push some bizdev activities forward (CfC or CWCF grant)
     - blockers: none.
-
 - Person: udit
     - last: cultivation, biz planning, worked on intro deck. liking the momentum
     - next: discuss intro deck feedback tomorrow
     - blockers: no blocks
-
 - Person: yj
     - last: infra & finance meetings, late-night payroll party
     - next: not much
@@ -72,6 +69,8 @@ Notetaker:  pc :raising_hand: Next up: yj, uv, gi, el, dc, bl, pc
 - dc: when AGM will happen. June 30 year-end. AGM must be before, to have bylaws. we need a time we can all be here. hold 1.5 days: AGM and funtimes and strategy.
     - ben: in Toronto all days of May
 - uv: i need bios from everyone #todo
+
+## Action Items
 
 ```
 **To Dos** from All Hands Standup meeting:
