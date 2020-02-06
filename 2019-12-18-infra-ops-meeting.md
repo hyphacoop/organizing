@@ -24,8 +24,6 @@ Notetaker:  patcon
 
 ## Notes
 
-- ...
-
 ### Personal Checkins
 
 - ... (skipped)
@@ -86,7 +84,6 @@ Notetaker:  patcon
 ### Process Checkout
 
 - pc: we didn't discuss tasks. if this was a problem, one of us should probably have mentioned it earlier :)
-
 
 ### Action Items for Cultivator
 
