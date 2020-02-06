@@ -31,12 +31,11 @@ Notetaker:  dc
 - dc: 
     - "Develop robust leads and opportunities pipeline" in business plan
     - get customers!
-        O: "Have new customers and future projects by Q1 end"
-        KR:
-            - Have X customers
+        - O: "Have new customers and future projects by Q1 end"
+        - KR: Have X customers
     - financial sustainability!
-        O: "An understanding of our burn rate and financial sustainability projection"
-        (I think Q1 this might take the form of are there less exciting, easier to get projects we need to pursure)
+        - O: "An understanding of our burn rate and financial sustainability projection"
+          (I think Q1 this might take the form of "are there less exciting, easier to get projects we need to pursue")
     - Implement Engagement Strategy (Develop initial brand, Build relationships)
         - Develop brand lookbook
         - Re-launch website
