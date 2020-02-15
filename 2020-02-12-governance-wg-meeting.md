@@ -47,7 +47,7 @@ Notetaker: dc
 - #102 AGM status update
     - discussing [doc](https://docs.google.com/document/d/1fBm-OB_haaGEIEDGvekMA9wivjJNiA1MCP1Qf-i6QbA/edit)
         - need to email everyone individually, not group
-- #xx Peer-feedback
+- #202 Peer-feedback
     - happening at agm or launching at agm
     - kickoff too structured? versus accountability on our own time
     - pc: previous experience:
