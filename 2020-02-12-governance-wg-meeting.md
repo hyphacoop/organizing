@@ -27,9 +27,9 @@ Notetaker: dc
 
 ### Personal Checkins
 
-- In honour of my dying tooth, what is a part of your body you could be friends with?
+- In honour of dc's dying tooth, what is a part of your body you could be friends with?
     - pc: gut flora (what are you? "are you in or are you out?")
-        - dc: it's probably the tooth! Despite it leaving me x2. Not life-threatening :grimacing: 
+    - dc: it's probably the tooth! Despite it leaving me x2. Not life-threatening :grimacing: 
 
 ### Task Board Review
 
@@ -47,26 +47,26 @@ Notetaker: dc
 - #102 AGM status update
     - discussing [doc](https://docs.google.com/document/d/1fBm-OB_haaGEIEDGvekMA9wivjJNiA1MCP1Qf-i6QbA/edit)
         - need to email everyone individually, not group
-    - #xx Peer-feedback
-        - happening at agm or launching at agm
-        - kickoff too structured? versus accountability on our own time
-        - pc: previous experience:
-            - working with supervisor intially
-            - pairing people
-            - enspiral chain of "mentorship" supported by kit or guide
-            - full-time: bi-weekly/monthly at pace with org. 
-            - primed with questions to support each other:
-                - e.g., "what are you learning? how to support you right now?"
-        - dc: in some of the organizational time taking space and provide support (time+space) for 
-            - setting up peer relationship
-            - doing some individal goal setting
-            - launching peer rel'n
-            - maybe some (by choice) way to share back
-        - How often?
-            - self-selected threshold? 5 hours a month hypha time too little?
-            - not try for one fit all sol'n
-            - maybe a "buy-in"?
-            - have planning sesh check-in
+- #xx Peer-feedback
+    - happening at agm or launching at agm
+    - kickoff too structured? versus accountability on our own time
+    - pc: previous experience:
+        - working with supervisor intially
+        - pairing people
+        - enspiral chain of "mentorship" supported by kit or guide
+        - full-time: bi-weekly/monthly at pace with org. 
+        - primed with questions to support each other:
+            - e.g., "what are you learning? how to support you right now?"
+    - dc: in some of the organizational time taking space and provide support (time+space) for 
+        - setting up peer relationship
+        - doing some individal goal setting
+        - launching peer rel'n
+        - maybe some (by choice) way to share back
+    - How often?
+        - self-selected threshold? 5 hours a month hypha time too little?
+        - not try for one fit all sol'n
+        - maybe a "buy-in"?
+        - have planning sesh check-in
     - pc: reflecting about the roll out process
         - what to do together? more together before individual ones?
     - dc: thinking about the pace-- first year gets us on the right track (germinating seeds) but maybe not the final form (flowering plants)
@@ -117,11 +117,11 @@ Notetaker: dc
 ### Action Items for Cultivator
 
 - [ ] Migrate items with `#todo:person` to [task board][tasks]
-- [ ] Publish meeting notes to [GitHub][gh]
+- [x] Publish meeting notes to [GitHub][gh]
 - [ ] Publish [meeting template][template] for next [meeting][meetings]
 - [ ] ops could make a template/set of questions for a role to fill
-- [ ] patcon: to open PR
-- [ ] dc: to review
+- [ ] patcon: to open PR (for social media role)
+- [ ] dc: to review (for social media role)
 - [ ] patcon: ask for opinions/mention at call tonight. discuss next all hands?
 
 <!-- Links: Important -->
