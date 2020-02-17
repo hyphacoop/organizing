@@ -36,7 +36,6 @@ bl - turtles, dont knwo where they came from, and dont know where they went (May
 el - No pets
 pc - No pet currently but once "mom came home with it".
 
-
 ### Task Board Review
 
 - Archive _Done_ tasks :tada:
@@ -56,7 +55,7 @@ pc - No pet currently but once "mom came home with it".
 
 - [Business Planning][biz-wg] :white_check_mark: [`wg:business-planning`][l-biz]
     - bl: working on "investment readiness program" (IRP)
-        - IRP - try an see if there is a fit with helping civic tech toronto and other groups to become coop
+        - IRP - try an see if there is a fit with helping civic tech projects become coop
             - co-op development ideas
         - have not gotten full approval to go ahead
         - proposal draft: https://docs.google.com/document/d/1_s9vdwZf7OJrgK_g8YGpfqvUKjr1UGdE9E40wgLghGA/edit#
@@ -126,14 +125,6 @@ pc - No pet currently but once "mom came home with it".
         - suggest: full hour next week?
         - suggest: commit to use next WG meeting groups to discuss
         - DECISION: 1h for goal discussion next week (replace standup)
-    - Business Planning Goals:
-        - **O** Build our engagement strategy (eg. brand, web presence, outreach)
-            - **KRs** discussed : build intro/brand book, branded website
-        - **O**  Develop our leads and opportunities pipeline
-        - **O** Gain a better sense of work that people want to do (what opportunities should we go focus our energies on, gauge interest on different kinds of projects)
-        - **O** Assess our financial sustainability (as “capacity to endure”) 
-            - **KR** develop key metrics and initial projection
-        - **O** Shorten our lead-to-proposal time (i.e. the time it takes from identifying an opportunity to getting member buy-in in order to submit a proposal)
 
 - bl: IRP proposal validation?
     - uv: async? :+1: 
@@ -141,7 +132,6 @@ pc - No pet currently but once "mom came home with it".
 ### Process Checkout
 
 - pc: we went overtime by 20min
-
 
 ### Action Items for Cultivator
 
