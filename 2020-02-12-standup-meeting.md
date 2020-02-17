@@ -41,11 +41,11 @@ Notetaker:  el :raising_hand: Next up: uv, gi, bl, pc, dc, yj, el
 ## Goal-setting discussion
 - Infra
     - Feedback
-        - O1 how bizdev going to support
-        - work with bizdev on one pager
+        - How will bizdev support?
+        - Work with bizdev on one pager
     - Discussion about sequencing, are these only Q1? Q2? 
         - What about other WGs? Seems like some Q1-Q2, some Q1-Q3
-- finance
+- Finance
     - Feedback
         - some of the Q3 can be Q2
 - Governance Goals:
@@ -102,7 +102,7 @@ pc: move OKRs to spreadsheet?
     - handbook cannot use colour code to track status
     - dc: propose draft in handbook
     - bl: don't use the current spreadsheet too much stuff in current one and have too much noise
-    - bl: consistance colour code
+    - bl: consistent colour code
     - pc: want to use current sheet for next round
     - bl: the template isn't suitable for us have other stuff that we don't need
     - pc: bl feel free to create a new 
