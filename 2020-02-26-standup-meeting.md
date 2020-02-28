@@ -65,7 +65,6 @@ Notetaker:  gi :raising_hand: Next up: bl, pc, dc, yj, el, uv, gi
     - blockers:
         - Discussion items underneath
         - Please ask about logging time with clients/invoices/docs to get paid
-            - Needed to close off finance tickets
 - el: 
     - last:
         - Worked infra meeting about Free work
@@ -93,7 +92,7 @@ Notetaker:  gi :raising_hand: Next up: bl, pc, dc, yj, el, uv, gi
 
 - bl joining governance + ops
     - Call for joining? and new time?
-    - dc: hard to finding new time and blocking off
+    - dc: hard to finding new time and blocking off (bl: okay for existing time)
 - dc: next steps on closing PRs?
     - Hanging for 2 weeks
     - pc: direct reach out?
@@ -154,7 +153,7 @@ Notetaker:  gi :raising_hand: Next up: bl, pc, dc, yj, el, uv, gi
             - bl: go to finance room to address the questions
         - dc: DEADLINES! Can we have them in calendars?
         - dc: invoicing schedules?
-            - bl: payday payroll dates in the calendar. more dates, yes.
+            - bl: dates for payday, payroll submission deadline, and invoice deadline in the calendar. more dates, yes.
     - Send me your TD forms + SIN
         - dc: can you be clear about what is still required from whom?
             - bl: we only have TD1 and TD1-ON from pc, bl, yj, so we still need them from
@@ -162,6 +161,8 @@ Notetaker:  gi :raising_hand: Next up: bl, pc, dc, yj, el, uv, gi
                 - [ ] dc: my SIN is in passbolt I think? I added it before.
                 - [ ] uv
                 - [ ] gi: SIN in passbolt via pc
+            - bl: I need y'all to send an encrypted PDF of TD1 and TD1-ON forms to the [Tax Forms folder](https://drive.google.com/drive/u/0/folders/12JanjbeK_oZifxpxusxJEaYKUR4b7Xul) in our Drive
+                - See [here](https://handbook.hypha.coop/guides.html#sensitive-data) for instructions
 
 
 <!-- Links: Important -->
