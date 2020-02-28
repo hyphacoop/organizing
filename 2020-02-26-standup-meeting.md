@@ -58,7 +58,8 @@ Notetaker:  gi :raising_hand: Next up: bl, pc, dc, yj, el, uv, gi
         - Client agreement template, and IP template (need agreement)
     - next: 
         - Call with Jonathan (re: Starling initiative).
-        - Shift focus on Finance
+        - Shift focus from Bizdev to Finance
+            - Needed to close off finance tickets
         - Primary focus: handbook and issue resolution
             - Prototyping jekyll based index
     - blockers:
