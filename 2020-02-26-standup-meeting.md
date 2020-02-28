@@ -53,7 +53,7 @@ Notetaker:  gi :raising_hand: Next up: bl, pc, dc, yj, el, uv, gi
     - last:
         - Deck work with gi
         - Ensuring Free opportunity moves forward
-        - DWeb Camp 2020 deal close
+        - Closer to agreement on DWeb Camp 2020 deal
             - Concerns with COVID-19
         - Client agreement template, and IP template (need agreement)
     - next: 
