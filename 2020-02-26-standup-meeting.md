@@ -61,7 +61,7 @@ Notetaker:  gi :raising_hand: Next up: bl, pc, dc, yj, el, uv, gi
         - Shift focus from Bizdev to Finance
             - Needed to close off finance tickets
         - Primary focus: handbook and issue resolution
-            - Prototyping jekyll based index
+        - Prototyping jekyll based index for meeting notes
     - blockers:
         - Discussion items underneath
         - Please ask about logging time with clients/invoices/docs to get paid
