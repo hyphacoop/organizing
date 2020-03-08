@@ -2,7 +2,7 @@
 breaks:  false # See: https://github.com/hackmdio/codimd/issues/40#issuecomment-172927690
 private: false # See: https://github.com/hyphacoop/hyphacoop-chatbot#archive
 ---
-# 2020-20-01 Hypha Worker Co-op: Standup Meeting
+# 2020-20-01 Hypha Worker Co-op: Infrastructure Standup Meeting
 
 <sup>[from template][standup-template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][gdrive]</sup>
 
