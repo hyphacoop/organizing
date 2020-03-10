@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    <main class="page-content" aria-label="Content">
+
+        <div class="wrapper">
+          {{ content }}
+        </div>
+
+        <div class="nav">
+
+          <ul>
+            <h2>Meeting Notes</h2>
+              <li>
+                <a href="https://hackmd.io/d0lpI2sNTJOtvLlE4_86Cg?edit">All Hands: Full</a> <a href="https://raw.githubusercontent.com/hyphacoop/organizing/master/-meeting-template.md">:clipboard:</a>
+              </li>
+              <li>
+                <a href="https://hackmd.io/LXg-o9b7QIO_lyeHPirH8A?edit">All Hands: Standup</a> <a href="https://raw.githubusercontent.com/hyphacoop/organizing/master/-standup-template.md">:clipboard:</a>
+              </li>
+              <li>
+                <a href="https://hackmd.io/1JMsZ8IdSb6bp4VFB1dUtw?edit">WG: Business Planning</a>
+              </li>
+              <li>
+                <a href="https://hackmd.io/YclYMO0KTT2n_5xmArdMDA?edit">WG: Finance</a>
+              </li>
+              <li>
+                <a href="https://hackmd.io/JT5qnRwnTs6J3vLlf4UyFA?edit">WG: Governance</a>
+              </li>
+              <li>
+                <a href="https://hackmd.io/C8uSvttkR1OaQWFNcRQWvQ?edit">WG: Infrastructure</a>
+              </li>
+          </ul>
+
+          <ul>
+            <h3>Archived</h3>
+            {% for post in site.posts %}
+              {% if post.path contains "meeting-notes/" %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+
+          <ul>
+            <h3>Informational Interviews</h3>
+            {% for post in site.posts %}
+              {% if post.path contains "informational-interviews/" %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+
+          <ul>
+            <h3>2018 December Retreat</h3>
+            {% for post in site.posts %}
+              {% if post.path contains "2018-december-retreat/" %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+
+        </div>
+
+    </main>
+
+  </body>
+
+</html>
