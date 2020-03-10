@@ -22,7 +22,7 @@ title: "Hypha Organizing"
 email: hello@hypha.coop
 description: >- # this means to ignore newlines until "baseurl:"
   Coordination and documents for Hypha, a worker co-operative based out of Ontario, Canada.
-baseurl: "organizing" # the subpath of your site, e.g. /blog
+baseurl: "/organizing" # the subpath of your site, e.g. /blog
 url: "https://hyphacoop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hyphacoop
 github_username:  hyphacoop
@@ -55,6 +55,9 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "default"
+
+# External repository where private documents are available with access restriction
+organizing-private: https://github.com/hyphacoop/organizing-private/blob/site
 
 # Exclude from processing.
 # The following items will not be processed, by default.

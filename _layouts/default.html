@@ -38,7 +38,11 @@
           <ul>
             <h3>Archived</h3>
             {% for post in site.posts %}
-              {% if post.path contains "meeting-notes/" %}
+              {% if post.path contains "private/meeting-notes/" %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a> :lock:
+                </li>
+              {% elsif post.path contains "meeting-notes/" %}
                 <li>
                   <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
                 </li>
@@ -49,7 +53,11 @@
           <ul>
             <h3>Informational Interviews</h3>
             {% for post in site.posts %}
-              {% if post.path contains "informational-interviews/" %}
+              {% if post.path contains "private/informational-interviews/" %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a> :lock:
+                </li>
+              {% elsif post.path contains "informational-interviews/" %}
                 <li>
                   <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
                 </li>
