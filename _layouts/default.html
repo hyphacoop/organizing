@@ -40,11 +40,11 @@
             {% for post in site.posts %}
               {% if post.path contains "private/meeting-notes/" %}
                 <li>
-                  <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a> :lock:
+                  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a> :lock:
                 </li>
               {% elsif post.path contains "meeting-notes/" %}
                 <li>
-                  <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
+                  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
                 </li>
               {% endif %}
             {% endfor %}
@@ -55,11 +55,11 @@
             {% for post in site.posts %}
               {% if post.path contains "private/informational-interviews/" %}
                 <li>
-                  <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a> :lock:
+                  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a> :lock:
                 </li>
               {% elsif post.path contains "informational-interviews/" %}
                 <li>
-                  <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
+                  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
                 </li>
               {% endif %}
             {% endfor %}
@@ -70,7 +70,7 @@
             {% for post in site.posts %}
               {% if post.path contains "2018-december-retreat/" %}
                 <li>
-                  <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
+                  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
                 </li>
               {% endif %}
             {% endfor %}
