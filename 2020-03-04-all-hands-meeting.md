@@ -109,7 +109,7 @@ Tell one positive and/or negative mood you are feeling and explain why. It can b
 
 - Next week, March 11, 30 minutes to discuss dc's proposal to start her research!
     - [Gdrive with Academic Proposal and Ethics](https://drive.google.com/drive/folders/1GKAPRigk-nj_IZMxjFPathjsxIc5iimh) :lock: 
-    - [Project Partnership Proposal (Totally a Pitch!)](/kLoRWrsnQAGg29pVtZvYSQ)
+    - [Project Partnership Proposal (Totally a Pitch!)](https://hackmd.io/kLoRWrsnQAGg29pVtZvYSQ)
         - Preliminary consensus to go-ahead back in Summer 2019 (phew!)
         - Since then: dc has done desk research on history around alternative networks and decentralization. Profiled/identified contemporary dweb projects, about to approach other sites.
         - Would want to discuss and revise this together. Seeking to have 1 week review after call, tentatively Mar 18 to decide?
