@@ -2,13 +2,13 @@
 breaks:  false # See: https://github.com/hackmdio/codimd/issues/40#issuecomment-172927690
 private: false # See: https://github.com/hyphacoop/hyphacoop-chatbot#archive
 ---
-# 2020-20-01 Hypha Worker Co-op: Infrastructure Standup Meeting
+# 2020-02-01 Hypha Worker Co-op: Infrastructure Standup Meeting
 
 <sup>[from template][standup-template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][gdrive]</sup>
 
-Time:       5:00 PM EST
+Time:       5:00 pm EST
 Location:   https://jitsi.hypha.coop/hyphacoop  
-Attending:  pc,yj,el.  
+Attending:  pc, yj, el  
 Cultivator: yj  
 Notetaker:  pc,el :raising_hand: Next up: COPY FROM PAST WEEK
 
