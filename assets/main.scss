@@ -1,0 +1,24 @@
+---
+---
+
+@import "minima";
+
+.wrapper {
+  position:relative;
+  float: left;
+  overflow: auto;
+  width: 70%;
+  height: 100%;
+}
+
+.nav {
+  position: relative;
+  float: right;
+  overflow: auto;
+  width: 30%;
+  height: 100%;
+
+  ul {
+    list-style-type: none;
+  }
+}
