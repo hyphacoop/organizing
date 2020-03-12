@@ -1,29 +1,27 @@
 ---
 breaks:  false # See: https://github.com/hackmdio/codimd/issues/40#issuecomment-172927690
-private: false # See: https://github.com/hyphacoop/hyphacoop-chatbot#archive
-robots: noindex, nofollow, noarchive, nocache
 ---
-# YYYY-MM-DD Hypha Worker Co-op: All Hands Meeting
+# 2020-MM-DD Hypha Worker Co-op: All Hands
 
-<sup>[from template][template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][gdrive]</sup>
+<sup>[from template][template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][drive]</sup>
 
-Time:       ...  
+Time:       5-5:30pm ET  
 Location:   https://jitsi.hypha.coop/hyphacoop  
 Attending:  ...  
 Cultivator: ...  
-Notetaker:  ... :raising_hand: Next up: COPY FROM PAST WEEK
+Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
 
 ## Agenda
 
-| Item                                        | Time (min) |
-|:--------------------------------------------|-----------:|
-| [Personal Checkins](#Personal-Checkins)     |          5 |
-| [Task Board Review](#Task-Board-Review)     |         25 |
-| --- [Working Group Updates](#Working-Group-Updates) |    |
-| --- [Project Updates](#Project-Updates)     |            |
-| [Announcements](#Announcements)             |          5 |
-| [Discussions](#Discussions)                 |         20 |
-| [Process Checkout](#Process-Checkout)       |          5 |
+| Item                                            | Time (min) |
+|:------------------------------------------------|-----------:|
+| [Personal Checkins](#Personal-Checkins)         |          5 |
+| [Announcements](#Announcements)                 |          5 |
+| [Task Board Review](#Task-Board-Review)         |         15 |
+| [Working Group Updates](#Working-Group-Updates) |          5 |
+| [Project Updates](#Project-Updates)             |          5 |
+| [Discussions](#Discussions)                     |         20 |
+| [Process Checkout](#Process-Checkout)           |          5 |
 
 ## Notes
 
@@ -31,29 +29,35 @@ Notetaker:  ... :raising_hand: Next up: COPY FROM PAST WEEK
 
 - ...
 
-### Task Board Review
-
-- Archive _Done_ tasks :tada:
-- Review [HIGH `[priority-★★★]`][l-pri-hi]
-- Triage new tasks
-- missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]
-
-### Working Group Updates
-
-- [Business Planning][biz-wg] :white_check_mark: [`wg:business-planning`][l-biz]
-    - ...
-- [Finance][fin-wg] :white_check_mark: [`wg:finance`][l-fin]
-    - ...
-- [Governance][gov-wg] :white_check_mark: [`wg:governance`][l-gov]
-    - ...
-- [Infra & Ops][ops-wg] :white_check_mark: [`wg:infra-ops`][l-ops]
-    - ...
-
-### Project Updates
+### Announcements
 
 - ...
 
-### Announcements
+### Task Board Review
+
+- Archive DONE tasks :tada:
+	- ...
+- Review [HIGH `[priority-★★★]`][l-pri-hi] tasks :fire:
+	- ...
+- Triage NEW tasks :new:
+	- ...
+- Assign [UNASSIGNED][l-none] tasks :briefcase:
+	- ...
+
+### Working Group Updates
+
+- [Business Planning][biz-wg] [`wg:business-planning`][l-biz]
+    - ...
+- [Finance][fin-wg] [`wg:finance`][l-fin]
+    - ...
+- [Governance][gov-wg] [`wg:governance`][l-gov]
+    - ...
+- [Infrastructure][inf-wg] [`wg:infra`][l-inf]
+    - ...
+- [Operations][ops-wg] [`wg:ops`][l-ops]
+    - ...
+
+### Project Updates
 
 - ...
 
@@ -69,8 +73,8 @@ Notetaker:  ... :raising_hand: Next up: COPY FROM PAST WEEK
 ### Action Items for Cultivator
 
 - [ ] Migrate items with `#todo:person` to [task board][tasks]
-- [ ] Publish meeting notes to [GitHub][gh]
-- [ ] Publish [meeting template][template] for next [meeting][meetings]
+- [ ] Publish meeting notes as [open access][public], or [publicly indexed][index] with [restricted access][private]
+- [ ] Reset meeting pad for next meeting
 
 <!-- Links: Important -->
 [template]: https://link.hypha.coop/template
@@ -78,7 +82,7 @@ Notetaker:  ... :raising_hand: Next up: COPY FROM PAST WEEK
 [calendar]: https://link.hypha.coop/calendar
 [tasks]:    https://link.hypha.coop/tasks
 [gh]:       https://link.hypha.coop/gh
-[gdrive]:   https://link.hypha.coop/gdrive
+[drive]:    https://link.hypha.coop/drive
 
 <!-- Links: Labels -->
 [l-pri-hi]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:[priority-★★★]
@@ -88,11 +92,18 @@ Notetaker:  ... :raising_hand: Next up: COPY FROM PAST WEEK
 [l-biz]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:business-planning"
 [l-fin]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:finance"
 [l-gov]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:governance
-[l-ops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:infra-ops"
-[l-none]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=-label:wg:infra-ops+-label:wg:finance+-label:wg:governance+-label:wg:business-planning
+[l-inf]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:infra"
+[l-ops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:ops"
+[l-none]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=-label:wg:ops+-label:wg:infra+-label:wg:finance+-label:wg:governance+-label:wg:business-planning
 
 <!-- Links: Working Groups -->
 [biz-wg]: https://link.hypha.coop/biz-wg
 [fin-wg]: https://link.hypha.coop/fin-wg
 [gov-wg]: https://link.hypha.coop/gov-wg
+[inf-wg]: https://link.hypha.coop/inf-wg
 [ops-wg]: https://link.hypha.coop/ops-wg
+
+<!-- Links: Archive -->
+[public]:   https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2020-MM-DD-all-hands.md
+[index]:    https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2020-MM-DD-all-hands.md
+[private]:  https://github.com/hyphacoop/organizing-private/new/master?filename=_posts/meeting-notes/2020-MM-DD-all-hands.md

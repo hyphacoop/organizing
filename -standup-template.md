@@ -1,17 +1,15 @@
 ---
 breaks:  false # See: https://github.com/hackmdio/codimd/issues/40#issuecomment-172927690
-private: false # See: https://github.com/hyphacoop/hyphacoop-chatbot#archive
-robots: noindex, nofollow, noarchive, nocache
 ---
-# YYYY-MM-DD Hypha Worker Co-op: Standup Meeting
+# 2020-MM-DD Hypha Worker Co-op: Standup
 
-<sup>[from template][standup-template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][gdrive]</sup>
+<sup>[from template][template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][drive]</sup>
 
-Time:       ...  
+Time:       5-5:30pm ET  
 Location:   https://jitsi.hypha.coop/hyphacoop  
 Attending:  ...  
 Cultivator: ...  
-Notetaker:  ... :raising_hand: Next up: COPY FROM PAST WEEK
+Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
 
 ## Agenda
 
@@ -33,10 +31,22 @@ Notetaker:  ... :raising_hand: Next up: COPY FROM PAST WEEK
 
 - ...
 
+
+### Action Items for Cultivator
+
+- [ ] Migrate items with `#todo:person` to [task board][tasks]
+- [ ] Publish meeting notes as [open access][public], or [publicly indexed][index] with [restricted access][private]
+- [ ] Reset meeting pad for next meeting
+
 <!-- Links: Important -->
-[standup-template]: https://link.hypha.coop/standup-template
+[template]: https://link.hypha.coop/standup-template
 [meetings]: https://link.hypha.coop/meetings
 [calendar]: https://link.hypha.coop/calendar
 [tasks]:    https://link.hypha.coop/tasks
 [gh]:       https://link.hypha.coop/gh
-[gdrive]:   https://link.hypha.coop/gdrive
+[drive]:    https://link.hypha.coop/drive
+
+<!-- Links: Archive -->
+[public]:   https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2020-MM-DD-standup.md
+[index]:    https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2020-MM-DD-standup.md
+[private]:  https://github.com/hyphacoop/organizing-private/new/master?filename=_posts/meeting-notes/2020-MM-DD-standup.md
