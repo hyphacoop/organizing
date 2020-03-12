@@ -48,6 +48,7 @@ plugins:
     # See: https://github.com/github/jekyll-commonmark-ghpages/issues/13
 #    - "tasklist"
 
+permalink: /:categories/:year-:month-:day-:title:output_ext
 defaults:
   -
     scope:
