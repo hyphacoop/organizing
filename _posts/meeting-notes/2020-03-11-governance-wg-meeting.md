@@ -32,7 +32,8 @@ Notetaker:  bl
     - dc: honour/take the point from infra that they are not interested in ops 
     - bl: need to clear ops things. Make issues ready for "ops" only work
 - Seperation between ops and gov
-    - dc: gov slow moving stuff touch infrequently (AGM, bylaws)
+    - dc: 
+        - gov, slow moving stuff touch infrequently (AGM, bylaws)
         - ops, day-to-day policies, procedures, effective work
 - dc: gov is fine, on track for AGM, month out from distributing info
     - bylaw drafting (slightly behind and not much) + AGM planning
@@ -48,13 +49,15 @@ Notetaker:  bl
 
 - [Governance][gov-wg] :white_check_mark: [`wg:governance`][l-gov]
     - Archive _Done_ tasks :tada:
-        - done.
+        - done
     - Review [HIGH `[priority-★★★]`][l-pri-hi]
+        - done
     - [`wg:governance`][l-gov] label review    
+        - done
     - [`wg:ops`][l-ops] label review
+        - done
     - Triage new tasks
-
-- FIRST TIME OPS TASKS FULLY TRIAGED :tada: 
+        - FIRST TIME OPS TASKS FULLY TRIAGED :tada: 
 
 ### Check-in on OKRs
 
@@ -69,7 +72,7 @@ Notetaker:  bl
         - "fair" / office hours to check-in on 
         - issue of who is on calls, who talks more 
         - ways to create additional feedback mechanisms/channels
-            - using in critical contexts v. important
+            - using these selectively in critical contexts very important
 
 ### Discussions
 
@@ -86,12 +89,12 @@ Notetaker:  bl
         - dc will leave feedback in issue
 - WSIB
     - dc have read docs, $200-600 WSIB a year but it's bc we are classified very low
-    - suggest to reclassify, need to know our earnings (based on gross earnings)
+    - suggest to reclassify given change in work, need to know our earnings (based on gross earnings)
     - this protects employer, not employees
     - in case of reported workplace injury, member will be paid thru wsib regardless, but if we don't have proper wsib coverage the employer is at risk (e.g. fining)
-    - #decision: dc: proposes to get reclassified and pay for it (est. $200-400 in first year)
+    - #decision dc: proposes to get reclassified and pay for it (est. $200-400 in first year)
     - "once you get ladders you're in a required industry"
-    - #todo communicate to members that this does not block current project proposals
+    - #todo bl: communicate to members that this does not block current project proposals
 - #101 By-law planning
     - dc: start at template and modify, look at resource from other co-ops
     - #todo bl: skim bylaw examples in google drive, read AGM planning doc
@@ -103,9 +106,9 @@ Notetaker:  bl
     - #todo dc: #14 "Good member" desc. for AGM!!!! add to sched.
         - bl: possibly co-write some of that based on draft after discussing first year frictions
     - #todo dc: #104 Amending articles -- make clear in planning doc
-    - #discussion bl: `agm` label on gh?
+    - #toho bl: `agm` label on gh? dc: sure, if helpful
 - WG description for Ops
-    - #todo us draft an Ops WG desc.
+    - #todo draft an Ops WG description
     - Other descriptions:
         Governance `@hyphacoop/governance-wg`
         WG for drafting by-laws, articles of incorporation, and planning for the first General Meeting (and subsequent structure).
@@ -156,8 +159,8 @@ Candidates:
 - [ ] dc: #14 "Good member" desc. for AGM!!!! add to sched.
 - [ ] dc: #104 Amending articles -- make clear in planning doc
 - [ ] bl: change **shortlinks** and **meeting templates** to match github readable name of wgs (but don't change github labels and tags)
-- [x] dc: update handbook with wg descriptions (assigned issue)
-
+- [x] dc: update handbook with wg descriptions (assigned issue) PR => 
+- [ ] bl: add `agm` label on gh
 
 <!-- Links: Important -->
 [template]: https://link.hypha.coop/template
