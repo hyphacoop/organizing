@@ -5,7 +5,7 @@ breaks:  false # See: https://github.com/hackmdio/codimd/issues/40#issuecomment-
 
 <sup>[from template][template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][drive]</sup>
 
-Time:       5-5:30pm ET  
+Time:       5:00-6:00pm ET  
 Location:   https://jitsi.hypha.coop/hyphacoop  
 Attending:  ...  
 Cultivator: ...  
