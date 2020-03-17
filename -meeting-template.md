@@ -52,9 +52,9 @@ Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
     - ...
 - [Governance][gov-wg] [`wg:governance`][l-gov]
     - ...
-- [Infrastructure][inf-wg] [`wg:infra`][l-inf]
+- [Infrastructure][inf-wg] [`wg:infrastructure`][l-inf]
     - ...
-- [Operations][ops-wg] [`wg:ops`][l-ops]
+- [Operations][ops-wg] [`wg:operations`][l-ops]
     - ...
 
 ### Project Updates
@@ -92,9 +92,9 @@ Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
 [l-biz]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:business-planning"
 [l-fin]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:finance"
 [l-gov]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:governance
-[l-inf]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:infra"
-[l-ops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:ops"
-[l-none]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=-label:wg:ops+-label:wg:infra+-label:wg:finance+-label:wg:governance+-label:wg:business-planning
+[l-inf]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:infrastructure"
+[l-ops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:operations"
+[l-none]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=-label:wg:operations+-label:wg:infrastructure+-label:wg:finance+-label:wg:governance+-label:wg:business-planning
 
 <!-- Links: Working Groups -->
 [biz-wg]: https://link.hypha.coop/biz-wg
@@ -105,5 +105,5 @@ Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
 
 <!-- Links: Archive -->
 [public]:   https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2020-MM-DD-all-hands.md
-[index]:    https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2020-MM-DD-all-hands.md&value=https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2020-MM-DD-all-hands.md&value=Oops%21%20The%20notes%20from%20%2A%2A%7B%7B%20page.date%20%7C%20date%3A%20%22%25Y-%25m-%25d%22%20%7D%7D%20%7B%7B%20page.title%20%7D%7D%2A%2A%20is%20not%20open%20to%20public%20%3Alock%3A%0A%0AIf%20you%20have%20privileged%20access%2C%20you%20can%20%3Ca%20href%3D%22%7B%7B%20site.organizing-private%20%7D%7D%2F%7B%7B%20page.path%20%7C%20remove%3A%20%27_posts%2Fprivate%2F%27%20%7D%7D%22%3E%2A%2Aview%20the%20notes%20here%2A%2A%3C%2Fa%3E%20%3Akey%3A%0A%0APlease%20see%20the%20_Working%20Open_%20guidelines%20in%20our%20%5BHandbook%5D%28https%3A%2F%2Fhandbook.hypha.coop%2Fworking-open.html%29.
-[private]:  https://github.com/hyphacoop/organizing-private/new/master?filename=_posts/meeting-notes/2020-MM-DD-all-hands.md
+[index]:    https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2020-MM-DD-all-hands.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
+[private]:  https://github.com/hyphacoop/organizing-private/new/master?filename=meeting-notes/2020-MM-DD-all-hands.md
