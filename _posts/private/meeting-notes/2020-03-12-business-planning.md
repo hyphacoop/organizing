@@ -1,2 +1,2 @@
-{% include private_redirect.html page=page %}
+{% include private_redirect.md page=page %}
 

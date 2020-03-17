@@ -56,6 +56,13 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "default"
+  -
+    scope:
+      type: "posts"
+      #path: "_posts/private/*/*"
+      path: "_posts/private/meeting-notes/2020-03-09-infrastructure.md"
+    values:
+      layout: "private"
 
 # External repository where private documents are available with access restriction
 organizing-private: https://github.com/hyphacoop/organizing-private/blob/master
