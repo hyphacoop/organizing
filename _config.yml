@@ -56,9 +56,15 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "default"
+  -
+    scope:
+      path: "_posts/private/*"
+      type: "posts"
+    values:
+      layout: "private"
 
 # External repository where private documents are available with access restriction
-organizing-private: https://github.com/hyphacoop/organizing-private/blob/site
+organizing-private: https://github.com/hyphacoop/organizing-private/blob/master
 
 # Exclude from processing.
 # The following items will not be processed, by default.
