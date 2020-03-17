@@ -8,7 +8,9 @@
     <main class="page-content" aria-label="Content">
 
         <div class="wrapper">
-          {% capture private_redirect %}{% include private_redirect.md page=page %}{% endcapture %}
+          {% capture private_redirect -%}
+            {% include private_redirect.md %}
+          {%- endcapture %}
           {{ private_redirect | markdownify }}
           {{ content }}
         </div>
