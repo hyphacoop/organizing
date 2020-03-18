@@ -123,9 +123,10 @@ Timeline and #TODOs:
         - bl: subdomain gi: +1
 - #todo infra-wg list of what infra actually run if we need to. knowledge/estimate of effort and cost to bring to Wed all hands
 
-
-
-
-
-
-
+<!-- Links: Important -->
+[template]: https://link.hypha.coop/template
+[meetings]: https://link.hypha.coop/meetings
+[calendar]: https://link.hypha.coop/calendar
+[tasks]:    https://link.hypha.coop/tasks
+[gh]:       https://link.hypha.coop/gh
+[gdrive]:   https://link.hypha.coop/gdrive
