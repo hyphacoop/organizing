@@ -64,7 +64,8 @@ defaults:
       layout: "private"
 
 # External repository where private documents are available with access restriction
-organizing-private: https://github.com/hyphacoop/organizing-private/blob/master
+private-repo-url: https://github.com/hyphacoop/organizing-private
+public-repo-url: https://github.com/hyphacoop/organizing
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -27,14 +27,18 @@
         <a href="https://link.hypha.coop/wg-template" target="_blank"><span class="small light">template</span></a>
       </li>
       <li>
-        <span class="small">Archive as</span>
-        <a href="https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2020-MM-DD-.md" target="_blank"><span class="small">open access</span></a>
+        <span class="small">
+          Archive as
+          <a href="{{ site.public-repo-url }}/new/master?filename=_posts/meeting-notes/2020-MM-DD-.md" target="_blank">open access</a>
+        </span>
       </li>
       <li>
-        <span class="small">Archive as</span>
-        <a href="https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2020-MM-DD-standup.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file." target="_blank"><span class="small">publicly indexed</span></a>
-        <span class="small">with</span>
-        <a href="https://github.com/hyphacoop/organizing-private/new/master?filename=meeting-notes/2020-MM-DD-.md" target="_blank"><span class="small">restricted access</span></a>
+        <span class="small">
+          Archive as
+          <a href="{{ site.private-repo-url }}/new/master?filename=meeting-notes/2020-MM-DD-.md" target="_blank">restricted access</a>
+          with
+          <a href="{{ site.public-repo-url }}/new/master?filename=_posts/private/meeting-notes/2020-MM-DD-standup.md&value={{ 'Empty file for public indexing of access-restricted file.' | uri_escape }}" target="_blank">public stub</a>
+        </span>
       </li>
   </ul>
 
