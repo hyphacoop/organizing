@@ -1,4 +1,4 @@
-<div class="nav">
+<nav>
 
   <h2>Meeting Notes</h2>
   <ul>
@@ -42,45 +42,22 @@
     </li>
   </ul>
 
-  <h3>Archived</h3>
-  <ul>
-    {% for post in site.posts %}
-      {% if post.path contains "private/meeting-notes/" %}
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a> :lock:
-        </li>
-      {% elsif post.path contains "meeting-notes/" %}
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+  {% for section in site.nav-sections %}
+    <h3>{{ section.title }}</h3>
+    <ul>
+      {% for post in site.posts %}
+        {% capture private_path %}private/{{ section.path }}{% endcapture %}
+        {% if post.path contains private_path %}
+          <li>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a> :lock:
+          </li>
+        {% elsif post.path contains section.path %}
+          <li>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endfor %}
 
-  <h3>Informational Interviews</h3>
-  <ul>
-    {% for post in site.posts %}
-      {% if post.path contains "private/informational-interviews/" %}
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a> :lock:
-        </li>
-      {% elsif post.path contains "informational-interviews/" %}
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-
-  <h3>2018 December Retreat</h3>
-  <ul>
-    {% for post in site.posts %}
-      {% if post.path contains "2018-december-retreat/" %}
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-
-</div>
+</nav>
