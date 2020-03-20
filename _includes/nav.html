@@ -1,82 +1,63 @@
-<div class="nav">
+<nav>
 
+  <h2>Meeting Notes</h2>
   <ul>
-    <h2>Meeting Notes</h2>
-      <li>
-        <a href="https://hackmd.io/d0lpI2sNTJOtvLlE4_86Cg?edit">All Hands: Full</a> :seedling:
-        <a href="https://link.hypha.coop/template" target="_blank"><span class="small light">template</span></a>
-      </li>
-      <li>
-        <a href="https://hackmd.io/LXg-o9b7QIO_lyeHPirH8A?edit">All Hands: Standup</a> :seedling:
-        <a href="https://link.hypha.coop/standup-template" target="_blank"><span class="small light">template</span></a>
-      </li>
-      <li>
-        <a href="https://hackmd.io/1JMsZ8IdSb6bp4VFB1dUtw?edit">WG: Business Planning</a> :seedling:
-        <a href="https://link.hypha.coop/wg-template" target="_blank"><span class="small light">template</span></a>
-      </li>
-      <li>
-        <a href="https://hackmd.io/YclYMO0KTT2n_5xmArdMDA?edit">WG: Finance</a> :seedling:
-        <a href="https://link.hypha.coop/wg-template" target="_blank"><span class="small light">template</span></a>
-      </li>
-      <li>
-        <a href="https://hackmd.io/JT5qnRwnTs6J3vLlf4UyFA?edit">WG: Governance</a> :seedling:
-        <a href="https://link.hypha.coop/wg-template" target="_blank"><span class="small light">template</span></a>
-      </li>
-      <li>
-        <a href="https://hackmd.io/C8uSvttkR1OaQWFNcRQWvQ?edit">WG: Infrastructure</a> :seedling:
-        <a href="https://link.hypha.coop/wg-template" target="_blank"><span class="small light">template</span></a>
-      </li>
-      <li>
-        <span class="small">Archive as</span>
-        <a href="https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2020-MM-DD-.md" target="_blank"><span class="small">open access</span></a>
-      </li>
-      <li>
-        <span class="small">Archive as</span>
-        <a href="https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2020-MM-DD-standup.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file." target="_blank"><span class="small">publicly indexed</span></a>
-        <span class="small">with</span>
-        <a href="https://github.com/hyphacoop/organizing-private/new/master?filename=meeting-notes/2020-MM-DD-.md" target="_blank"><span class="small">restricted access</span></a>
-      </li>
+    <li>
+      <a href="https://hackmd.io/d0lpI2sNTJOtvLlE4_86Cg?edit">All Hands: Full</a> :seedling:
+      <a href="https://link.hypha.coop/template" target="_blank" class="small light">template</a>
+    </li>
+    <li>
+      <a href="https://hackmd.io/LXg-o9b7QIO_lyeHPirH8A?edit">All Hands: Standup</a> :seedling:
+      <a href="https://link.hypha.coop/standup-template" target="_blank" class="small light">template</a>
+    </li>
+    <li>
+      <a href="https://hackmd.io/1JMsZ8IdSb6bp4VFB1dUtw?edit">WG: Business Planning</a> :seedling:
+      <a href="https://link.hypha.coop/wg-template" target="_blank" class="small light">template</a>
+    </li>
+    <li>
+      <a href="https://hackmd.io/YclYMO0KTT2n_5xmArdMDA?edit">WG: Finance</a> :seedling:
+      <a href="https://link.hypha.coop/wg-template" target="_blank" class="small light">template</a>
+    </li>
+    <li>
+      <a href="https://hackmd.io/JT5qnRwnTs6J3vLlf4UyFA?edit">WG: Governance</a> :seedling:
+      <a href="https://link.hypha.coop/wg-template" target="_blank" class="small light">template</a>
+    </li>
+    <li>
+      <a href="https://hackmd.io/C8uSvttkR1OaQWFNcRQWvQ?edit">WG: Infrastructure</a> :seedling:
+      <a href="https://link.hypha.coop/wg-template" target="_blank" class="small light">template</a>
+    </li>
+    <li>
+      <span class="small">
+        Archive as
+        <a href="{{ site.public-repo-url }}/new/master?filename=_posts/meeting-notes/2020-MM-DD-.md" target="_blank">open access</a>
+      </span>
+    </li>
+    <li>
+      <span class="small">
+        Archive as
+        <a href="{{ site.private-repo-url }}/new/master?filename=meeting-notes/2020-MM-DD-.md" target="_blank">restricted access</a>
+        with
+        <a href="{{ site.public-repo-url }}/new/master?filename=_posts/private/meeting-notes/2020-MM-DD-standup.md&value={{ 'Empty file for public indexing of access-restricted file.' | uri_escape }}" target="_blank">public stub</a>
+      </span>
+    </li>
   </ul>
 
-  <ul>
-    <h3>Archived</h3>
-    {% for post in site.posts %}
-      {% if post.path contains "private/meeting-notes/" %}
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a> :lock:
-        </li>
-      {% elsif post.path contains "meeting-notes/" %}
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+  {% for section in site.nav-sections %}
+    <h3>{{ section.title }}</h3>
+    <ul>
+      {% for post in site.posts %}
+        {% capture private_path %}private/{{ section.path }}{% endcapture %}
+        {% if post.path contains private_path %}
+          <li>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a> :lock:
+          </li>
+        {% elsif post.path contains section.path %}
+          <li>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endfor %}
 
-  <ul>
-    <h3>Informational Interviews</h3>
-    {% for post in site.posts %}
-      {% if post.path contains "private/informational-interviews/" %}
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a> :lock:
-        </li>
-      {% elsif post.path contains "informational-interviews/" %}
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-
-  <ul>
-    <h3>2018 December Retreat</h3>
-    {% for post in site.posts %}
-      {% if post.path contains "2018-december-retreat/" %}
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-
-</div>
+</nav>

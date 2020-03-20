@@ -64,7 +64,16 @@ defaults:
       layout: "private"
 
 # External repository where private documents are available with access restriction
-organizing-private: https://github.com/hyphacoop/organizing-private/blob/master
+private-repo-url: https://github.com/hyphacoop/organizing-private
+public-repo-url: https://github.com/hyphacoop/organizing
+
+nav-sections:
+  - title: Archived
+    path: meeting-notes/
+  - title: Informational Interviews
+    path: informational-interviews/
+  - title: 2018 December Retreat
+    path: 2018-december-retreat/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

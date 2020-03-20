@@ -11,12 +11,16 @@
   height: 100%;
 }
 
-.nav {
+nav {
   position: relative;
   float: right;
   overflow: auto;
   width: 30%;
   height: 100%;
+
+  h2, h3 {
+    margin-left: 30px;
+  }
 
   ul {
     list-style-type: none;
@@ -27,6 +31,6 @@
   font-size: 0.75em;
 }
 
-.light {
-  color: #ccc;
+a.light {
+    color: #ccc;
 }
