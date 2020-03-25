@@ -1,11 +1,11 @@
 ---
 breaks:  false # See: https://github.com/hackmdio/codimd/issues/40#issuecomment-172927690
 ---
-# 2020-MM-DD Hypha Worker Co-op: Business Planning | Finance | Governance | Infrastructure | Operations
+# 2020-MM-DD Hypha Worker Co-op: Governance/Operations
 
 <sup>[from template][template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][drive]</sup>
 
-Time:       0:00-0:00pm ET  
+Time:       9:00-11:00pm ET  
 Location:   https://jitsi.hypha.coop/hyphacoop  
 Attending:  ...  
 Cultivator: ...  
@@ -19,6 +19,7 @@ Notetaker:  ...
 | [Announcements](#Announcements)                 |          5 |
 | [Task Board Review](#Task-Board-Review)         |         15 |
 | [Discussions](#Discussions)                     |         30 |
+| [Co-work](#Co-work)                             |         50 |
 | [Process Checkout](#Process-Checkout)           |          5 |
 
 ## Notes
@@ -33,14 +34,23 @@ Notetaker:  ...
 
 ### Task Board Review
 
-- Review DONE tasks :tada:
-	- ...
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
 	- ...
+- [`wg:gov`][l-gov] label review
+    - ...
+- [`wg:ops`][l-ops] label review
+    - ...
 
 ### Discussions
 
 - ...
+
+
+#### Co-work
+
+Candidates for co-work:
+
+
 
 ### Process Checkout
 
@@ -51,10 +61,7 @@ Notetaker:  ...
 
 - [ ] Migrate items with `#todo:person` to [task board][tasks]
 - [ ] Publish meeting notes as
-	- **business-planning**: [open access][biz-public], or [publicly indexed][biz-index] with [restricted access][biz-private]
-	- **finance**: [open access][fin-public], or [publicly indexed][fin-index] with [restricted access][fin-private]
 	- **governance**: [open access][gov-public], or [publicly indexed][gov-index] with [restricted access][gov-private]
-	- **infrastructure**: [open access][inf-public], or [publicly indexed][inf-index] with [restricted access][inf-private]
 	- **operations**: [open access][ops-public], or [publicly indexed][ops-index] with [restricted access][ops-private]
 - [ ] Reset meeting pad for next meeting
 
