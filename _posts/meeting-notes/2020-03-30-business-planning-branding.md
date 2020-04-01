@@ -47,7 +47,7 @@ Main issue: https://github.com/hyphacoop/organizing/issues/77
 - Walkthru of deck: https://docs.google.com/presentation/d/1y8Mnyw147rsX1n5NsDek6dJHl9PWU3cwG-_QXBMfY98/edit#slide=id.g7ec9b071cc_0_21
     - Inserted slide to mockup
     - Trim?
-        - hold off on bios, maybe draft a sentance about "where we'be been"
+        - hold off on bios, maybe draft a sentence about "where we'be been"
 - Contact info:
     - make persistant
 - Navigation
