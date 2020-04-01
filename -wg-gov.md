@@ -66,7 +66,7 @@ Candidates for co-work:
 - [ ] Reset meeting pad for next meeting
 
 <!-- Links: Important -->
-[template]: https://link.hypha.coop/wg-template
+[template]: https://link.hypha.coop/wg-gov-template
 [meetings]: https://link.hypha.coop/meetings
 [calendar]: https://link.hypha.coop/calendar
 [tasks]:    https://link.hypha.coop/tasks
