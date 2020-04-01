@@ -46,7 +46,7 @@ Notetaker:  ...
 - ...
 
 
-#### Co-work
+### Co-work
 
 Candidates for co-work:
 
