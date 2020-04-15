@@ -46,7 +46,7 @@ jobs:
       # See: https://github.com/vanilla/github-sync
       - name: Sync labels
         run: |
-          composer --quiet require vanilla/github-sync:v2.1.2
+          composer require vanilla/github-sync:v2.1.1
           for target in $LABEL_REPO_TARGETS; do
             # NOTE: "prune" ensures that missing tags will be culled from target repo, but ONLY if they are unused.
             ./vendor/bin/github-sync labels --from $LABEL_REPO_SOURCE --to $target --delete prune
