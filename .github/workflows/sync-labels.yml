@@ -24,8 +24,10 @@ jobs:
       LABEL_REPO_TARGETS: >-
         hyphacoop/demo-repo
         hyphacoop/handbook
+        hyphacoop/hypha.coop
         hyphacoop/hyphacoop-chatbot
         hyphacoop/organizing-private
+        hyphacoop/remote
         hyphacoop/spreadsheet2shortlinks
         hyphacoop/test-private
         hyphacoop/vision.hypha.coop
