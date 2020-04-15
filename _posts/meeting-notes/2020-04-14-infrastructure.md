@@ -61,9 +61,9 @@ Notetaker:  bl
     - bl: considers client work _not_ infra
     - yj: reproducible infra
     > **New:** WG for maintaining our "virtual office" and shared public infrastructure with reproducible and reliable services through sustainable and privacy-protective practices.
-        - yj: encompasses what we do and how we do it
-        - el: +1
-        - #todo:bl write this out better and PR to handbook
+    - yj: encompasses what we do and how we do it
+    - el: +1
+    - #todo:bl write this out better and PR to handbook
 - [Email address policy](https://github.com/hyphacoop/organizing/issues/131)
     - Status -> https://github.com/hyphacoop/organizing/issues/131#issuecomment-612831069
     - el: 4 GB per member mailbox in handbook
