@@ -108,7 +108,7 @@ Notetaker:  bl
 
 ### Action Items for Cultivator
 
-- [ ] Migrate items with `#todo:person` to [task board][tasks]
+- [x] Migrate items with `#todo:person` to [task board][tasks]
 - [x] Publish meeting notes as
 	- **business-planning**: [open access][biz-public], or [publicly indexed][biz-index] with [restricted access][biz-private]
 	- **finance**: [open access][fin-public], or [publicly indexed][fin-index] with [restricted access][fin-private]
