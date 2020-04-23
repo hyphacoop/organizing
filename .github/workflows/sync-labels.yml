@@ -16,7 +16,7 @@ jobs:
     env:
       # Personal access token for `hyphacoop-bot` with `repo` permission
       # See: https://github.com/hyphacoop/organizing/settings/secrets/new
-      # Could not add GITHUB_API_TOKEN so variable renamed
+      # GITHUB_API_TOKEN secret could not be used, variable renamed to API_TOKEN_HYPHACOOP_BOT
       GITHUB_API_TOKEN: ${{ secrets.API_TOKEN_HYPHACOOP_BOT }}
       LABEL_REPO_SOURCE: hyphacoop/organizing
       # Note: `hyphacoop-bot` user must also be given `write` access to repos via @hyphacoop/robots team.
