@@ -1,4 +1,4 @@
-﻿# Hypha Co-op: Resolution Template
+﻿# Template: RESOLUTIONS OF THE BOARD OF DIRECTORS
 
 <!-- Title: -->
 # [ Ordinary / Special ] resolution [action]
@@ -15,8 +15,18 @@ Whereas...
 Therefore be it resolved that...
 <!-- the decision or statement -->
 
-Signed by President: [president's name]
-Date: YYYY-MM-DD
+
+Dated in the Province of Ontario on the [XXth day of Month, 20XX]. Signed by: 
+
+__________________________________ :lock_with_ink_pen: [digital signature][sigfile-director-1]\
+[Full Name of Director 1], [Officer Title]
+
+
+__________________________________ :lock_with_ink_pen: [digital signature][sigfile-director-2]\
+[Full Name of Director 2], [Officer Title]
+
 
 <!-- Links -->
-   [template]: -resolution-xxx.md
+  [template]: -resolution-xxx.md
+  [sigfile-director-1]: resolution-XXX.md.[director-1].asc
+  [sigfile-director-2]: resolution-XXX.md.[director-2].asc
