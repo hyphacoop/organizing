@@ -23,9 +23,6 @@ __________________________________ :lock_with_ink_pen: [digital signature][sigfi
 __________________________________ :lock_with_ink_pen: [digital signature][sigfile-[director-2]]\
 [Full Name of Director 2]
 
-__________________________________ :lock_with_ink_pen: [digital signature][sigfile-[director]]\
-[Director Name]
-
 
 <!-- Links -->
     [sigfile-[director-1]]: resolution-XXX.md.[director-1].asc
