@@ -17,16 +17,16 @@ from the meeting of the directors held by electronic means on this [XXth day of 
 
 Dated in the Province of Ontario on the [XXth day of Month, 20XX].
 
-__________________________________ :lock_with_ink_pen: [digital signature][sigfile-[director]]\
-[Director Name]
+__________________________________ :lock_with_ink_pen: [digital signature][sigfile-[director-1]]\
+[Full Name of Director 1]
 
-__________________________________ :lock_with_ink_pen: [digital signature][sigfile-[director]]\
-[Director Name]
+__________________________________ :lock_with_ink_pen: [digital signature][sigfile-[director-2]]\
+[Full Name of Director 2]
 
 __________________________________ :lock_with_ink_pen: [digital signature][sigfile-[director]]\
 [Director Name]
 
 
 <!-- Links -->
-   [sigfile-[director]]: resolution-XXX.md.[director].asc
-
+    [sigfile-[director-1]]: resolution-XXX.md.[director-1].asc
+    [sigfile-[director-2]]: resolution-XXX.md.[director-2].asc
