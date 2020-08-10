@@ -27,7 +27,7 @@ __________________________________ :lock_with_ink_pen: [digital signature][sigfi
 
 
 <!-- Links -->
-  [template]: -resolution-annual-xxx.md
+  [template]: resolutions/-resolution-annual-xxx.md
   [sigfile-director-1]: resolution-XXX.md.[director-1].asc
   [sigfile-director-2]: resolution-XXX.md.[director-2].asc
 
