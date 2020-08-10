@@ -155,7 +155,7 @@ Scribe: Patcon
         - pay wages+expenses
         - pay contractors
         - invoice clients and collect
-        - can receive: CAD, USD, EU, UK
+        - can receive: CAD, USD, EUR, GBP
         - ...
     - tools & guides
         - calculation spreadsheets: timesheets. incoming vs expenses, forecasts
