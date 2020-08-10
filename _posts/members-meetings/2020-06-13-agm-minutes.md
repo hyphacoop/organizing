@@ -666,7 +666,7 @@ from the meeting of the directors held by electronic means on this 13 day of Jun
 
 Yurko J: President; 
 Patrick Connolly: Vice-President; 
-Udit Vira: Teasurer; and
+Udit Vira: Treasurer; and
 Benedict Lau: Secretary
 
 
