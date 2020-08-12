@@ -3,7 +3,7 @@
 <sup>[From template][template]</sup>
 
 **Resolution(s) in writing** of the board of directors of Hypha Worker Co-operative Inc. (the "Co-operative") 
-from the meeting of the directors held by electronic means on this 13 day of June, 2020.
+from the meeting of the directors held by electronic means on this 13th day of June, 2020.
 
 **BACKGROUND:**
 
@@ -17,7 +17,7 @@ from the meeting of the directors held by electronic means on this 13 day of Jun
 
 2. The directors of the board unanimously adopt an amendment of the articles for adoption.
 
-3. [  ] of the Co-operative is authorized to sign all documents and perform such acts as may be necessary or desirable to give effect to the above resolution.
+3. Any two directors or officers of the Co-operative are authorized to sign all documents and perform such acts as may be necessary or desirable to give effect to the above resolution.
 
 4. The following individuals are appointed and confirmed as officers of the Co-operative for a term of one year or until replaced:
 
@@ -26,7 +26,7 @@ from the meeting of the directors held by electronic means on this 13 day of Jun
     - Udit Vira: Treasurer; and
     - Benedict Lau: Secretary
 
-Dated in the Province of Ontario on the 13 day of June, 2020.
+Dated in the Province of Ontario on the 13th day of June, 2020.
    
 
 __________________________________ :lock_with_ink_pen: [digital signature][sigfile-yurkowashere]\
