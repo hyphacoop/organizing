@@ -26,7 +26,7 @@ Notetaker:  pc
 ### Personal Checkins
 
 - if you could be one body part, what would it be?
-    - pc: an octopus' eye. because there's
+    - pc: an octopus' eye. because they evolved separately, and I'd like to know what the feel like
     - bl: tooth. bc it's fragile and hurts. eyeballs super sensitive. heart. deeply buried hair, not shown on webcam. for elon.
     - el: mouth.
 
