@@ -43,7 +43,7 @@ Notetaker:  pc
 	- #313 server access
 	    - everyone needs new infra keys
 	    - we won't pull repeatedly from github, in case github is compromised
-	    - we don't automatically use github keys as snapshot
+	    - patcon suggested using github keys as snapshot to set people up. others not in favour
 	    - not everyone will want staging access
 	    - we'll ask people who want staging access to add their key to github like `id_rsa.patcon.pub`
 
