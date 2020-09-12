@@ -70,6 +70,10 @@ public-repo-url: https://github.com/hyphacoop/organizing
 nav-sections:
   - title: Archived
     path: meeting-notes/
+  - title: Members Meetings
+    path: members-meetings/
+  - title: Directors Meetings
+    path: directors-meetings/
   - title: Informational Interviews
     path: informational-interviews/
   - title: 2018 December Retreat
