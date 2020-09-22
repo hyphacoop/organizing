@@ -9,7 +9,7 @@
     - partners: CoopsUK, NestaUK (interesting board)
     - platform that started for associations, and moved to non-profits and then co-op (~20 total, incl self, unincorps, hackerspaces, etc.)
     - ideological goal was to offer a means of bringing about emergent democratic systems outside state control and pressure
-    - path was foremost about reimagining legal structure as outside state control and programmatic (baked-in proto-loomio decision-making tools were a means to that end)
+    - path was foremost about reimagining legal structure as outside state control and programmatic constitution (baked-in proto-loomio decision-making tools were a means to that end)
 * misc intro (cm)
   * charles kicked off with his friends before chris showed up
   * started writing before chris arrived
