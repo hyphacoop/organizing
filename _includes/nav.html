@@ -44,6 +44,25 @@
 
   {% for section in site.nav-sections %}
     <h3>{{ section.title }}</h3>
+    {% if section.show_archive_links %}
+    {% capture private_path %}private/{{ section.path }}{% endcapture %}
+    <ul class="archive-links">
+      <li>
+        <span class="small">
+          Archive as
+          <a href="{{ site.public-repo-url }}/new/master?filename=_posts/{{ section.path }}2020-MM-DD-.md" target="_blank">open access</a>
+        </span>
+      </li>
+      <li>
+        <span class="small">
+          Archive as
+          <a href="{{ site.private-repo-url }}/new/master?filename={{ section.path }}2020-MM-DD-.md" target="_blank">restricted access</a>
+          with
+          <a href="{{ site.public-repo-url }}/new/master?filename=_posts/{{ private_path }}2020-MM-DD-.md&value={{ 'Empty file for public indexing of access-restricted file.' | uri_escape }}" target="_blank">public stub</a>
+        </span>
+      </li>
+    </ul>
+    {% endif section.show_archive_links %}
     <ul>
       {% for post in site.posts %}
         {% capture private_path %}private/{{ section.path }}{% endcapture %}
