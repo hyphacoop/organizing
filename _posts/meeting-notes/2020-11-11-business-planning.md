@@ -62,7 +62,7 @@ Notetaker:  pc
     - what skills are needed? what are skills gaps?
     - goal: to know what we can do in-house
     - dc: how do we even categorize our skills? what does that look like in a spreadsheet?
-    - e.g. gord gordina project
+    - e.g. DSF project
         - start by looking at gaps?
     - skill matrix
         - #todo get member self-identification of skills
