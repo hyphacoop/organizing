@@ -3,6 +3,12 @@
 
 @import "minima";
 
+body {
+  display:block;
+  height:100%;
+  width:100%;
+}
+
 .wrapper {
   position:relative;
   float: left;
@@ -13,8 +19,8 @@
 
 nav {
   position: relative;
-  float: right;
   overflow: auto;
+  display: inline-block;
   width: 30%;
   height: 100%;
 
@@ -33,4 +39,11 @@ nav {
 
 a.light {
     color: #ccc;
+}
+
+.page-content {
+    vertical-align: top;
+    display: inline-block;
+    width: calc(70% - 10px);
+    height: calc(100% - 60px);
 }
