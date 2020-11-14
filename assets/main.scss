@@ -3,20 +3,30 @@
 
 @import "minima";
 
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+body {
+  display: block;
+}
+
 .wrapper {
   position:relative;
   float: left;
-  overflow: auto;
-  width: 70%;
   height: 100%;
 }
 
 nav {
   position: relative;
-  float: right;
   overflow: auto;
+  display: inline-block;
   width: 30%;
-  height: 100%;
+  height: calc(100% - 30px);
+  padding-top: 30px;
 
   h2, h3 {
     margin-left: 30px;
@@ -33,4 +43,12 @@ nav {
 
 a.light {
     color: #ccc;
+}
+
+.page-content {
+    vertical-align: top;
+    display: inline-block;
+    width: 70%;
+    height: calc(100% - (30px * 2));
+    overflow: auto;    
 }
