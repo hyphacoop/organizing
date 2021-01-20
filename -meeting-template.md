@@ -1,7 +1,7 @@
 ---
 breaks:  false # See: https://github.com/hackmdio/codimd/issues/40#issuecomment-172927690
 ---
-# 2020-MM-DD Hypha Worker Co-op: All Hands
+# 2021-MM-DD Hypha Worker Co-op: All Hands
 
 <sup>[from template][template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][drive]</sup>
 
@@ -104,6 +104,6 @@ Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
 [ops-wg]: https://link.hypha.coop/ops-wg
 
 <!-- Links: Archive -->
-[public]:   https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2020-MM-DD-all-hands.md
-[index]:    https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2020-MM-DD-all-hands.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
-[private]:  https://github.com/hyphacoop/organizing-private/new/master?filename=meeting-notes/2020-MM-DD-all-hands.md
+[public]:   https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2021-MM-DD-all-hands.md
+[index]:    https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2021-MM-DD-all-hands.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
+[private]:  https://github.com/hyphacoop/organizing-private/new/master?filename=meeting-notes/2021-MM-DD-all-hands.md
