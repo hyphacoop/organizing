@@ -76,6 +76,7 @@ nav-sections:
     path: directors-meetings/
   - title: Informational Interviews
     path: informational-interviews/
+    show_archive_links: true
   - title: 2018 December Retreat
     path: 2018-december-retreat/
 
