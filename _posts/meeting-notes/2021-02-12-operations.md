@@ -1,7 +1,7 @@
 ---
 breaks:  false # See: https://github.com/hackmdio/codimd/issues/40#issuecomment-172927690
 ---
-# 2021-02-03 Hypha Worker Co-op: Operations & Governance
+# 2021-02-12 Hypha Worker Co-op: Operations & Governance
 
 <sup>[from template][template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][drive]</sup>
 
