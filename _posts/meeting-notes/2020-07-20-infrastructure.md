@@ -43,7 +43,7 @@ Notetaker:  el
 	- #313 still being worked on
 	- #329 #todo:bl add mailman to the list
 	- #288 #todo:el put scripts in a repo
-	- private #67 todo:infra-wg fill out time poll
+	- private#67 todo:infra-wg fill out time poll
 	- #314
 	- #282 #todo move the shortlinks .csv to configuration repo
 	- #329 wait for grant to come through

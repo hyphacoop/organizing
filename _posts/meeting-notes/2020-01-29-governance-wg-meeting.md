@@ -55,7 +55,7 @@ Notetaker: dc, pc
         - #90 service inventory
             - good #cowork task
         - #cowork create social media role description #todo
-        - #81 private archive mostly done #cowork last bit
+        - private#81 archive mostly done #cowork last bit
     - [`wg:ops`][l-ops] label review
     - Triage new tasks
     - missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]

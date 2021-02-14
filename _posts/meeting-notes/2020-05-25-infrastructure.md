@@ -41,7 +41,7 @@ Notetaker:  el
 	- ...
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
 	- #246 el: go over pull request
-	- private #48: discussion item
+	- private#48: discussion item
 	- #282 update docs currently mix of Apache and Nginx
 	    - went over pr of next shortlink script version
 	- #175 backup and restore was done.
@@ -63,11 +63,11 @@ Notetaker:  el
 	                - deploy keys
 	                - API keys
 	        - ansible setup server -> play hyphacoop/infra-ansible (fork of the public) -> play from config repo: BBB room config 
-	- private #58
+	- private#58
 	    - done
-	- private #52
+	- private#52
 	    - done
-	- private #41
+	- private#41
 	    - done
 
 ### Discussions

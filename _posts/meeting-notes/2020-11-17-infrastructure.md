@@ -44,7 +44,7 @@ Notetaker:  el
 ### Task Board Review
 
 - Review DONE tasks :tada:
-	- private-#68 archived
+	- private#68 archived
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
 	- #329 need org to look at contract, email Tim about IP addresses
 	- #313 docs
