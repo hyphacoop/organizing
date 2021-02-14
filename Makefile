@@ -1,8 +1,10 @@
 FILES ?= '**'
 
 link-issues: ## Convert issue numbers to links
-	@replace-in-file '/ (priv(ate)?)#(\d+)(\s)/g'  ' [$$1#$$3](https://github.com/hyphacoop/organizing-private/issues/$$3)$$4' $(FILES) --isRegex
-	@replace-in-file '/ #(\d+)(\s)/g'              ' [#$$1](https://github.com/hyphacoop/organizing/issues/$$1)$$2' $(FILES) --isRegex
+	# Regex testing: https://regex101.com/r/yxDDOR/4
+	@replace-in-file '/\b(?:(?:organizing-)?priv(?:ate)? ?)#(\d+)([^\d\]])/gi' '[private#$$1](https://github.com/hyphacoop/organizing-private/issues/$$1)$$2' $(FILES) --isRegex
+	# Regex testing: https://regex101.com/r/xMGE3r/6
+	@replace-in-file '/\B#(\d+)([^\d\]\-])/gi'                                 '[#$$1](https://github.com/hyphacoop/organizing/issues/$$1)$$2' $(FILES) --isRegex
 
 %:
 	@true
