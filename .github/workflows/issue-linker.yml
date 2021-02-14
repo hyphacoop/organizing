@@ -19,7 +19,7 @@ jobs:
         with:
           format: space-delimited
 
-      - run: npm install --global replace-in-file
+      - run: sudo npm install --global replace-in-file
 
       - run: 'make link-issues FILES="${{ steps.files.outputs.all }}"'
 
