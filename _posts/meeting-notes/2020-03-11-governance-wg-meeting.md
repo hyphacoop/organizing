@@ -95,17 +95,17 @@ Notetaker:  bl
     - #decision dc: proposes to get reclassified and pay for it (est. $200-400 in first year)
     - "once you get ladders you're in a required industry"
     - #todo bl: communicate to members that this does not block current project proposals
-- #101 By-law planning
+- [#101](https://github.com/hyphacoop/organizing/issues/101) By-law planning
     - dc: start at template and modify, look at resource from other co-ops
     - #todo bl: skim bylaw examples in google drive, read AGM planning doc
     - #todo dc: prep working [meeting] doc for next meeting
-- #102 AGM status update
+- [#102](https://github.com/hyphacoop/organizing/issues/102) AGM status update
     - Quick summary of planning: https://docs.google.com/document/d/1fBm-OB_haaGEIEDGvekMA9wivjJNiA1MCP1Qf-i6QbA/edit?ouid=114071245511075726689&usp=docs_home&ths=true
         - **April 15** initial email out
         - **May** package with schedule
-    - #todo dc: #14 "Good member" desc. for AGM!!!! add to sched.
+    - #todo dc: [#14](https://github.com/hyphacoop/organizing/issues/14) "Good member" desc. for AGM!!!! add to sched.
         - bl: possibly co-write some of that based on draft after discussing first year frictions
-    - #todo dc: #104 Amending articles -- make clear in planning doc
+    - #todo dc: [#104](https://github.com/hyphacoop/organizing/issues/104) Amending articles -- make clear in planning doc
     - #toho bl: `agm` label on gh? dc: sure, if helpful
 - WG description for Ops
     - #todo draft an Ops WG description
@@ -127,16 +127,16 @@ Notetaker:  bl
 - Organization roles (parked)
     - From last meeting:
         - [ ] ops could make a template/set of questions for a role to fill
-    - #121 finance
+    - [#121](https://github.com/hyphacoop/organizing/issues/121) finance
     - handbook#13 doc'ing
-    - #97 time-tracking
-    - #73 internal PM 
-    - #198 social media (landed)
+    - [#97](https://github.com/hyphacoop/organizing/issues/97) time-tracking
+    - [#73](https://github.com/hyphacoop/organizing/issues/73) internal PM 
+    - [#198](https://github.com/hyphacoop/organizing/issues/198) social media (landed)
 
 #### Co-work
 
 Candidates:
-- #90 Add why's to Service Inventory 
+- [#90](https://github.com/hyphacoop/organizing/issues/90) Add why's to Service Inventory 
 
 #### Need to talk abt 
 
@@ -156,8 +156,8 @@ Candidates:
 - [ ] communicate to members that this does not block current project proposals
 - [ ] bl: skim bylaw examples in google drive, read AGM planning doc
 - [ ] dc: prep working [meeting] doc for next meeting
-- [ ] dc: #14 "Good member" desc. for AGM!!!! add to sched.
-- [ ] dc: #104 Amending articles -- make clear in planning doc
+- [ ] dc: [#14](https://github.com/hyphacoop/organizing/issues/14) "Good member" desc. for AGM!!!! add to sched.
+- [ ] dc: [#104](https://github.com/hyphacoop/organizing/issues/104) Amending articles -- make clear in planning doc
 - [ ] bl: change **shortlinks** and **meeting templates** to match github readable name of wgs (but don't change github labels and tags)
 - [x] dc: update handbook with wg descriptions (assigned issue) PR => 
 - [ ] bl: add `agm` label on gh

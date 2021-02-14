@@ -39,13 +39,13 @@ Notetaker:  bl
 - Review DONE tasks :tada:
 	- ...
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
-    - private#48 infra as a service. still blocked on bizdev
-	- #288 matrix history/purge. try to finish for next week
-	- private#67 meet.coop. now yj knows how deploy this, will do
-	- #282 rebrandly. in progress, moved to prod env
-	- #276 prometheus server. end-September target
+    - [private#48](https://github.com/hyphacoop/organizing-private/issues/48) infra as a service. still blocked on bizdev
+	- [#288](https://github.com/hyphacoop/organizing/issues/288) matrix history/purge. try to finish for next week
+	- [private#67](https://github.com/hyphacoop/organizing-private/issues/67) meet.coop. now yj knows how deploy this, will do
+	- [#282](https://github.com/hyphacoop/organizing/issues/282) rebrandly. in progress, moved to prod env
+	- [#276](https://github.com/hyphacoop/organizing/issues/276) prometheus server. end-September target
 	- small tasks. nothing there. start putting task at the top post!
-	- #125 reset access token. yj to ping pc to clean this up
+	- [#125](https://github.com/hyphacoop/organizing/issues/125) reset access token. yj to ping pc to clean this up
 - Triage
     - Discuss all issues in [Migrate internal services to Hypha server](https://github.com/hyphacoop/organizing/milestone/1) milestone
     - #todo el: file a task to re-visit how to do DNS and IP addresses in Oct (Digital Ocean, OVH, Ansible, etc.)

@@ -33,8 +33,8 @@ Notetaker:  bl
 - Archive _Done_ tasks :tada:
     - 2 archived
 - Review [HIGH `[priority-★★★]`][l-pri-hi]
-    - private#4 need yj pc review
-    - #156 payroll (see discussion)
+    - [private#4](https://github.com/hyphacoop/organizing-private/issues/4) need yj pc review
+    - [#156](https://github.com/hyphacoop/organizing/issues/156) payroll (see discussion)
 - Triage new tasks
 - missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]
 

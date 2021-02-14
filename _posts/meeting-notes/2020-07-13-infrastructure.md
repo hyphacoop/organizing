@@ -43,19 +43,19 @@ Notetaker:  bl
 
 - Review DONE tasks :tada:
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
-	- #288 matrix purge
+	- [#288](https://github.com/hyphacoop/organizing/issues/288) matrix purge
 	    - bl: does it cause load?
             - yj: not really
-    - private#67 meet.coop. on hold
-    - #282 retire rebrandly. wait till ansible repo is up. blocked
-    - #125 reset access tokens to roobot
-    - #246 BBB ansibles blocked on Meet.coop
-    - #276 prometheus. wip
-    - #319 automated data backup
+    - [private#67](https://github.com/hyphacoop/organizing-private/issues/67) meet.coop. on hold
+    - [#282](https://github.com/hyphacoop/organizing/issues/282) retire rebrandly. wait till ansible repo is up. blocked
+    - [#125](https://github.com/hyphacoop/organizing/issues/125) reset access tokens to roobot
+    - [#246](https://github.com/hyphacoop/organizing/issues/246) BBB ansibles blocked on Meet.coop
+    - [#276](https://github.com/hyphacoop/organizing/issues/276) prometheus. wip
+    - [#319](https://github.com/hyphacoop/organizing/issues/319) automated data backup
         - KVM encrypts a VM image, then puts into directory, sync into SMB share
         - yj: walk thru of all this at some point
-    - #317 self-deployed BBB + Greenlight and relation to Meet.coop -> blocked
-    - private#48 infra as a service -> blocked
+    - [#317](https://github.com/hyphacoop/organizing/issues/317) self-deployed BBB + Greenlight and relation to Meet.coop -> blocked
+    - [private#48](https://github.com/hyphacoop/organizing-private/issues/48) infra as a service -> blocked
 
 ### Discussions
 

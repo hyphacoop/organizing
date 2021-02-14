@@ -34,26 +34,26 @@ Notetaker:  yurko :raising_hand: Next up: gi, uv, pc, dc, el, bl, yj
 ### Task Board Review
 
 - Archive _Done_ tasks :tada:
-    - #134 not done
-    - #117 closed. #todo add notes
-    - #137 deferred
-    - #85 complete
-    - #92 @dcwalk just need to move it forward
-    - #119 #todo next bizdev
-    - #132 on-stack to discuss today
-    - #71 patcon is blocking humself
-    - #135 patcon and elon will talk #todo
-    - #127 #todo documentation. #discussion: is this working? yay/nay
-    - #95 felt bocked. up to ben (assignee)
+    - [#134](https://github.com/hyphacoop/organizing/issues/134) not done
+    - [#117](https://github.com/hyphacoop/organizing/issues/117) closed. #todo add notes
+    - [#137](https://github.com/hyphacoop/organizing/issues/137) deferred
+    - [#85](https://github.com/hyphacoop/organizing/issues/85) complete
+    - [#92](https://github.com/hyphacoop/organizing/issues/92) @dcwalk just need to move it forward
+    - [#119](https://github.com/hyphacoop/organizing/issues/119) #todo next bizdev
+    - [#132](https://github.com/hyphacoop/organizing/issues/132) on-stack to discuss today
+    - [#71](https://github.com/hyphacoop/organizing/issues/71) patcon is blocking humself
+    - [#135](https://github.com/hyphacoop/organizing/issues/135) patcon and elon will talk #todo
+    - [#127](https://github.com/hyphacoop/organizing/issues/127) #todo documentation. #discussion: is this working? yay/nay
+    - [#95](https://github.com/hyphacoop/organizing/issues/95) felt bocked. up to ben (assignee)
         - dcwalk: maybe start with doc before PR? bl: :+1:
     - #discussion what's our line of adding things to todos? (patcon)
-    - #130 money moved. waiting on bank work. so CLOSING :tada: 
+    - [#130](https://github.com/hyphacoop/organizing/issues/130) money moved. waiting on bank work. so CLOSING :tada: 
 - Review [HIGH `[priority-★★★]`][l-pri-hi]
-    - #137 downgraded priority
+    - [#137](https://github.com/hyphacoop/organizing/issues/137) downgraded priority
 - Triage new tasks
-    - #143 no label. just new ticket. need to send contract.
-    - #120 one-pager for our internal understanding. #new isuse: HST and non-profit vs for-profit.
-    - #118
+    - [#143](https://github.com/hyphacoop/organizing/issues/143) no label. just new ticket. need to send contract.
+    - [#120](https://github.com/hyphacoop/organizing/issues/120) one-pager for our internal understanding. #new isuse: HST and non-profit vs for-profit.
+    - [#118](https://github.com/hyphacoop/organizing/issues/118)
 - missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]
 - #todo dc: spawn issue for explainer/documentation of our status as a nonprofit worker co-operative
 

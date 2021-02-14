@@ -37,12 +37,12 @@ Notetaker:  bl
 - Triage new tasks
 - missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]
 
-- #156 payroll, WagePoint doesn't work with our QBO plan
+- [#156](https://github.com/hyphacoop/organizing/issues/156) payroll, WagePoint doesn't work with our QBO plan
     - can have Rodica do this for us
     - Rodica has access to our books, but is waiting on us
     - pc, yj: have Rodica do the first integration
     - DECISION: don't upgrade QBO account for now
-- #122 get clarity with Rodica, to not leave contract undefined
+- [#122](https://github.com/hyphacoop/organizing/issues/122) get clarity with Rodica, to not leave contract undefined
     - pc: plan to export payroll then talk to Rodica
     - bl: emphasize I want alignment on scope of work and budget, don't feel we must have contract to start
     - #todo ask expected monthly rate (pc)

@@ -40,7 +40,7 @@ Notetaker:  pc
 	- ...
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
 	- ...
-	- #313 server access
+	- [#313](https://github.com/hyphacoop/organizing/issues/313) server access
 	    - everyone needs new infra keys
 	    - we won't pull repeatedly from github, in case github is compromised
 	    - patcon suggested using github keys as snapshot to set people up. others not in favour

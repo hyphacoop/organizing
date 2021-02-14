@@ -39,13 +39,13 @@ _None_
 - Review DONE tasks :tada:
 	- None
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
-	- #246 el will write copy and ping bl to review in hackmd
+	- [#246](https://github.com/hyphacoop/organizing/issues/246) el will write copy and ping bl to review in hackmd
 	    - deadline Thursday, then finalize Friday (left comment in issue)
-	- private#48 discuss
-    - #282 yj: deal with multiple repos, el updating docs with cache impl
+	- [private#48](https://github.com/hyphacoop/organizing-private/issues/48) discuss
+    - [#282](https://github.com/hyphacoop/organizing/issues/282) yj: deal with multiple repos, el updating docs with cache impl
         - bl: eventually merge them, probably separate for now?
-    - private#58 yj: will finish up
-    - #288 yj: have all the pieces to make this work, need:
+    - [private#58](https://github.com/hyphacoop/organizing-private/issues/58) yj: will finish up
+    - [#288](https://github.com/hyphacoop/organizing/issues/288) yj: have all the pieces to make this work, need:
         - which rooms? bl: private rooms
         - how often? yj,el: run daily, keep 3 months of history
         - yj: run by all hands before making changes
@@ -77,8 +77,8 @@ _None_
             - yj: thinking about beta program, matrix helpful for feedback
         - yj: like "group policy" in windows
         - #todo bl: add summary of this to service reliability issue
-    - private#44 looks like a ded lead, moving to backlog
-    - #175 managing passbolt
+    - [private#44](https://github.com/hyphacoop/organizing-private/issues/44) looks like a ded lead, moving to backlog
+    - [#175](https://github.com/hyphacoop/organizing/issues/175) managing passbolt
         - yj: critical infra. run a second instance, a restored copy on el's infra (auto restore)
         - bl: not a block, but we should focus on moving things off our infra
         - el: if it goes down it takes a couple min to spin it back up

@@ -37,33 +37,33 @@ Notetaker:  bl
 ### Task Board Review
 
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
-	- #199 OKR
-	- #240 will discuss COVID-19 internal response
-	- #102 AGM -- intentionally not worked on
+	- [#199](https://github.com/hyphacoop/organizing/issues/199) OKR
+	- [#240](https://github.com/hyphacoop/organizing/issues/240) will discuss COVID-19 internal response
+	- [#102](https://github.com/hyphacoop/organizing/issues/102) AGM -- intentionally not worked on
 	- dc, bl agree to close the issue for Mozilla proposal, don't require internal proposal
 - [`wg:gov`][l-gov] label review
-    - #101 bylaws not touched, reassigned from bl to dc
+    - [#101](https://github.com/hyphacoop/organizing/issues/101) bylaws not touched, reassigned from bl to dc
     - handbook#13 intentionally blocked
-    - #133 not touched
+    - [#133](https://github.com/hyphacoop/organizing/issues/133) not touched
     - handbook#15 "how to get involved" -- does this become onboarding?
-    - #155 up priority, needs to happen, (related to #120 HST), bl to step in
+    - [#155](https://github.com/hyphacoop/organizing/issues/155) up priority, needs to happen, (related to [#120](https://github.com/hyphacoop/organizing/issues/120) HST), bl to step in
 - [`wg:ops`][l-ops] label review
-    - #95 IP assignment, bl
-    - #250 hiring process -- needs to be fleshed out below
-    - #131 much closer to being done than looks, join infra meeting to resolve?
+    - [#95](https://github.com/hyphacoop/organizing/issues/95) IP assignment, bl
+    - [#250](https://github.com/hyphacoop/organizing/issues/250) hiring process -- needs to be fleshed out below
+    - [#131](https://github.com/hyphacoop/organizing/issues/131) much closer to being done than looks, join infra meeting to resolve?
         - infra should take care of _how to implement internal routing and host mailboxes_
         - ops should decide policy on _who and when does a new email address spawn_
         - plan can be "tell infra" for creating email, treat as third-party service provided by el
         - #todo join infra call to sort this
-    - #97 roles attached to working group #73 #97 #121
+    - [#97](https://github.com/hyphacoop/organizing/issues/97) roles attached to working group [#73](https://github.com/hyphacoop/organizing/issues/73) [#97](https://github.com/hyphacoop/organizing/issues/97) [#121](https://github.com/hyphacoop/organizing/issues/121)
         - need guideline on this "this is how we do timetracking"
         - split around payroll side?
         - #todo make the template around role spawn an issue for this
             - update [roles page](https://handbook.hypha.coop/roles.html)
             - make template
             - "empower" WGs/people with process to define their own
-    - #217 dc to pick up, some tasks this week
-    - #175 passbolt
+    - [#217](https://github.com/hyphacoop/organizing/issues/217) dc to pick up, some tasks this week
+    - [#175](https://github.com/hyphacoop/organizing/issues/175) passbolt
         - #todo talk with infra about how to land this
 
 ### OKR Review 
@@ -76,9 +76,9 @@ https://docs.google.com/spreadsheets/d/1hMFS3IhzZOFQA-yjt7lFcoVO0Ry6erFEH7D1Nswv
 
 ### Discussions
 
-- #240 Internal COVID-19 response (todos at bottom of the docs)
+- [#240](https://github.com/hyphacoop/organizing/issues/240) Internal COVID-19 response (todos at bottom of the docs)
     - https://github.com/hyphacoop/organizing-private/issues/35
-- #250 Hiring
+- [#250](https://github.com/hyphacoop/organizing/issues/250) Hiring
     - PM for infra
     - TODOs from implementation doc:
         - [ ] dc: grab descriptions of hiring process, job descriptions from elsewhere
@@ -95,10 +95,10 @@ https://docs.google.com/spreadsheets/d/1hMFS3IhzZOFQA-yjt7lFcoVO0Ry6erFEH7D1Nswv
         - [ ] ip assignment, contractor agreement 
         - [ ] add to handbook: employee bulliten board (OSHA)  
 - Defining roles (park to next week)
-    - #97 #121 #73 all roles atached to WG
+    - [#97](https://github.com/hyphacoop/organizing/issues/97) [#121](https://github.com/hyphacoop/organizing/issues/121) [#73](https://github.com/hyphacoop/organizing/issues/73) all roles atached to WG
     - proof of concept social media
     - PM for infra
-- #todo:bl join infra meeting to discuss #131 and #175, review/update WG description
+- #todo:bl join infra meeting to discuss [#131](https://github.com/hyphacoop/organizing/issues/131) and [#175](https://github.com/hyphacoop/organizing/issues/175), review/update WG description
 
 ### Co-work
 

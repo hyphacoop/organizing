@@ -43,11 +43,11 @@ Notetaker:  yj
 - Review DONE tasks :tada:
 	- BBB
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
-	- #329 - arin - tomesh waiting on
-	- #313 - testing needed
-	- #316 - Loomio - docs and backup
-	- #314 - Ansible - website - docs
-    - #168 - Upgrade business phone number
+	- [#329](https://github.com/hyphacoop/organizing/issues/329) - arin - tomesh waiting on
+	- [#313](https://github.com/hyphacoop/organizing/issues/313) - testing needed
+	- [#316](https://github.com/hyphacoop/organizing/issues/316) - Loomio - docs and backup
+	- [#314](https://github.com/hyphacoop/organizing/issues/314) - Ansible - website - docs
+    - [#168](https://github.com/hyphacoop/organizing/issues/168) - Upgrade business phone number
         - use voipms
         - yj: concerned about FreePBX hacks (sip in general)
     - roobot

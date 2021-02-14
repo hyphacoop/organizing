@@ -70,13 +70,13 @@ Notetaker:  dc
     - dc: flipped model where garry is a SME "Subject Matter Expert", and have someone as a project manager
     - uv: happy to lead lead
 - Timeline on first priority:
-    - **Feb 7** Develop pitch deck #136 
+    - **Feb 7** Develop pitch deck [#136](https://github.com/hyphacoop/organizing/issues/136) 
         - **mid-Jan** First-pass
         - **end-Jan** Feedback period closes
-    - **Feb-Mar** Branding exercise phase #77
+    - **Feb-Mar** Branding exercise phase [#77](https://github.com/hyphacoop/organizing/issues/77)
         - Branding look book (guidelines) 
-        - Letterhead #100
-    - **mid-Mar** Initial website -- maybe skeleton/onepager with "wordmark", not full treatment/implementation #80
+        - Letterhead [#100](https://github.com/hyphacoop/organizing/issues/100)
+    - **mid-Mar** Initial website -- maybe skeleton/onepager with "wordmark", not full treatment/implementation [#80](https://github.com/hyphacoop/organizing/issues/80)
     - **??TBD??** Final "re-launched" website
 
 ### Sales Opportunities
@@ -100,7 +100,7 @@ Notetaker:  dc
 - #todo dc to update calendar for next few months
 
 ### Todos
-- [ ] uv: draft pitch deck for comment by **Wed** -- task exists in #136
+- [ ] uv: draft pitch deck for comment by **Wed** -- task exists in [#136](https://github.com/hyphacoop/organizing/issues/136)
 - [x] bl: draft dweb meshnet proposal for all-hands seek member buy-in -- THERE IS!
 - [x] dc: post in chat about interest around website hosting/maintenance opportunity
 - [x] dc: update patcon about start.coop

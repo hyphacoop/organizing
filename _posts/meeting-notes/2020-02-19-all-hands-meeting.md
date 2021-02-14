@@ -42,7 +42,7 @@ Notetaker:  uv :raising_hand: Next up: gi, bl, pc, dc, yj, el, uv
     - pc: no high priority tasks in the backlog
 - Triage new tasks
     - no new tasks
-    - dc: request a review of #46
+    - dc: request a review of [#46](https://github.com/hyphacoop/organizing/issues/46)
 - missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]
 
 ### Working Group Updates

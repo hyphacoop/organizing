@@ -34,14 +34,14 @@ Notetaker:  yj
 ### Task Board Review
 
 - Review DONE tasks :tada:
-	- #228 - add to Repo
-	- #313 - ongoing
-	- #282 - ongoing
-	- #314 - ongoing
-	- #329 - We will create to get a quote
-	- #125 - waiting on pat
-	- #317 - meet.coop
-	- #246 - meet.coop
+	- [#228](https://github.com/hyphacoop/organizing/issues/228) - add to Repo
+	- [#313](https://github.com/hyphacoop/organizing/issues/313) - ongoing
+	- [#282](https://github.com/hyphacoop/organizing/issues/282) - ongoing
+	- [#314](https://github.com/hyphacoop/organizing/issues/314) - ongoing
+	- [#329](https://github.com/hyphacoop/organizing/issues/329) - We will create to get a quote
+	- [#125](https://github.com/hyphacoop/organizing/issues/125) - waiting on pat
+	- [#317](https://github.com/hyphacoop/organizing/issues/317) - meet.coop
+	- [#246](https://github.com/hyphacoop/organizing/issues/246) - meet.coop
 	- 
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
 	- ...

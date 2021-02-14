@@ -49,13 +49,13 @@ Important but don't have skills/member time:
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
 	- ...
 - [`wg:gov`][l-gov] label review
-    - #250 hiring process. top priority. wrap-up.
-    - #104 amend articles. review material. goal end of sept. review pdf forms. look for errors. prepare for signing. confirm in-person signing requirement. money floater can be tapped.
+    - [#250](https://github.com/hyphacoop/organizing/issues/250) hiring process. top priority. wrap-up.
+    - [#104](https://github.com/hyphacoop/organizing/issues/104) amend articles. review material. goal end of sept. review pdf forms. look for errors. prepare for signing. confirm in-person signing requirement. money floater can be tapped.
         - might be faster to his serviceON
-    - #307 wrap-up AGM. dc will do last piece of 304.
-    - #133 assignment agreement
+    - [#307](https://github.com/hyphacoop/organizing/issues/307) wrap-up AGM. dc will do last piece of 304.
+    - [#133](https://github.com/hyphacoop/organizing/issues/133) assignment agreement
         - good small item
-    - #14 good member accountability statement
+    - [#14](https://github.com/hyphacoop/organizing/issues/14) good member accountability statement
         - in AGM notes. draft accountability statement
         - good small item.
 - [`wg:ops`][l-ops] label review
@@ -71,8 +71,8 @@ Important but don't have skills/member time:
 
 Candidates for co-work:
 - discussed above in label review
-  - dc: #350 hiring process wrap-up. #307 AGM wrap-up.
-  - pc: #104 amend articles. #14 member accountability statement. #133 assignment agreement (stretch).
+  - dc: [#350](https://github.com/hyphacoop/organizing/issues/350) hiring process wrap-up. [#307](https://github.com/hyphacoop/organizing/issues/307) AGM wrap-up.
+  - pc: [#104](https://github.com/hyphacoop/organizing/issues/104) amend articles. [#14](https://github.com/hyphacoop/organizing/issues/14) member accountability statement. [#133](https://github.com/hyphacoop/organizing/issues/133) assignment agreement (stretch).
 
 
 

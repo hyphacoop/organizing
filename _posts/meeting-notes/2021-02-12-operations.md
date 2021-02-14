@@ -39,7 +39,7 @@ Notetaker:  *
     - Equity4Who
         - We are holding until they get back to us
         - #todo:pc ~~followup on Wed~~
-        - #todo:pc ~~email forwarder for oc~~ [`private#116`](https://github.com/hyphacoop/organizing-private/pull/116)
+        - #todo:pc ~~email forwarder for oc~~ [private#116](https://github.com/hyphacoop/organizing-private/issues/116)
         - sample sheet: https://docs.google.com/spreadsheets/d/1oyUjNZHaslqu7E_VySMgj6C6AOpSeS63UCZNoVYAtjc/edit#gid=0
         - #todo:pc ~~make open collective project folder~~ [done](https://drive.google.com/drive/u/0/folders/1aAExZzaUZG7PzcF1PGVOJqg5xfhXTKIo)
         - #todo:pc remove hypha on other 
@@ -57,7 +57,7 @@ Notetaker:  *
         - CTTO outreach?
             - pc will keep announcing at CTTO +1 dc
         - #todo:pc debrief in 2 weeks Ops call (Feb 24)
-        - #todo:pc ~~create opp ticket~~ [`private#115`](https://github.com/hyphacoop/organizing-private/issues/115)
+        - #todo:pc ~~create opp ticket~~ [private#115](https://github.com/hyphacoop/organizing-private/issues/115)
     - ~~$500 marketing~~ (discussed in bizdev)
 - Transformation plan! (40 min)
     - notes in board

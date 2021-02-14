@@ -13,11 +13,11 @@ Notetaker:  yj
 - Logistic things (ben)
     - Delegate person for All Hands to give summary
     - Meeting time
-- TransferWise business account walkthrough #154 (ben)
-- QB invoicing in USD #154 (ben)
-- Payroll #156
-- Shareholder loans #154
-- Bookkeeper meeting #122
+- TransferWise business account walkthrough [#154](https://github.com/hyphacoop/organizing/issues/154) (ben)
+- QB invoicing in USD [#154](https://github.com/hyphacoop/organizing/issues/154) (ben)
+- Payroll [#156](https://github.com/hyphacoop/organizing/issues/156)
+- Shareholder loans [#154](https://github.com/hyphacoop/organizing/issues/154)
+- Bookkeeper meeting [#122](https://github.com/hyphacoop/organizing/issues/122)
 
 ## Notes
 
@@ -25,9 +25,9 @@ _`#ask` indicates questions for our accountant or bookkeeper_
 
 - pc to be All Hands presenter
 - backlog grooming
-    - #120 low priority
-    - added #160 to backlog
-    - #121 low priority
+    - [#120](https://github.com/hyphacoop/organizing/issues/120) low priority
+    - added [#160](https://github.com/hyphacoop/organizing/issues/160) to backlog
+    - [#121](https://github.com/hyphacoop/organizing/issues/121) low priority
 - re: meeting time.
     - same time. value yurko's attention more than ben's sleep. new hold in calendar for 1h before #todo:patcon
 
@@ -54,10 +54,10 @@ _`#ask` indicates questions for our accountant or bookkeeper_
         - bl: would prefer to keep it more restrictive
         - Share l/p with 1 other rest view
         - pc will get access
-- #154 USD invoices
+- [#154](https://github.com/hyphacoop/organizing/issues/154) USD invoices
     - yj: can't expect client to always have transferwise
     - #ask bookkeeper do we need to track transferwise movements between currencies in our books?
-        - #todo:patcon transfer to #122
+        - #todo:patcon transfer to [#122](https://github.com/hyphacoop/organizing/issues/122)
     - bl: may need to track USD in our books
     - yj: when I spend CAD credit card in US, it just converts. how is this different?
     - bl: proposal = we should try with accepting USD, and if it's hard, revise our policy to be CAD only.
@@ -71,7 +71,7 @@ _`#ask` indicates questions for our accountant or bookkeeper_
     - pc: if no one else convinced by new research, will retract concern.
     - after ben left call, yj spoke about finding more resources recommending biweekly for hourly or irregular work.
     - #ask how complex is it to switch pay periods
-        - #todo:patcon transfer to #122
+        - #todo:patcon transfer to [#122](https://github.com/hyphacoop/organizing/issues/122)
         
 ### Action Items for Cultivator
 

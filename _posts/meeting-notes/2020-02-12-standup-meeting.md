@@ -115,7 +115,7 @@ pc: move OKRs to spreadsheet?
 - [ ] ben: clean up or migrate OKRs to proper public sheet
 - [ ] pc: handbook PR with process, Os, link to spreadsheet
 - [ ] pc: spawn issue to discuss OKR process and/or role [ops]. "Shall we start with defining tasks/process before defining role?"
-- [ ] ??: CLOSE THE ISSUE #173
+- [ ] ??: CLOSE THE ISSUE [#173](https://github.com/hyphacoop/organizing/issues/173)
 
 <!-- Links: Important -->
 [standup-template]: https://link.hypha.coop/standup-template

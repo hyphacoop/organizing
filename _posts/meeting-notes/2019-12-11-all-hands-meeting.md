@@ -43,16 +43,16 @@ Notetaker:  el :raising_hand: Next up: el, dc, bl, yj, uv, pc, gi
 
 - Archive _Done_ tasks :tada:
 - Review [HIGH `[priority-★★★]`][l-pri-hi]
-    - #15 need to discuse with the group
-    - #119 patcon: still needs pipeline that matches our actual thing. +1 ben for tomorrow looking
-    - #154
-    - #156 update below
-    - #134 ongoing
-    - #143 dc need to return the contract
-    - #131 set up WG call for planning
-    - #86 Done
-    - #127 el: review and close
-    - #145 pc thinks its done now
+    - [#15](https://github.com/hyphacoop/organizing/issues/15) need to discuse with the group
+    - [#119](https://github.com/hyphacoop/organizing/issues/119) patcon: still needs pipeline that matches our actual thing. +1 ben for tomorrow looking
+    - [#154](https://github.com/hyphacoop/organizing/issues/154)
+    - [#156](https://github.com/hyphacoop/organizing/issues/156) update below
+    - [#134](https://github.com/hyphacoop/organizing/issues/134) ongoing
+    - [#143](https://github.com/hyphacoop/organizing/issues/143) dc need to return the contract
+    - [#131](https://github.com/hyphacoop/organizing/issues/131) set up WG call for planning
+    - [#86](https://github.com/hyphacoop/organizing/issues/86) Done
+    - [#127](https://github.com/hyphacoop/organizing/issues/127) el: review and close
+    - [#145](https://github.com/hyphacoop/organizing/issues/145) pc thinks its done now
 - Triage new tasks
 - missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]
 
@@ -62,7 +62,7 @@ Notetaker:  el :raising_hand: Next up: el, dc, bl, yj, uv, pc, gi
     - Meeting tomorrow for 2 hours in call
     - pc and bl put some leads into CRM, have a look before meeting if you get a chance
 - [Finance][fin-wg] :white_check_mark: [`wg:finance`][l-fin]
-    - patcon: #156 Payroll. Finance WG decided to go with Wagepoint. Registered. CRA payroll program account is now set up. Currently doing Wagepoint setup.
+    - patcon: [#156](https://github.com/hyphacoop/organizing/issues/156) Payroll. Finance WG decided to go with Wagepoint. Registered. CRA payroll program account is now set up. Currently doing Wagepoint setup.
     - Decided not to go with QB payroll and using wagepoint
     - Decide on vacation time 
     - e.g. $100 from client, employee gets $75 + (4% of $75)

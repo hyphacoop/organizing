@@ -43,8 +43,8 @@ Notetaker:  bl
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
 	- checked out "shape"--in good position, all high priority underway/discussed on this call
 - [`wg:gov`][l-gov] label review
-    - #101 Write by-laws, discuss this today
-    - #102 AGM, update notes to reflect agreement on plan: https://github.com/hyphacoop/organizing/pull/241
+    - [#101](https://github.com/hyphacoop/organizing/issues/101) Write by-laws, discuss this today
+    - [#102](https://github.com/hyphacoop/organizing/issues/102) AGM, update notes to reflect agreement on plan: https://github.com/hyphacoop/organizing/pull/241
     - Backlog: all agm or `priority-★☆☆`
     - The feedback piece, does it need more time? A process earlier?
     - bl: want to socialize peer review process and "good member" discussion earlier than close to AGM
@@ -53,7 +53,7 @@ Notetaker:  bl
 - [`wg:ops`][l-ops] label review
     - [quick side chat on social card for twitter on covid19 resource]
     - many to discuss below
-    - #217 health and safety? in relation to covid-19
+    - [#217](https://github.com/hyphacoop/organizing/issues/217) health and safety? in relation to covid-19
         - dc: how we respond to employees who are sick, we should already be compliant with requirements
         - dc: site safety things re: covid-19 (e.g. PPE) don't relate to us bc remote
         - dc: focus on policy response first
@@ -61,14 +61,14 @@ Notetaker:  bl
 ### Discussions
 
 - Ops:
-    - #199 Stewarding OKR process
+    - [#199](https://github.com/hyphacoop/organizing/issues/199) Stewarding OKR process
         - reviewed https://hackmd.io/ImMcCS6hTQWcCStwHK8qRA?view and will be added #todo:dc to handbook
         - #todo:bl announce and discuss at standup tonight
-    - #229 External response to COVID-19 
+    - [#229](https://github.com/hyphacoop/organizing/issues/229) External response to COVID-19 
         - [notes below]
-    - #240 Internal COVID-19 response 
+    - [#240](https://github.com/hyphacoop/organizing/issues/240) Internal COVID-19 response 
 - Governance:
-    - #101 Write by-laws
+    - [#101](https://github.com/hyphacoop/organizing/issues/101) Write by-laws
 
 #### External response to COVID-19 
 
@@ -85,7 +85,7 @@ Notetaker:  bl
         - dc: floating a meeting after call today makes sense
         - dc: there's a flood of resources already, tons of gdocs linking to gdocs
         - bl: what is our value proposition, lots of sharing what folks do, we can try to focus on _doing_ (smaller reach, deeper impact)
-        - bl: to review/closeout #229
+        - bl: to review/closeout [#229](https://github.com/hyphacoop/organizing/issues/229)
 - Initial places to publish:
     - toronto:
         - [x] civic tech 
@@ -130,7 +130,7 @@ Notetaker:  bl
 
 ### Co-work
 
-- #101 write by-laws
+- [#101](https://github.com/hyphacoop/organizing/issues/101) write by-laws
     - dc: plain language, closer to "come as you are" handbook
     - bl: treasurer or no treasurer, defined in bylaw?
         - dc: finance role vs. treasurer, may need for audit

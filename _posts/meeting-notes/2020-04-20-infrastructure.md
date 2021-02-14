@@ -39,14 +39,14 @@ How is everyone surviving these past week?
 ### Task Board Review
 
 - Review DONE tasks :tada:
-	- #244 will be this week!
-	- #246 el needs to do still, write policy on covid page
-	- #239 ongoing
-	- #262 shortlinks, el checked config files
+	- [#244](https://github.com/hyphacoop/organizing/issues/244) will be this week!
+	- [#246](https://github.com/hyphacoop/organizing/issues/246) el needs to do still, write policy on covid page
+	- [#239](https://github.com/hyphacoop/organizing/issues/239) ongoing
+	- [#262](https://github.com/hyphacoop/organizing/issues/262) shortlinks, el checked config files
 	    - el: logged in to rebrandly, things seem normal
 	    - bl: pls write comment in issue what you have done so results don't get duplicated
 	    - yj: will take this on, look at rebrandly logs and see if makes more sense to do custom js thing
-	- #131 email
+	- [#131](https://github.com/hyphacoop/organizing/issues/131) email
         - el: don't want to break something
 	    - yj: fixed `opportunities@`
 	    - bl: how can we ensure things move forward from here?
@@ -58,13 +58,13 @@ How is everyone surviving these past week?
 	    - set deadline to **April 27, 2020** to complete, so we can give update on next full all hands
 	    - yj: at coming standup, will ask ppl what email we need some services to go to (e.g. hubspot)
 	    - moved to high priority
-	- #175 passbolt
+	- [#175](https://github.com/hyphacoop/organizing/issues/175) passbolt
 	    - yj: want to backup nightly, phase 1 just between yj and el to start!
-	- #253 "ansible stuff"
+	- [#253](https://github.com/hyphacoop/organizing/issues/253) "ansible stuff"
 	    - bl: now less urgent, should continue conversation, but less urgent than emails
 	    - yj: making 1 star, but if BBB project comes in this will be bumped
 	    - bl: will keep looking for ways to fund this in the meantime
-	- #265 label
+	- [#265](https://github.com/hyphacoop/organizing/issues/265) label
 	    - bl discussed how this works and where we're at
 	    - yj taking this on, try to understand how this works...
 	    - bl: lower priority than email (2 star) but pretty high

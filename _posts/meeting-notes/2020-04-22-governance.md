@@ -39,35 +39,35 @@ Notetaker:  bl
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
 	- ...
 - [`wg:gov`][l-gov] label review
-    - #101 dc: been drafting them, expect to take 3h, should be done by eod
-    - #133 bl: I haven't start, both for members and contractors, will fork into two tasks
-    - #155 bl: will call Hema. Scenario example very helpful
+    - [#101](https://github.com/hyphacoop/organizing/issues/101) dc: been drafting them, expect to take 3h, should be done by eod
+    - [#133](https://github.com/hyphacoop/organizing/issues/133) bl: I haven't start, both for members and contractors, will fork into two tasks
+    - [#155](https://github.com/hyphacoop/organizing/issues/155) bl: will call Hema. Scenario example very helpful
         - bl: how to doc HST stuff?
             - dc: can have HST subsection in Finance page
             - bl: will keep HST scenarios in Finance tab
-    - #102 AGM next meeting
+    - [#102](https://github.com/hyphacoop/organizing/issues/102) AGM next meeting
         - dc: may try to push to June
         - bl: not reason to have in May
     - handbook#13 after bylaws
-    - #202 peer feedback
+    - [#202](https://github.com/hyphacoop/organizing/issues/202) peer feedback
         - dc: we'll do it not pc bc of timing
 - [`wg:ops`][l-ops] label review
-    - #95 #201 waiting on feedback
-    - #250 hiring
+    - [#95](https://github.com/hyphacoop/organizing/issues/95) [#201](https://github.com/hyphacoop/organizing/issues/201) waiting on feedback
+    - [#250](https://github.com/hyphacoop/organizing/issues/250) hiring
         - dc: will eventually move process to handbook
         - bl: if we **hire foreign contractor**, contractor will invoice us as corporation or individual, we pay bills via transferwise in one of the supported currencies, they have to take care of taxes
         - bl: we need **transfer of IP for orgs** for contractor to sign
-    - #217 workplace health and safety
+    - [#217](https://github.com/hyphacoop/organizing/issues/217) workplace health and safety
         - dc: we hav > 5 employees, need to do some extra stuff :D
         - bulletin board, went thru checklist, ...
         - need to have a policy on workplace safety and on workplace harassment, etc.
         - need to define a role "safety champion" do an online training :)
         - everyone probably has to do an online training
         - whole thing on MSD, one of our identified risks!
-    - #175 passbolt. bl: next on the list after emails, backup locally for now
-    - #97 time tracking. dc: some setup tasks not captured in finance role, this can be relevant, talk about it soon!
-    - #100 letterhead. dc: blocked on shortlinks, but can kinda move ahead
-    - #190 employment relationships. dc: ties into our other tasks, upgrade to 2 start
+    - [#175](https://github.com/hyphacoop/organizing/issues/175) passbolt. bl: next on the list after emails, backup locally for now
+    - [#97](https://github.com/hyphacoop/organizing/issues/97) time tracking. dc: some setup tasks not captured in finance role, this can be relevant, talk about it soon!
+    - [#100](https://github.com/hyphacoop/organizing/issues/100) letterhead. dc: blocked on shortlinks, but can kinda move ahead
+    - [#190](https://github.com/hyphacoop/organizing/issues/190) employment relationships. dc: ties into our other tasks, upgrade to 2 start
 
 ### Discussions
 

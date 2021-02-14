@@ -40,13 +40,13 @@ Notetaker:  el
 - Review DONE tasks :tada:
 	- ...
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
-	- #246 el: go over pull request
-	- private#48: discussion item
-	- #282 update docs currently mix of Apache and Nginx
+	- [#246](https://github.com/hyphacoop/organizing/issues/246) el: go over pull request
+	- [private#48](https://github.com/hyphacoop/organizing-private/issues/48): discussion item
+	- [#282](https://github.com/hyphacoop/organizing/issues/282) update docs currently mix of Apache and Nginx
 	    - went over pr of next shortlink script version
-	- #175 backup and restore was done.
+	- [#175](https://github.com/hyphacoop/organizing/issues/175) backup and restore was done.
 	    - #todo: work on doc
-	- #288 matrix purge
+	- [#288](https://github.com/hyphacoop/organizing/issues/288) matrix purge
 	    - decide on repo
 	        - for settings of the scripts such as
 	            - shortlinks.csv (can be public, but are config)
@@ -63,11 +63,11 @@ Notetaker:  el
 	                - deploy keys
 	                - API keys
 	        - ansible setup server -> play hyphacoop/infra-ansible (fork of the public) -> play from config repo: BBB room config 
-	- private#58
+	- [private#58](https://github.com/hyphacoop/organizing-private/issues/58)
 	    - done
-	- private#52
+	- [private#52](https://github.com/hyphacoop/organizing-private/issues/52)
 	    - done
-	- private#41
+	- [private#41](https://github.com/hyphacoop/organizing-private/issues/41)
 	    - done
 
 ### Discussions
@@ -100,7 +100,7 @@ Notetaker:  el
             - #todo bl: inquire with koumbit
     - decide [our repo strategy](https://github.com/hyphacoop/organizing/issues/253#issuecomment-631551028)
         - _see discussion in task section_
-    - rename #253?
+    - rename [#253](https://github.com/hyphacoop/organizing/issues/253)?
         - Renamed
     - draft timeline
 - **business offering** (15 min): create a form draft for https://hackmd.io/bkD0GfXNQb6MCTkq-76MWQ

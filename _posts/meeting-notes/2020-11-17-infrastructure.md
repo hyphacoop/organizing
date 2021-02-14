@@ -44,15 +44,15 @@ Notetaker:  el
 ### Task Board Review
 
 - Review DONE tasks :tada:
-	- private#68 archived
+	- [private#68](https://github.com/hyphacoop/organizing-private/issues/68) archived
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
-	- #329 need org to look at contract, email Tim about IP addresses
-	- #313 docs
-	- #319 docs
+	- [#329](https://github.com/hyphacoop/organizing/issues/329) need org to look at contract, email Tim about IP addresses
+	- [#313](https://github.com/hyphacoop/organizing/issues/313) docs
+	- [#319](https://github.com/hyphacoop/organizing/issues/319) docs
 
 ### Discussions
 
-- telephone stuff #todo:yj create issue for phone stuff -> #372
+- telephone stuff #todo:yj create issue for phone stuff -> [#372](https://github.com/hyphacoop/organizing/issues/372)
     - BBB phone number
     - jitsi number
     - SMS
@@ -71,7 +71,7 @@ Notetaker:  el
         - docs
     - External services
         - Decide in March
-- private#48 Opportunity: Hypha-hosted Infrastructure as a Service
+- [private#48](https://github.com/hyphacoop/organizing-private/issues/48) Opportunity: Hypha-hosted Infrastructure as a Service
     - focus on DWEB services?
         - becoming mainstream
         - managing matrix, IPFS...

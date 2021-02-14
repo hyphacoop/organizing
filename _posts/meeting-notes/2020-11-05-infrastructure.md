@@ -34,13 +34,13 @@ Notetaker:  yj
 ### Task Board Review
 
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
-	- #329 - blocked on filling in form - TOMESH
-	- #313 - Ansible script - meet.coop
-	- #319 - Document Party
-	- #147 - Checked off
-	- #67 - closing off 
-	- #68 - Decide not to join
-	- #289 - Jitsi reboot cause loop
+	- [#329](https://github.com/hyphacoop/organizing/issues/329) - blocked on filling in form - TOMESH
+	- [#313](https://github.com/hyphacoop/organizing/issues/313) - Ansible script - meet.coop
+	- [#319](https://github.com/hyphacoop/organizing/issues/319) - Document Party
+	- [#147](https://github.com/hyphacoop/organizing/issues/147) - Checked off
+	- [#67](https://github.com/hyphacoop/organizing/issues/67) - closing off 
+	- [#68](https://github.com/hyphacoop/organizing/issues/68) - Decide not to join
+	- [#289](https://github.com/hyphacoop/organizing/issues/289) - Jitsi reboot cause loop
 	- #todo:yj make task to track next steps for phone stuff
 
 ### Discussions

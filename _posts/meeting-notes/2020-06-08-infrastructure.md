@@ -45,15 +45,15 @@ Notetaker:  yj
 	
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
 	- #private/48 - Waiting on BizDev
-	- #256 
+	- [#256](https://github.com/hyphacoop/organizing/issues/256) 
 	    - Data policy done
 	    - working wiht bbb.coop
 	    - colaborate on bbb.coop ansible
-    - #282 - Rebrandly
-    - #288 - Room Purge
+    - [#282](https://github.com/hyphacoop/organizing/issues/282) - Rebrandly
+    - [#288](https://github.com/hyphacoop/organizing/issues/288) - Room Purge
         - notify people
     - #private/67 meet.coop
-    - #175 - passbolt instance
+    - [#175](https://github.com/hyphacoop/organizing/issues/175) - passbolt instance
         - bl: do we need to document what passwords exist on there for each group?
             - yj: has personal passwords in there
             - yj: but once the last person leaves a group, we're sol

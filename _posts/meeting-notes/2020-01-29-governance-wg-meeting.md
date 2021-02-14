@@ -37,25 +37,25 @@ Notetaker: dc, pc
     - Archive _Done_ tasks :tada:
         - done.
     - Review [HIGH `[priority-★★★]`][l-pri-hi]
-        - #155 dc did first pass. reviewed some gov and OCA docs.
-        - #101 bylaws
+        - [#155](https://github.com/hyphacoop/organizing/issues/155) dc did first pass. reviewed some gov and OCA docs.
+        - [#101](https://github.com/hyphacoop/organizing/issues/101) bylaws
             - what's in scope of bylaws?
             - dc: story of student union: template bylaws and added extra. operating book had bylaw-y comments. split was all off.
             - dc: plain language
             - pc: would love to read "bad bylaws" to develop stronger sense
             - dc: good chapters in "ours to hack and own" platform coop book
-        - #125 WSIB
+        - [#125](https://github.com/hyphacoop/organizing/issues/125) WSIB
             - dc: can get tender letter on file. some clients might want
             - WSIB not same as meeting OSHA (and this is operations)
             - dc: WSIB primarily protects employers (cynical take). employees can still file for claims if we don't pay in
             - dc: we should think of this as an "employer protection" task, not "employee protection"
             - DECISION: fill out online form to get on WSIB radar #todo
-        - #97 time-tracking role
+        - [#97](https://github.com/hyphacoop/organizing/issues/97) time-tracking role
             - good #cowork task
-        - #90 service inventory
+        - [#90](https://github.com/hyphacoop/organizing/issues/90) service inventory
             - good #cowork task
         - #cowork create social media role description #todo
-        - private#81 archive mostly done #cowork last bit
+        - [private#81](https://github.com/hyphacoop/organizing-private/issues/81) archive mostly done #cowork last bit
     - [`wg:ops`][l-ops] label review
     - Triage new tasks
     - missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]
@@ -63,14 +63,14 @@ Notetaker: dc, pc
 
 ### Discussions
 
-- #102 AGM [Dates](https://loomio.hypha.coop/p/KaUbQxIS/when-are-you-available-for-our-first-agm-) 
+- [#102](https://github.com/hyphacoop/organizing/issues/102) AGM [Dates](https://loomio.hypha.coop/p/KaUbQxIS/when-are-you-available-for-our-first-agm-) 
     - dc: surprised ppl thought this was too far in advance to sched
         - :+1: patcon should be high priority. dc: esp first one
     - dc: consider sched board of director meeting as section of AGM
         - Interpretation that ALL board _must_ be there
 - AGM [visioning responses](https://github.com/hyphacoop/organizing/issues/102#issuecomment-574895106) and goal-setting
     - Reviewed and discussed in [AGM Plannning Doc](https://docs.google.com/document/d/1fBm-OB_haaGEIEDGvekMA9wivjJNiA1MCP1Qf-i6QbA/edit#heading=h.815plvwj00v9)
-- #102 Milestones into Objectives (Co-work below)
+- [#102](https://github.com/hyphacoop/organizing/issues/102) Milestones into Objectives (Co-work below)
     - Review objectives and prepare **"milestones that need to be hit/indicators that demonstrate success"**.
 
 #### Parked discussions
@@ -80,10 +80,10 @@ Notetaker: dc, pc
 
 #### Candidates for co-work
 
-- #97 Time tracker role (social media role?)
-- #90 Add why's to Service Inventory 
-- #81 README work
-- #123 WSIB registration
+- [#97](https://github.com/hyphacoop/organizing/issues/97) Time tracker role (social media role?)
+- [#90](https://github.com/hyphacoop/organizing/issues/90) Add why's to Service Inventory 
+- [#81](https://github.com/hyphacoop/organizing/issues/81) README work
+- [#123](https://github.com/hyphacoop/organizing/issues/123) WSIB registration
 
 ### Co-work: Working Group Milestones into Objectives and Road to AGM 
 

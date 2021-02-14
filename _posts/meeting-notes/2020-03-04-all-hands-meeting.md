@@ -49,21 +49,21 @@ Tell one positive and/or negative mood you are feeling and explain why. It can b
 
 - Archive _Done_ tasks :tada:
     - ...
-    - OKR one. pc: is someone leading? bl: #todo (see #199)
-    - #154 quickbooks
+    - OKR one. pc: is someone leading? bl: #todo (see [#199](https://github.com/hyphacoop/organizing/issues/199))
+    - [#154](https://github.com/hyphacoop/organizing/issues/154) quickbooks
 - Review [HIGH `[priority-★★★]`][l-pri-hi]
-    - private#20 QM.
-    - private#18 Free.
+    - [private#20](https://github.com/hyphacoop/organizing-private/issues/20) QM.
+    - [private#18](https://github.com/hyphacoop/organizing-private/issues/18) Free.
         - had call. more one-off than. ladder maybe needed. convos needed: WSIB, insurance. Do we want to do this sort of thing?
         - discussion will continue in Infra WG meeting
         - uv: flagging that if seems complex, client might lose interest. +1 pc
         - yj: i often am relaxed on meeting these sorts of requirements
             - pc bl: wouldn't block.
-    - #156 payroll. one final thing to check off.
-    - #212 domains. no block on expiring.
-    - #199 OKR steward. no progress.
-    - #102 AGM. no progress.
-    - #77 brand identity. ongoing.
+    - [#156](https://github.com/hyphacoop/organizing/issues/156) payroll. one final thing to check off.
+    - [#212](https://github.com/hyphacoop/organizing/issues/212) domains. no block on expiring.
+    - [#199](https://github.com/hyphacoop/organizing/issues/199) OKR steward. no progress.
+    - [#102](https://github.com/hyphacoop/organizing/issues/102) AGM. no progress.
+    - [#77](https://github.com/hyphacoop/organizing/issues/77) brand identity. ongoing.
         - uv: color scheme. wordmark. some idea of visual imagery. initial brand identity = done.
         - created new task for swap out color, font, image. also export square logo [`organizing#219`](https://github.com/hyphacoop/organizing/issues/219)
 - Triage new tasks

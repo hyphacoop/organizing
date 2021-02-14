@@ -17,7 +17,7 @@ Notetaker:  ben, patcon
 - approval of business plan
 - review of task board
 - discussion
-    - #136 hypha intro dec (udit)
+    - [#136](https://github.com/hyphacoop/organizing/issues/136) hypha intro dec (udit)
     - CRM pipeline (ben, patcon)
 
 ## Notes
@@ -26,7 +26,7 @@ Notetaker:  ben, patcon
 :heart: Feeling  
 :bulb: Ideas/Proposals
 
-- #85 business plan
+- [#85](https://github.com/hyphacoop/organizing/issues/85) business plan
     - dc: let's treat this as snapshotted doc that goes to sleep, not living doc :+1:
         - :bulb: let's put away and revisit for AGM? :+1: all
     - pc: On social assistance rn: Ontario Works. part of that is to write and review a business plan with Toronto Business Development Centre.
@@ -34,18 +34,18 @@ Notetaker:  ben, patcon
         - will keep comments for later incorp during next round
         - uv: #todo make snapshot before comments
     - bl: this is intenal doc, right? all: yes.
-- #136 Intro deck: https://github.com/hyphacoop/organizing/issues/136
+- [#136](https://github.com/hyphacoop/organizing/issues/136) Intro deck: https://github.com/hyphacoop/organizing/issues/136
     - uv: project ppl pls put a paragraph (Primal Glow, Aether) #todo:bl+pc
     - uv: what other capabilities to put in a client-facing deck
     - uv: schedule half hour to do some brainstorming. #todo:uv schedule in new year.
-    - bl: overlap with website and garry's work #77 
+    - bl: overlap with website and garry's work [#77](https://github.com/hyphacoop/organizing/issues/77) 
     - uv: timeline, done by end of Jan
     - all: focus on prior experiences and skillsets
     - dc: suggestion: template, ways to add future projects/elements to it
         - bl: maybe include sufficient details in internal project proposal template
             - uv: yes, though audience a little different
     - dc: go back to CWCF proposal and get those prior experiences in the deck since we alrdy have permission to share #action
-- #119 CRM and client pipeline
+- [#119](https://github.com/hyphacoop/organizing/issues/119) CRM and client pipeline
     - what are our pipelines?
     - bl: :heart: current columns don't work for me
     - uv+bl: :bulb: let's make one default one that suits us
