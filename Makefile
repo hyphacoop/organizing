@@ -9,10 +9,10 @@ endif
 
 
 link-issues: ensure ## Convert issue numbers to links
-	@# Regex testing: https://regex101.com/r/yxDDOR/4
-	@replace-in-file '/\b(?:(?:organizing-)?priv(?:ate)? ?)#(\d+)([^\d\]])/gi' '[private#$$1](https://github.com/hyphacoop/organizing-private/issues/$$1)$$2' $(FILES) --isRegex
-	@# Regex testing: https://regex101.com/r/xMGE3r/6
-	@replace-in-file '/\B#(\d+)([^\d\]\-])/gi'                                 '[#$$1](https://github.com/hyphacoop/organizing/issues/$$1)$$2' $(FILES) --isRegex
+	@# Regex testing: https://regex101.com/r/yxDDOR/5
+	@replace-in-file '/\b(?:(?:organizing-)?priv(?:ate)? ?)#(\d+)([^\d\]\`])/gi' '[private#$$1](https://github.com/hyphacoop/organizing-private/issues/$$1)$$2' $(FILES) --isRegex
+	@# Regex testing: https://regex101.com/r/xMGE3r/7
+	@replace-in-file '/\B#(\d+)([^\d\]\`\-])/gi'                                 '[#$$1](https://github.com/hyphacoop/organizing/issues/$$1)$$2' $(FILES) --isRegex
 
 %:
 	@true
