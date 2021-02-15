@@ -22,6 +22,8 @@ We have a script to help convert issues mentioned in the follow format into GitH
 - `priv#123`, `private#123`, `organizing-private#123`, `Private #123`
 - `#123`
 
+Note: This notation will be ignored from conversion when wrapped in backticks like above.
+
 | Command | Description |
 |---------|-------------|
 | `make` | list all commands
