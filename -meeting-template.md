@@ -17,11 +17,9 @@ Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
 |:------------------------------------------------|-----------:|
 | [Personal Checkins](#Personal-Checkins)         |          5 |
 | [Announcements](#Announcements)                 |          5 |
-| [Task Board Review](#Task-Board-Review)         |         15 |
-| [Working Group Updates](#Working-Group-Updates) |          5 |
-| [Project Updates](#Project-Updates)             |          5 |
+| [Working Group Updates](#Working-Group-Updates) |         15 |
+| [Project Updates](#Project-Updates)             |         15 |
 | [Discussions](#Discussions)                     |         20 |
-| [Process Checkout](#Process-Checkout)           |          5 |
 
 ## Notes
 
@@ -33,16 +31,6 @@ Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
 
 - ...
 
-### Task Board Review
-
-- Archive DONE tasks :tada:
-	- ...
-- Review [HIGH `[priority-★★★]`][l-pri-hi] tasks :fire:
-	- ...
-- Triage NEW tasks :new:
-	- ...
-- Assign [UNASSIGNED][l-none] tasks :briefcase:
-	- ...
 
 ### Working Group Updates
 
@@ -65,9 +53,6 @@ Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
 
 - ...
 
-### Process Checkout
-
-- ...
 
 
 ### Action Items for Cultivator
