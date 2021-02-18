@@ -1,6 +1,6 @@
 ---
-name: Task
-about: Create a high-level organizational task
+name: Tracking Task
+about: Create a high-level organizational tracking task
 ---
 
 <sup>_This initial comment is collaborative and open to modification by all._</sup>
