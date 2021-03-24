@@ -65,7 +65,7 @@ Cultivator: gi
     - Similar to Issue 1: We need to confirm with Google if mail from @hypha.coop is still being marked as spam
     - Next steps:
         - Resolve known embeds of the form: 
-            - le will ping Ben to resolve issue with IPFS and one.compost.digital
+            - el will ping Ben to resolve issue with IPFS and one.compost.digital
             - PR for removing the form (tomesh): https://github.com/tomeshnet/tomesh.net/pull/305
         - infra-wg will checkback in 24-48 hours (within the weekend)
         - Aiming to close issue March 26
