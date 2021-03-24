@@ -1,5 +1,6 @@
 ---
 breaks:  false # See: https://github.com/hackmdio/codimd/issues/40#issuecomment-172927690
+tags: Hypha
 ---
 #  ~~2021-MM-DD Hypha Worker Co-op: Standup~~ [Deprecated Template]
 
