@@ -1,0 +1,123 @@
+---
+tags: Hypha
+---
+# 2021-02-22 Hypha: OCA Platform Co-op sync
+
+:date: **When?** Mon, Feb 22 @ 11-noon:30  
+:family: **Who's here?** erin, jennifer, patcon
+
+## Summary
+
+- Ontario Co-op Association wondering if we're interested in future projects with them
+- Opportunity for project modelled on UK's Smart Co-op, which supports precariously employed artists via collectivized back-office support.
+    - Model may later be generalizable for any precarious labour work
+    - funding = federal gov, very competitive: $2.5M/y grant for 3 years = $7.5M (Mar 5 deadline)
+- Alternative opportunity to do work with ArtsPond
+
+## Notes
+
+- erin: WorkInCulture (WIC) commissioned research study.
+    - https://www.workinculture.ca/About-US/
+    - about challenges artists face in ON that take away from producivity. Group that supports artists.
+    - tl;dr - big survey of ON artists.
+    - part of this was liturature scan. global review of solutions.
+    - came across Smart Co-op: https://smart.coop/
+    - Survey results aligned with what Smart Co-op offers.
+- SMART Co-op.
+    - Started in France, expanded to 5-6 EU countries.
+    - provides backend tools to artists. accounting.
+    - importantly: service to pay artists up-front for work invoiced.
+    - handles collections, and takes that work off artists' plates.
+    - artists are "employed" by smart, so can collect EI equivalent when not working.
+    - broker access to lawyers, contractors, etc.
+    - HR support. annual membership fee. transaction-based revenue.
+- OCA went out on a limb, outside normal model.
+    - would normally work with ppl who had business idea. but WIC just had idea + need
+    - helped WorkInCulture find first board.
+    - with Stéphanie Guico (Hypha's intro), going through steps of starting business
+- bigger picture for OCA: **a platform built for precariously employed artists can be repurposed for other precariously employed individual.** => future platform co-op product
+    - e.g., carpenters, builders, etc.
+    - this scope has been front-of-mind for OCA since beginning
+- FUNDING: Sectoral Initiatives Program (SIP)
+    - https://www.canada.ca/en/employment-social-development/programs/sectoral-initiatives-program.html
+    - fed grant just announced
+    - up to 2.5M/y for 3 years = 7.5M/project over 3y. very competitive.
+    - Deadline: Mar 4
+- Applying to use grant for Platform Co-op Toolkit
+    - partnering with Paul Cabaj, Exec Dir of ACCA + BCCA to apply
+        - https://bcca.coop/executive-director-named-for-bcca-and-acca/
+    - NOT a feasibility study. DOING.
+    - what things do all platform co-ops share? gov model. tools. legal. resolutions. voting.
+    - Paul writing grant. doesn't need names of partners in advance (e.g., Hypha)
+- pc: IDRC co-op dev kit?
+    - invited IDRC as one of the partners in this group bc of their work
+    - not yet a concrete kit on offer. lots of resource development. mapped the global players, to create a directory.
+- patcon shared context on meeting in civic tech spaces, grassroots community.
+    - patcon shared info on co-op development interests of Hypha. aspirations to grow co-ops from community projects. barefoot co-operative development.
+- erin: Tapestry Capital? pc: haven't heard of yet.
+    - https://tapestrycapital.ca/
+    - Raise community capital through community bonds.
+    - relationships within financial sector that allows them raise bonds using existing financial frameworks. partners create and sell the bonds for them.
+    - have team of experts in raising community bonds.
+    - real innovation is in structure, getting money into bonds.
+    - #protip if Hypha has project backed by "asset" can be RRSP eligible
+    - Ryan Collins-Swartz = contact here
+        - https://www.linkedin.com/in/ryancollinsswartz/
+        - https://twitter.com/ryancswartz
+    - pc: working with credit unions as partners? no, bc innovation slow in CAD credit union sector
+- opportunities hypha <> OCA
+    - future partners to collaborate
+        - on this grant: artist co-op
+    - maybe an opportunity to work on OCA tech projects
+- ArtsPond: https://artspond.com/
+    - founded/run by woman named Jessa Agilo
+        - https://www.linkedin.com/in/jessa-agilo/
+    - wants to do all open source
+    - received funding from Canadian Council for Arts: > 1M
+    - most funding is for software development to support artists
+    - did lots of surveys of artists across canada to know what to build
+    - wants to build for others and make open source.
+    - still figuring out points of collaboration, so tbd when collab starts
+    - OCA expecting to work with jessa when she's building something specific
+    - patcon mentioned Hypha interest in fund diversion schemes to pay creators and artists from software development pot.
+    - some artists at ArtsPonD are developing tools in-house
+        - funding is looking to develop that
+        - digital date book: helping artists manage their time.
+        - how artists manage time, very diff from how software devs do
+        - person leading this tool this person is on ArtsPond board
+        - other artists on board have said they don't really want to get paid
+        - many artists on board (or in ArtsPond?) are of different ethnic backgrounds
+        - feel that many of the products developed don't support minority voices.
+        - "want to create ultimate in accessibility tools."
+    - patcon raised question of how much of funding goes to software vs artists
+        - erin: easiest way to get money is say "we'll build the tools" and then define it later.
+        - when talking to gov, easiest way to get money is to define tools.
+        - goal is for artist to spend less time on admin, and more money for art.
+        - tried to pay board, but they pushed back
+            - wanted to give as much as possible to artist members
+    - WorkInCulture Job Board is very rag-tag.
+        - Diane Davy (ED) is managing this
+        - lots of printing and maintenance and manual Diane work.
+        - example of tool needing technical energy
+- SIP grant: Mar 4 grant.
+    - grant doesn't need to name partners. Hypha doesn't need to pre-commit.
+    - deliverables will be built all open source. 
+- Hypha != OCA member, though we're in network. startup level = CAD$150/y.
+    - #todo:hypha become member https://ontario.coop/apply-membership#join
+    - inline website chat feature goes right to Jennifer
+        - rave review of new incoming leads of inline site chat
+- re: barefoot co-op development
+    - mentor program of Local Food and Farm Co-op
+    - Peer-2-Peer Mentorship Program: https://www.localfoodandfarm.coop/peer2peer-mentorship-program
+        - Sally Miller started co-op, but now with Fair Finance Fund
+- erin: #protip talk to Co-op Zone
+    - no memebership cost. comes and goes in terms of energy, but still around
+    - trying to pull together resources for co-op developers.
+- Peter Cameron occupied with lots of co-op conversion convos in COVID
+    - businesses looking for alterative to shutting down
+- #todo:oca will get text one week before Thurs Mar 4 deadline (Fri Feb 26)
+    - can share with Hypha for comment
+- erin: #ask can we add Hypha to list of platform co-ops?
+    - audience is government
+    - pc: tentative yes.
+    - technically, we're more like a platform co-op incubator
