@@ -35,18 +35,17 @@ plugins:
 
 # Allows full rendering with autolinks and tasklists.
 # See: https://github.com/github/jekyll-commonmark-ghpages#installation
-#markdown: CommonMarkGhPages
-
-#commonmark:
-#  options: ["SMART", "FOOTNOTES"]
-#  extensions:
-#    - "strikethrough"
-#    - "autolink"
-#    - "table"
-#    - "tagfilter"
-    # This will start working when commonmarker is upgraded.
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions:
+    - "strikethrough"
+    - "autolink"
+    - "table"
+    - "tagfilter"
+    # This works locally, and will start working on GitHub Pages when commonmarker version is loosened upstream.
     # See: https://github.com/github/jekyll-commonmark-ghpages/issues/13
-#    - "tasklist"
+    - "tasklist"
 
 permalink: /:categories/:year-:month-:day-:title:output_ext
 defaults:
