@@ -43,9 +43,9 @@ Notetaker:  pc
 - Review DONE tasks :tada:
 	- none!
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
-    - private#48 hypha hosted infra.
+    - [private#48](https://github.com/hyphacoop/organizing-private/issues/48) hypha hosted infra.
     - DOING
-	- #246 tuning bbb.
+	- [#246](https://github.com/hyphacoop/organizing/issues/246) tuning bbb.
 	    - bl: have you set up meet.coop ansible roles? not yet.
 	    - ben: chris+luke = tech focus; get ppl paid. olli+xxx interested in how decision-making happens.
 	        - tech + decision-making mustc come before marketing + money.
@@ -54,32 +54,32 @@ Notetaker:  pc
         - meet.coop = shared platform for member orgs to monetize. work is in creating and managing users, not maintaining backend.
         - open2020. went well. only complaint = separate video streams are a hassle that need processing.
         - moved to todo. will close when ansible roles are used to reproduce service.
-    - #282 migrate shortlinks
+    - [#282](https://github.com/hyphacoop/organizing/issues/282) migrate shortlinks
         - in progress: el working on ansible role for web server, which can include hosting shortlink service
-    - #288 matrix history purge
+    - [#288](https://github.com/hyphacoop/organizing/issues/288) matrix history purge
         - current status: el making a script for it
-    - private#67 meet.coop membership
+    - [private#67](https://github.com/hyphacoop/organizing-private/issues/67) meet.coop membership
         - current status: bl needs to continue circling back with event organizers.
     - TODO
-        - private#68 joining webarch.
+        - [private#68](https://github.com/hyphacoop/organizing-private/issues/68) joining webarch.
             - current status: move to BACKLOG
-        - #239 next cloud for project
+        - [#239](https://github.com/hyphacoop/organizing/issues/239) next cloud for project
             - no updates.
             - #movedto backlog
             - #todo talk to chris@webarch (ben)
-        - #289 jitsi connection loop
+        - [#289](https://github.com/hyphacoop/organizing/issues/289) jitsi connection loop
             - talking to ryan
             - bl: do we need to keep maintaining this?
             - yj: nice to have fallback. +1 bl
             - pc: can our fallback be someone else's?
             - revist: when new version comes out and/or after migration to hypha-hosted.
-        - #253 internal infra
+        - [#253](https://github.com/hyphacoop/organizing/issues/253) internal infra
             - #moved to DOING
-        - #276 prometheus
+        - [#276](https://github.com/hyphacoop/organizing/issues/276) prometheus
             - no updates.
-        - #175 passbolt management
+        - [#175](https://github.com/hyphacoop/organizing/issues/175) passbolt management
             - #moved to DONE. closed
-        - #147 small tasks
+        - [#147](https://github.com/hyphacoop/organizing/issues/147) small tasks
             - pc to use bot's secret for automated tasks
                 - DONE: https://github.com/hyphacoop/handbook/pull/89
 

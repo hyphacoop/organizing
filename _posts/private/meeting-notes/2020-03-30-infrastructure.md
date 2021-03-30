@@ -34,14 +34,14 @@ _skipped_
 ### Task Board Review
 
 - Review DONE tasks :tada:
-	- #212 domains expired, close and archive
+	- [#212](https://github.com/hyphacoop/organizing/issues/212) domains expired, close and archive
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
-    - #244 hypha.coop renewal
+    - [#244](https://github.com/hyphacoop/organizing/issues/244) hypha.coop renewal
         - #todo:yj check on renewal and ensure it auto-renews 
 
 ### Discussions
 
-- #246 Big Blue Button
+- [#246](https://github.com/hyphacoop/organizing/issues/246) Big Blue Button
     - Data retention
         - yj: how do we delete things?
         - yj: **jitsi** we keep operating system "logs", pretty easy

@@ -37,12 +37,12 @@ Notetaker:  yj
 - missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]
 
 - Wrap-up and transfer of most of pc's tasks since he is stepping back from wg
-- #156 add decision of stat and payment into handbook, get SINs (updated in issue)
-- #154 closed
-- #122 contract with book keeper? Authority of point person? Assigned to bl
-- #134 will not get CC, wait until corp card is available at 1 year. lowered priority
-- #120 unlbocked and lowered priority until HST is an issue
-- #185 increased priority, look into process
+- [#156](https://github.com/hyphacoop/organizing/issues/156) add decision of stat and payment into handbook, get SINs (updated in issue)
+- [#154](https://github.com/hyphacoop/organizing/issues/154) closed
+- [#122](https://github.com/hyphacoop/organizing/issues/122) contract with book keeper? Authority of point person? Assigned to bl
+- [#134](https://github.com/hyphacoop/organizing/issues/134) will not get CC, wait until corp card is available at 1 year. lowered priority
+- [#120](https://github.com/hyphacoop/organizing/issues/120) unlbocked and lowered priority until HST is an issue
+- [#185](https://github.com/hyphacoop/organizing/issues/185) increased priority, look into process
 
 ### Discussions
 

@@ -33,28 +33,28 @@ Notetaker:  pc :raising_hand: Next up: gi, dc, el, bl, yj, uv, pc
 ### Task Board Review
 
 - Archive _Done_ tasks :tada:
-    - #134 credit card
+    - [#134](https://github.com/hyphacoop/organizing/issues/134) credit card
         - dc and yj to sort
-    - #86 time tracking
+    - [#86](https://github.com/hyphacoop/organizing/issues/86) time tracking
         - #discuss time-tracking categories (ben)
         - udit recommitting to closing
         - yj: ill get my hours done by next meeting
         - el: I have been using it
-    - #85 complete biz plan
+    - [#85](https://github.com/hyphacoop/organizing/issues/85) complete biz plan
         - :house: COTTAGE. no computer. dc on it.
-    - #92 publish handbook. done!
-    - #119 set up CRM. still open
-    - #143 virtual goups workshop. dc needs to push.
-    - #132 comms tools. ben feels blocked. 2 votes.
+    - [#92](https://github.com/hyphacoop/organizing/issues/92) publish handbook. done!
+    - [#119](https://github.com/hyphacoop/organizing/issues/119) set up CRM. still open
+    - [#143](https://github.com/hyphacoop/organizing/issues/143) virtual goups workshop. dc needs to push.
+    - [#132](https://github.com/hyphacoop/organizing/issues/132) comms tools. ben feels blocked. 2 votes.
         - #discussion to unblock
-    - #135 upgrade loomio.
+    - [#135](https://github.com/hyphacoop/organizing/issues/135) upgrade loomio.
         - all checked. patcon passing on last comment. elon closed! :tada: 
-    - #127 jitsi meet pilot. #discussion
-    - #145 labels. ready for review from dc. almost done.
-    - #131 email policy. was demo of pc's proposal. feedback from el and yj. demo'ing revised proposal next infra WG. will bring to all-hands if good.
-    - #154 yj: in-process. still need to do payroll. going well
+    - [#127](https://github.com/hyphacoop/organizing/issues/127) jitsi meet pilot. #discussion
+    - [#145](https://github.com/hyphacoop/organizing/issues/145) labels. ready for review from dc. almost done.
+    - [#131](https://github.com/hyphacoop/organizing/issues/131) email policy. was demo of pc's proposal. feedback from el and yj. demo'ing revised proposal next infra WG. will bring to all-hands if good.
+    - [#154](https://github.com/hyphacoop/organizing/issues/154) yj: in-process. still need to do payroll. going well
 - Review [HIGH `[priority-★★★]`][l-pri-hi]
-    - #132 comms. as-is for now.
+    - [#132](https://github.com/hyphacoop/organizing/issues/132) comms. as-is for now.
     - no other thoughts raised
 - Triage new tasks
     - skip for the week.

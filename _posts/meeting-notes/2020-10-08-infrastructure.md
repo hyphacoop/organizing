@@ -36,12 +36,12 @@ Notetaker:  yj
 - Review DONE tasks :tada:
 	- none
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
-	- #329 - waitng on tomesh goahead
-	- #313 - bl and yj to check
-	- #314 - Documentation wiating on PR
-	- #125 - UNblock
-	- #317 - 
-	- #147 - Noop
+	- [#329](https://github.com/hyphacoop/organizing/issues/329) - waitng on tomesh goahead
+	- [#313](https://github.com/hyphacoop/organizing/issues/313) - bl and yj to check
+	- [#314](https://github.com/hyphacoop/organizing/issues/314) - Documentation wiating on PR
+	- [#125](https://github.com/hyphacoop/organizing/issues/125) - UNblock
+	- [#317](https://github.com/hyphacoop/organizing/issues/317) - 
+	- [#147](https://github.com/hyphacoop/organizing/issues/147) - Noop
 
 ### Discussions
 
@@ -54,7 +54,7 @@ Notetaker:  yj
         - installed as a distro, managed in GUI
         - offer to orgs as a service
         - firewalled in the VPN
-    - #168
+    - [#168](https://github.com/hyphacoop/organizing/issues/168)
     - yj: voipms?
     - yj: for meetcoop probably don't need our own PBX
         - better to get fixed-rate local lines (e.g. unlimited $20/month packages)

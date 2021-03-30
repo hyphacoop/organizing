@@ -41,17 +41,17 @@ Notetaker:  el
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
 
 Doing:
-  - #246 discussion
-  - #239 #todo: follow up with Chris
-  - private#48
-  - private#58 #todo: pc read readings
-  - #288 still being worked on
+  - [#246](https://github.com/hyphacoop/organizing/issues/246) discussion
+  - [#239](https://github.com/hyphacoop/organizing/issues/239) #todo: follow up with Chris
+  - [private#48](https://github.com/hyphacoop/organizing-private/issues/48)
+  - [private#58](https://github.com/hyphacoop/organizing-private/issues/58) #todo: pc read readings
+  - [#288](https://github.com/hyphacoop/organizing/issues/288) still being worked on
 To do:
-  - #289 restarting prosdy fixes joining loop
-  - #253 tomorrow or Weds will have decision, sale ends in one week
-  - #276 low priority
-  - #147 all infra stuff done
-  - #175 still need documentation, currently being backed up
+  - [#289](https://github.com/hyphacoop/organizing/issues/289) restarting prosdy fixes joining loop
+  - [#253](https://github.com/hyphacoop/organizing/issues/253) tomorrow or Weds will have decision, sale ends in one week
+  - [#276](https://github.com/hyphacoop/organizing/issues/276) low priority
+  - [#147](https://github.com/hyphacoop/organizing/issues/147) all infra stuff done
+  - [#175](https://github.com/hyphacoop/organizing/issues/175) still need documentation, currently being backed up
   - hypha.coop#5 el: still working on pr
 
 ### OKRs
@@ -69,7 +69,7 @@ To do:
 
 ### Discussions
 
-- #246 BBB relating to meet.coop
+- [#246](https://github.com/hyphacoop/organizing/issues/246) BBB relating to meet.coop
     - pc: met with koumbit before
         - they are commited with open source
     - bl: Chris from webarch doing great stuff

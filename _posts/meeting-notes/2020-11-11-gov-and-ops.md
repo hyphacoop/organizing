@@ -42,18 +42,18 @@ Notetaker:  pc
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
 	- ...
 - [`wg:gov`][l-gov] label review
-    - #104. pushed to cowork
-    - #307. agm wrap. dc wants to claim. needs cleanup. not as big as looks. tasks are elsewhere.
-    - #14. what it means to be good member.
+    - [#104](https://github.com/hyphacoop/organizing/issues/104). pushed to cowork
+    - [#307](https://github.com/hyphacoop/organizing/issues/307). agm wrap. dc wants to claim. needs cleanup. not as big as looks. tasks are elsewhere.
+    - [#14](https://github.com/hyphacoop/organizing/issues/14). what it means to be good member.
         - pc was cowork. not done. related to agm wrap.
-    - #133. employee ack. pc not
-    - #311 anti-black racism.
+    - [#133](https://github.com/hyphacoop/organizing/issues/133). employee ack. pc not
+    - [#311](https://github.com/hyphacoop/organizing/issues/311) anti-black racism.
         - dc had ideas after bizdev convo
         - dc: idea of low-hanging fruit. idea for small first step.
-    - #147 small tasks. not used.
+    - [#147](https://github.com/hyphacoop/organizing/issues/147) small tasks. not used.
 - [`wg:ops`][l-ops] label review
-    - #250 hiring process. SMALL. dc will do TODAY
-    - #217 workplace health/safety policy
+    - [#250](https://github.com/hyphacoop/organizing/issues/250) hiring process. SMALL. dc will do TODAY
+    - [#217](https://github.com/hyphacoop/organizing/issues/217) workplace health/safety policy
         - online training and draft policy
         - maybe a role (legal requirement)
             - must be person

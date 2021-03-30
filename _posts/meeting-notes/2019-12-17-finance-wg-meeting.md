@@ -24,26 +24,26 @@ _`#acc` indicates questions for our accountant_
 ### Task Board Review
 
 - Archive _Done_ tasks :tada:
-    - #130 Migration to Dejardins
-    - #111 CRA my business
-    - #89 Draft accounting billing payroll workflow. Closed orphan todos.
-    - #65 Setup bank account
+    - [#130](https://github.com/hyphacoop/organizing/issues/130) Migration to Dejardins
+    - [#111](https://github.com/hyphacoop/organizing/issues/111) CRA my business
+    - [#89](https://github.com/hyphacoop/organizing/issues/89) Draft accounting billing payroll workflow. Closed orphan todos.
+    - [#65](https://github.com/hyphacoop/organizing/issues/65) Setup bank account
 - Review [HIGH `[priority-★★★]`][l-pri-hi]
-    - organizing-private#4 Setup TransferWise
+    - [private#4](https://github.com/hyphacoop/organizing-private/issues/4) Setup TransferWise
         - bl - Hope to finish by End Of Month. 
         - bl - remaining: sorting out "beneficiary address", and documenting
-    - #156 Run first payroll
+    - [#156](https://github.com/hyphacoop/organizing/issues/156) Run first payroll
         - pc: Talked to sales agent
             - spoke with onboarding agent (more helpful)
             - got 40 min walkthough
-    - #154 Setup Quickbooks
+    - [#154](https://github.com/hyphacoop/organizing/issues/154) Setup Quickbooks
         - Discussion: invoice footers. shortlinks to CRA docs. keep them?
             - bl: shortlinks kinda long
             - will have to keep them around indefinitely
             - Suggestion: use article numbers instead of shortlink on invoice for internal refrences
             - #todo:patcon include article numbers to CRA legilations in footer
         - re-assign to just yurko? :+1:
-    - #122 Bookkeeping. nothing.
+    - [#122](https://github.com/hyphacoop/organizing/issues/122) Bookkeeping. nothing.
 - Triage new tasks
 - missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]
 
@@ -85,10 +85,10 @@ _`#acc` indicates questions for our accountant_
         - We can enter Stat pay and custom amount for wage
             - Check # of hours 177.33??
     - NAICS code? [link](https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1181553&CVD=1182718&CPV=541514&CST=01012017&CLV=5&MLV=5) (via dc)
-- #todo infra passbolt admin. created #175
+- #todo infra passbolt admin. created [#175](https://github.com/hyphacoop/organizing/issues/175)
     - #todo infra doc groups
     - #todo safe place to store within the week
-- #todo wrap up in year-end summary #164
+- #todo wrap up in year-end summary [#164](https://github.com/hyphacoop/organizing/issues/164)
     - #todo couple lines from each 1h before
     - #todo:patcon group summary
 

@@ -54,7 +54,7 @@ Notetaker: dc
         - pc: add to triage
     - pc: do we need a new template?
         - dc: happy to work off general
-- #140 Improve org-wide task flow
+- [#140](https://github.com/hyphacoop/organizing/issues/140) Improve org-wide task flow
     - dc, pc: reviewed issue but don't feel it is a priority right now to approach in this way
     - we'll grow into it
 - Milestones into Objectives (Co-work below)
@@ -63,7 +63,7 @@ Notetaker: dc
         - #todo ask any reason these might be sensitive info
         - #todo check about adding in with Biz Dev
         - Handbook
-- #102 Roadmapping to the AGM (Co-work below)
+- [#102](https://github.com/hyphacoop/organizing/issues/102) Roadmapping to the AGM (Co-work below)
     - Initial conversation about structure and dates
     - #todo Develop plan of work to achieve milestones (with AGM as critical milestone)
 

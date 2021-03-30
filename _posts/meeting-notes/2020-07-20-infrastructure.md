@@ -40,14 +40,14 @@ Notetaker:  el
 - Review DONE tasks :tada:
 	- ...
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
-	- #313 still being worked on
-	- #329 #todo:bl add mailman to the list
-	- #288 #todo:el put scripts in a repo
-	- private #67 todo:infra-wg fill out time poll
-	- #314
-	- #282 #todo move the shortlinks .csv to configuration repo
-	- #329 wait for grant to come through
-	- #319 moved to backlog
+	- [#313](https://github.com/hyphacoop/organizing/issues/313) still being worked on
+	- [#329](https://github.com/hyphacoop/organizing/issues/329) #todo:bl add mailman to the list
+	- [#288](https://github.com/hyphacoop/organizing/issues/288) #todo:el put scripts in a repo
+	- [private#67](https://github.com/hyphacoop/organizing-private/issues/67) todo:infra-wg fill out time poll
+	- [#314](https://github.com/hyphacoop/organizing/issues/314)
+	- [#282](https://github.com/hyphacoop/organizing/issues/282) #todo move the shortlinks .csv to configuration repo
+	- [#329](https://github.com/hyphacoop/organizing/issues/329) wait for grant to come through
+	- [#319](https://github.com/hyphacoop/organizing/issues/319) moved to backlog
 
 ### Discussions
 

@@ -37,7 +37,7 @@ Notetaker:  bl
 	- archived
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
 	- bl: concern over AGM timeline, not being in-person
-	- dc: bring up OKR stewardship process at today's All Hands #199
+	- dc: bring up OKR stewardship process at today's All Hands [#199](https://github.com/hyphacoop/organizing/issues/199)
 	    - #todo archive [2020 Q1/Q2 OKR exercise](https://hackmd.io/fb9JLJioRDqoGdP8DEsMfA?view#Proposed-Metrics) in a new folder in public organizing repo
 	- dc: covid internal vs. external response
 	    - internal
@@ -59,7 +59,7 @@ Notetaker:  bl
                     - help spin up quick static sites connecting ppl
                     - reachout to alan, design justice folks, maggie's, unions, etc.
                     - e.g., mutual aid connecting in Toronto https://spaces.commonknowledge.coop/
-    - dc: covid stuff may make wsib issue higher priority #217
+    - dc: covid stuff may make wsib issue higher priority [#217](https://github.com/hyphacoop/organizing/issues/217)
 
 ### Discussions
 

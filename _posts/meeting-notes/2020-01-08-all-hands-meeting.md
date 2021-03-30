@@ -42,13 +42,13 @@ Notetaker:  bl :raising_hand: Next up: bl, yj, uv, pc, gi, el, dc
 - Triage new tasks
 - missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]
 
-- #156 call bookkeeper, check if books look okay, talk to payroll person if we're doing things correctly
+- [#156](https://github.com/hyphacoop/organizing/issues/156) call bookkeeper, check if books look okay, talk to payroll person if we're doing things correctly
     - bl: comfortable moving forward without consulting bookkeeper, but fine if you'd like to consult
     - pc: should be wrapped by friday
-- organizing-private#4 bl just needs to finish documenting
+- [private#4](https://github.com/hyphacoop/organizing-private/issues/4) bl just needs to finish documenting
     - pc: do retrospective
-- #122 drop questions for bookkeeper
-- #119 crm. closing out and will review and re-ticket outstanding
+- [#122](https://github.com/hyphacoop/organizing/issues/122) drop questions for bookkeeper
+- [#119](https://github.com/hyphacoop/organizing/issues/119) crm. closing out and will review and re-ticket outstanding
 
 - some confusion about triaging step, doesn't look like we have any organizing tickets there, skipping
 

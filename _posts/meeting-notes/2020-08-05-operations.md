@@ -42,16 +42,16 @@ Notetaker:  dc
     - signed off on Gov OKRs
     - signed off on Ops OKRs
 - Ops activites in next month
-    - #250 finalize hiring notes
-    - #217 workplace health and safety
-    - #273 revisit publishing our "templates" into hanbook
+    - [#250](https://github.com/hyphacoop/organizing/issues/250) finalize hiring notes
+    - [#217](https://github.com/hyphacoop/organizing/issues/217) workplace health and safety
+    - [#273](https://github.com/hyphacoop/organizing/issues/273) revisit publishing our "templates" into hanbook
         - making sure things land in handbook?
 - Things from last call related to ops: 
     - Moving into thinking about collaborators?
         - Hiring Membership requirements
         - What we look for in a member
-        - Member diversity & anti-black racism thread #311
-        - Organizational values and how that gets translated to policies #76 #234
+        - Member diversity & anti-black racism thread [#311](https://github.com/hyphacoop/organizing/issues/311)
+        - Organizational values and how that gets translated to policies [#76](https://github.com/hyphacoop/organizing/issues/76) [#234](https://github.com/hyphacoop/organizing/issues/234)
 - AGM/wrap-up stuff bl needs for Hema:
     - reconciled bank statements with board approval
         - bl to call board meeting for next week's all hands

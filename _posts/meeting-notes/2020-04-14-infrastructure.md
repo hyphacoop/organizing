@@ -35,13 +35,13 @@ Notetaker:  bl
 ### Task Board Review
 
 - Review DONE tasks :tada:
-	- Archived #258
+	- Archived [#258](https://github.com/hyphacoop/organizing/issues/258)
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
-	- #246 #todo:el to finish up policy
-	- #238 bl to continue trialing
-	- #244 yj to confirm then close
-	- #253 bl has a comment for el to answer
-	- #168
+	- [#246](https://github.com/hyphacoop/organizing/issues/246) #todo:el to finish up policy
+	- [#238](https://github.com/hyphacoop/organizing/issues/238) bl to continue trialing
+	- [#244](https://github.com/hyphacoop/organizing/issues/244) yj to confirm then close
+	- [#253](https://github.com/hyphacoop/organizing/issues/253) bl has a comment for el to answer
+	- [#168](https://github.com/hyphacoop/organizing/issues/168)
 	    - yj: voipms has more features: built-in voicemail, multiple channels, long distance calls, etc.
 	    - yj: monthly cost, but seems like a good featureful option for long term
         - bl: can we use for jitsi call in?
@@ -49,8 +49,8 @@ Notetaker:  bl
             - yj: Canada has ~$4 monthly cost / per minute billing, $3 for a Spain number
             - bl: we may need this to run infra for people
         - #todo:yj make a phone call so we don't get "archived"
-    - #172 related to reliability of services, moving priority up to 2 stars!
-    - #262 #todo:el investigate, probably rebrandly broke
+    - [#172](https://github.com/hyphacoop/organizing/issues/172) related to reliability of services, moving priority up to 2 stars!
+    - [#262](https://github.com/hyphacoop/organizing/issues/262) #todo:el investigate, probably rebrandly broke
 
 ### Discussions
 

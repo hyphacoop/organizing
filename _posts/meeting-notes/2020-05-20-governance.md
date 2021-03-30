@@ -44,28 +44,28 @@ Notetaker:  dc
 - Review [`[priority-★★★]`][l-pri-hi] [`[priority-★★☆]`][l-pri-md] [`[priority-★☆☆]`][l-pri-lo] [`[priority-none]`][l-pri-none]
 	- ...
 - [`wg:gov`][l-gov] label review
-    - #102 June 13-14 
+    - [#102](https://github.com/hyphacoop/organizing/issues/102) June 13-14 
         - "Thank you all for the quick response -- we have a new weekend to hold: June 13-14. with a backup with June 20-21 as backup.
             Formal notice will be given the first week of June. Holds in the calendar"
 - [`wg:ops`][l-ops] label review
-    - #280 WIP bl to update, then will then update #95, move that process
-    - #250 Develop hiring process. dc: PR to handbook on onboarding (updated issue to reflect that). What is this "summarize plan in handbook?" for finance
+    - [#280](https://github.com/hyphacoop/organizing/issues/280) WIP bl to update, then will then update [#95](https://github.com/hyphacoop/organizing/issues/95), move that process
+    - [#250](https://github.com/hyphacoop/organizing/issues/250) Develop hiring process. dc: PR to handbook on onboarding (updated issue to reflect that). What is this "summarize plan in handbook?" for finance
         - bring together
             - https://handbook.hypha.coop/onboarding.html
             - checklist that isn't particularly targeted for ops person or new employee, but used to onboard hank https://handbook.hypha.coop/guides.html#onboarding-checklist
                 - pull some into onboard place
             - Finance section re: diff types of onboards https://handbook.hypha.coop/finance.html#gsthst-rt
             - double-check notes from internship+NL
-    - #217 H&S WIP no work in last couple weeks
+    - [#217](https://github.com/hyphacoop/organizing/issues/217) H&S WIP no work in last couple weeks
         - let Hank know he needs to speak to WSIB person (dc) in event of injury
         - #todo bl add this to acknowledgement -> email to Dawn Walker <operations@hypha.coop>
-    - #288 Matrix history will discuss at all hands
-    - #190 Evaluate our conditions for interpreting employment relationships, sitting on this for now. dc: we are able to do this 
-    - #133 bl still assigned, before next wednesday
-    - #97 time-tracking park
-    - #202 next meeting? dc: bylaws more critical
-    - #273 bl: lower priority, move to backlog 
-    - #147 (dc: this process can fracture... I'm finding todos on here that are in other issues for ops and bizdev... confusing.)
+    - [#288](https://github.com/hyphacoop/organizing/issues/288) Matrix history will discuss at all hands
+    - [#190](https://github.com/hyphacoop/organizing/issues/190) Evaluate our conditions for interpreting employment relationships, sitting on this for now. dc: we are able to do this 
+    - [#133](https://github.com/hyphacoop/organizing/issues/133) bl still assigned, before next wednesday
+    - [#97](https://github.com/hyphacoop/organizing/issues/97) time-tracking park
+    - [#202](https://github.com/hyphacoop/organizing/issues/202) next meeting? dc: bylaws more critical
+    - [#273](https://github.com/hyphacoop/organizing/issues/273) bl: lower priority, move to backlog 
+    - [#147](https://github.com/hyphacoop/organizing/issues/147) (dc: this process can fracture... I'm finding todos on here that are in other issues for ops and bizdev... confusing.)
         - bl: will bring back feedback of things going into general that have existing issues (to ops + gov)
 
 ### Discussions

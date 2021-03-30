@@ -40,14 +40,14 @@ Notetaker: dc
     - [`wg:ops`][l-ops] label review
     - Triage new tasks
     - missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]
-- #123 ops. sent email. website not enough for registration.
+- [#123](https://github.com/hyphacoop/organizing/issues/123) ops. sent email. website not enough for registration.
 
 ### Discussions
 
-- #102 AGM status update
+- [#102](https://github.com/hyphacoop/organizing/issues/102) AGM status update
     - discussing [doc](https://docs.google.com/document/d/1fBm-OB_haaGEIEDGvekMA9wivjJNiA1MCP1Qf-i6QbA/edit)
         - need to email everyone individually, not group
-- #202 Peer-feedback
+- [#202](https://github.com/hyphacoop/organizing/issues/202) Peer-feedback
     - happening at agm or launching at agm
     - kickoff too structured? versus accountability on our own time
     - pc: previous experience:
@@ -88,7 +88,7 @@ Notetaker: dc
         - finalizing for AGM meeting
     - #todo patcon to spawn issue with this, also keen to lead on :point_up: 
 - Organization roles
-    - #121 finance
+    - [#121](https://github.com/hyphacoop/organizing/issues/121) finance
         - all just doing stuff, most
         - OKR goal to write guides
             - dc: guides good! but not the same as role (which could just be bullet points)
@@ -99,16 +99,16 @@ Notetaker: dc
         - #todo dc to review
         - #todo ask for opinions/mention at call tonight. discuss next all hands?
     - handbook#13 doc'ing (parked)
-    - #97 time-tracking (parked)
-    - #73 internal PM (parked)
-- #101 By-law planning (parked)
+    - [#97](https://github.com/hyphacoop/organizing/issues/97) time-tracking (parked)
+    - [#73](https://github.com/hyphacoop/organizing/issues/73) internal PM (parked)
+- [#101](https://github.com/hyphacoop/organizing/issues/101) By-law planning (parked)
 
 #### Candidates for co-work
 
-- #97 Time tracker role (social media role?)
-- #90 Add why's to Service Inventory 
-- #81 README work
-- ~~#123 WSIB registration~~ (dc did async)
+- [#97](https://github.com/hyphacoop/organizing/issues/97) Time tracker role (social media role?)
+- [#90](https://github.com/hyphacoop/organizing/issues/90) Add why's to Service Inventory 
+- [#81](https://github.com/hyphacoop/organizing/issues/81) README work
+- ~~[#123](https://github.com/hyphacoop/organizing/issues/123) WSIB registration~~ (dc did async)
 
 ### Process Checkout
 

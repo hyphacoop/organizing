@@ -40,12 +40,12 @@ pc - No pet currently but once "mom came home with it".
 
 - Archive _Done_ tasks :tada:
 - Review [HIGH `[priority-★★★]`][l-pri-hi]
-    - organizing-private#4 -  transfer wise
-    - #156 - continuing
-    - #154 - continuing
-    - #136 - Bios collected, visual treatment.
-    - #102 - AGM
-    - #177 
+    - [private#4](https://github.com/hyphacoop/organizing-private/issues/4) -  transfer wise
+    - [#156](https://github.com/hyphacoop/organizing/issues/156) - continuing
+    - [#154](https://github.com/hyphacoop/organizing/issues/154) - continuing
+    - [#136](https://github.com/hyphacoop/organizing/issues/136) - Bios collected, visual treatment.
+    - [#102](https://github.com/hyphacoop/organizing/issues/102) - AGM
+    - [#177](https://github.com/hyphacoop/organizing/issues/177) 
 - Triage new tasks
     - Personal Hypha E-Mail
 - missing labels [`wg:NULL`][l-none] | [`[priority-NULL]`][l-pri-none]

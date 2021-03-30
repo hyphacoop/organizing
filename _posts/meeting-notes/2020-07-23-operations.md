@@ -45,8 +45,8 @@ Notetaker:  bl
     - Moving into thinking about collaborators?
         - ~~Hiring~~ Membership requirements (governance side)
             - What we look for in a member
-            - Member diversity & anti-black racism thread  #311
-            - Organizational values and how that gets translated to policies #76 #234 
+            - Member diversity & anti-black racism thread  [#311](https://github.com/hyphacoop/organizing/issues/311)
+            - Organizational values and how that gets translated to policies [#76](https://github.com/hyphacoop/organizing/issues/76) [#234](https://github.com/hyphacoop/organizing/issues/234) 
     - dc: A take on them grouped:
         - Continue to develop our governance muscles (slow burn)
         - *** Set up for Y2 and beyond (wrap up tasks on board) <-- Q3 emphasis

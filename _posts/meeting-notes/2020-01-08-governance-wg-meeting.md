@@ -113,9 +113,9 @@ From 2019-12-18 all hands:
 
 ### Parked discussions
 
-- #140 Improve org-wide task flow
+- [#140](https://github.com/hyphacoop/organizing/issues/140) Improve org-wide task flow
 - What do we want to get out of these meetings?
-- #102 Roadmapping to the AGM
+- [#102](https://github.com/hyphacoop/organizing/issues/102) Roadmapping to the AGM
 - Scope of Working Group
 - Peer-reviewing
  

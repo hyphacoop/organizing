@@ -45,9 +45,9 @@ Final review section on Bylaws: https://docs.google.com/document/d/1QN8QzmSnnj1G
 	- AGM!!!
 	- Working open, hiring
 - [`wg:gov`][l-gov] label review
-    - #101 bylaws. dc to get ready for review
+    - [#101](https://github.com/hyphacoop/organizing/issues/101) bylaws. dc to get ready for review
         - finance to review Section 6, 7, and Appendix
-    - #102 AGM. dc sent notice and started drafting agenda and package
+    - [#102](https://github.com/hyphacoop/organizing/issues/102) AGM. dc sent notice and started drafting agenda and package
         - dc reached out to elon. what to do?
         - video requirement. discuss at All Hands
         - agenda pretty flexible
@@ -57,19 +57,19 @@ Final review section on Bylaws: https://docs.google.com/document/d/1QN8QzmSnnj1G
             - notetaker and timekeeper
             - all hands, dc to bring up fun activity
     - handbook#13 duties for roles. changed to dc
-    - #202 feedback model. changed to dc, check in with pc
+    - [#202](https://github.com/hyphacoop/organizing/issues/202) feedback model. changed to dc, check in with pc
         - no pre-AGM activity
         - no plan to have this on agenda for AGM in this new format
         - pick up again next week
-    - #167 biz plan. discuss at bizdev call
-    - #104 amend articles. need to agree at AGM. $100
-    - #234 revisit org values
+    - [#167](https://github.com/hyphacoop/organizing/issues/167) biz plan. discuss at bizdev call
+    - [#104](https://github.com/hyphacoop/organizing/issues/104) amend articles. need to agree at AGM. $100
+    - [#234](https://github.com/hyphacoop/organizing/issues/234) revisit org values
     - handbook#14 good member. draft for AGM, move into peer feedback
         - e.g. can we prepare two meetings?
         - talk about this at all hands next week, then followed by AGM refining
 - [`wg:ops`][l-ops] label review
-    - #217 wsib. moved to To Do
-    - #190 evaluate our conditions for interpreting employment relationships
+    - [#217](https://github.com/hyphacoop/organizing/issues/217) wsib. moved to To Do
+    - [#190](https://github.com/hyphacoop/organizing/issues/190) evaluate our conditions for interpreting employment relationships
 
 ### Discussions
 

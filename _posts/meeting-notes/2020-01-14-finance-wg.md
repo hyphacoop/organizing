@@ -34,11 +34,11 @@ Notetaker:  pc
 
 - Archive _Done_ tasks :tada:
 - Review [HIGH `[priority-★★★]`][l-pri-hi]
-    - #156 payroll. done. will discuss
-    - private#4 transferwise. done. can check off in discussion.
-    - #154 quickbooks setup. no progress. patcon needs to move it fwd.
+    - [#156](https://github.com/hyphacoop/organizing/issues/156) payroll. done. will discuss
+    - [private#4](https://github.com/hyphacoop/organizing-private/issues/4) transferwise. done. can check off in discussion.
+    - [#154](https://github.com/hyphacoop/organizing/issues/154) quickbooks setup. no progress. patcon needs to move it fwd.
     - #... bookkeeper. assigned to patcon, as he's become touchpoint. will update in discussion.
-    - #134 credit card. no progress. yj: there a block? no.
+    - [#134](https://github.com/hyphacoop/organizing/issues/134) credit card. no progress. yj: there a block? no.
         - pc: might
 - Triage new tasks
     - #todo create task for expense reimbursement process
