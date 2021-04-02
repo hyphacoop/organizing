@@ -1,0 +1,30 @@
+name: Linkify issues
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/issue-linker.yml'
+      - '**.md'
+
+jobs:
+  link-issues:
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@v2
+
+      # See: https://github.com/jitterbit/get-changed-files#get-all-changed-files-as-space-delimited
+      - id: files
+        uses: jitterbit/get-changed-files@v1
+        with:
+          format: space-delimited
+
+      - run: sudo npm install --global replace-in-file
+
+      - run: 'make link-issues FILES="${{ steps.files.outputs.all }}"'
+
+      - uses: reviewdog/action-suggester@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          tool_name: issue linkifier
+
