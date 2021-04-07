@@ -1,4 +1,4 @@
-# 2020-09-09 Hypha Worker Co-op: Directors Meeting
+# 2020-09-09 Hypha Worker Co-op: Board Meeting
 
 Time:       5:30-5:45pm ET  
 Location:   https://link.hypha.coop/calls  
