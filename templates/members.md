@@ -2,16 +2,13 @@
 breaks:  false # See: https://github.com/hackmdio/codimd/issues/40#issuecomment-172927690
 tags: Hypha
 ---
-# 2021-MM-DD Hypha 202X Annual Members Meeting - Mmmm DD, 202X ☀️🛰️
+# 2021-MM-DD Hypha Worker Co-op 202X Annual Members Meeting - Mmmm DD, 202X ☀️🛰️
 
 **Status**: [_These are draft minutes from our initial AGM._]
 
-## Background and Intent
+## Agenda and Contents 
 
-_This AGM will celebrate our previous accomplishments while allowing us to check in on milestones and set a course for the year ahead both personally and collectively. There will be advance notice and planning so we all come prepared for the meeting. The time will be a mix of structured and unstructured with a casual vibe. There will be social events that grow our feelings of connectedness to each other and our neighbours. We will end the weekend more excited than we started._
-
-## Agenda
-
+- [Background and Intent](#Background-and-Intent)
 - [Expected Outcomes](#Expected-Outcomes)
 - [Pre-AGM](#Pre-AGM)
 - [Session I - Year in Review and Key Business (aka Members Meeting)](#Session-I---Year-in-Review-and-Key-Business-aka-Members%E2%80%99-Meeting)
@@ -34,6 +31,12 @@ _This AGM will celebrate our previous accomplishments while allowing us to check
 - [Appendix - AGM Explainer](#Appendix---AGM-Explainer)
 - 
 
+
+## Background and Intent
+
+_This AGM will celebrate our previous accomplishments while allowing us to check in on milestones and set a course for the year ahead both personally and collectively. There will be advance notice and planning so we all come prepared for the meeting. The time will be a mix of structured and unstructured with a casual vibe. There will be social events that grow our feelings of connectedness to each other and our neighbours. We will end the weekend more excited than we started._
+
+
 ## Expected Outcomes
 
 At the end of this annual members meeting (which includes a board meeting and retreat), we will establish:
@@ -41,6 +44,7 @@ At the end of this annual members meeting (which includes a board meeting and re
 -  
 - 
 - 
+
 
 ## Pre-Retreat 
 

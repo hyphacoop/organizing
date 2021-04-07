@@ -2,23 +2,25 @@
 breaks:  false # See: https://github.com/hackmdio/codimd/issues/40#issuecomment-172927690
 tags: Hypha
 ---
-# 2021-MM-DD Semi-annual Retreat 🌴🍹
+# 2021-MM-DD Hypha Worker Co-op Semi-annual Retreat - Mmmm DD, 202X 🌴🍹
 
 **Status**:  
 
-[TOC]
+
+## Agenda and Contents 
+
 
 ## Background and Intent
 
 
-
 ## Expected Outcomes
 
-At the end of X (X hour) sessions, (Dec 4th and 8th of 2018) we will establish:
+At the end of this retreat we will establish:
 
 1. 
 2. 
 3. 
+
 
 ## Pre-Retreat 
 
