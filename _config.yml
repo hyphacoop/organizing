@@ -72,8 +72,8 @@ nav-sections:
     path: meeting-notes/
   - title: Members Meetings
     path: members-meetings/
-  - title: Directors Meetings
-    path: directors-meetings/
+  - title: Board Meetings
+    path: board-meetings/
   - title: Informational Interviews
     path: informational-interviews/
     show_archive_links: true
