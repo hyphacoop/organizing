@@ -6,7 +6,7 @@ tags: Hypha
 
 <sup>[from template][template] | [:notebook: Meetings][meetings] | [:date: Calendar][calendar] | [:white_check_mark: Tasks][tasks] | [:cat: Code][gh] | [:open_file_folder: Drive][drive]</sup>
 
-Time:       9:00-11:00pm ET  
+Time:       1:00-3:00pm ET  
 Location:   https://link.hypha.coop/calls  
 Attending:  ...  
 Cultivator: ...  
