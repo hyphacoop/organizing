@@ -1,4 +1,4 @@
-# Hypha 2020 AGM - June 13-14, 2020
+# Hypha 2020 Annual Members Meeting - June 13-14, 2020
 
 _These are draft minutes from our initial AGM._
 
