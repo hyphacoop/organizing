@@ -18,7 +18,7 @@ Cultivator: gi
 
 ## Bugs Triage
 
-### Bug: Shared calendar doesn't allow non-owner members with write permissions to send calendar invites #419
+### Bug: Shared calendar doesn't allow non-owner members with write permissions to send calendar invites [#419](https://github.com/hyphacoop/organizing/issues/419)
 - https://github.com/hyphacoop/organizing/issues/419
 - Moving forward on Suggestion 1: Create a shared email account for the Sogo calendar so that we can send calendar invites from Sogo with the shared email address
     - infra-wg will create an email at calendar@hypha.coop
@@ -38,7 +38,7 @@ Cultivator: gi
     - Create new events from your Sogo account and they will be sent from calendar@hypha.coop
     - Aiming to close issue by March 27
 
-### Bug: Accepted calendar invites not showing up in calendar #393
+### Bug: Accepted calendar invites not showing up in calendar [#393](https://github.com/hyphacoop/organizing/issues/393)
 - https://github.com/hyphacoop/organizing/issues/393
 - infra-wg thinks it's a client issue
     - Thunderbird: shows the invite in the wrong calendar
@@ -49,8 +49,8 @@ Cultivator: gi
     - infra-wg will investigate the feasibility of using ActiveSync
     - For now: Add events manually to your own calendars
 
-### Bug: Our emails to Gmail going to spam #422
-- https://github.com/hyphacoop/organizing/issues/418 (merged into #422)
+### Bug: Our emails to Gmail going to spam [#422](https://github.com/hyphacoop/organizing/issues/422)
+- https://github.com/hyphacoop/organizing/issues/418 (merged into [#422](https://github.com/hyphacoop/organizing/issues/422))
 - https://github.com/hyphacoop/organizing/issues/422
 - Issue 1: Google screwing up and marking email as spam
     - el has updated SPF record on March 23rd

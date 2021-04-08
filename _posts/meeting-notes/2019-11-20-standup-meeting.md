@@ -93,7 +93,7 @@ Notetaker:  uv :raising_hand: Next up: gi, pc, dc, el, bl, yj, uv
 - Invoice Discussion
     - issues that have been flagged
         - currency CAD/USD (sort out in finance wg)
-        - invoice number. retroactive invoice for pc/primal glow? yj: done (invoice #1002 yj to confirm?)! pc needs to investigate.
+        - invoice number. retroactive invoice for pc/primal glow? yj: done (invoice :hash:1002 yj to confirm?)! pc needs to investigate.
 - Quick check-in: Payroll frequency: https://loomio.hypha.coop/d/Y28GOpkF/draft-accounting-billing-and-payroll-workflow/11 (dc: decision to 11-27)
     - clip, payroll period etc. need to be discussed
     - pc: wanted to flag a time limit, personal urgency
