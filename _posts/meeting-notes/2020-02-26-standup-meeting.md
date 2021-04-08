@@ -31,7 +31,7 @@ Notetaker:  gi :raising_hand: Next up: bl, pc, dc, yj, el, uv, gi
         - First formal meeting with Qm incl. research prep
     - next: 
         - Qm meeting this friday (research and prep)
-        - StART #3 sprint planning
+        - StART :hash:3 sprint planning
         - Governance: O. Defining "our neighbours", attending CWCF webinar
     - blockers: 
         - Health stuff (dental procedures+recovery)

@@ -50,7 +50,7 @@ Notetaker: :raising_hand: ei, yj, gi, pc, dc, uv, bl
 - Aether
     - bl: signed contract with burak
         - dc: where is it? GDrive
-    - #todo consolidate notes to Aether #3 pad (ben)
+    - #todo consolidate notes to Aether :hash:3 pad (ben)
     - #todo open invite to join hypha's aether instance (all)
     - dc: what would we use it for? threaded convo space for small business. like loomio(ish)
     - pc: consider small internal use-case? #todo?

@@ -113,7 +113,7 @@ Notetaker: patcon
         - yj: feels this will work out as we do more projects
         - dc: mixed take. past dc: let's figure out how to refunnel money into neglected proejcts.
             - but now: how do we make it better. transformational projects. new possibilities that open that wouldn't be there if we just worked for square clients.
-        - dc: have always done model #1: do the work to pay for "good work". but now want to work on transformational projects. want more of that now.
+        - dc: have always done model :hash:1: do the work to pay for "good work". but now want to work on transformational projects. want more of that now.
 - ... missed some things
 - next steps:
     - lj: don't have time. but want to funnel in my 20% time into this, as a non-square project.
