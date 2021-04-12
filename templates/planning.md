@@ -15,9 +15,9 @@ Notetaker:  ...
 _Length: 2 hours_  
 _Format: In person|Video call_
 
-_Cultivator: X_ [If needed]
-_Scribe: X_ [If needed]
-_Timekeeper: X_ [If needed]
+_Cultivator: ..._ [If needed]
+_Scribe: ..._ [If needed]
+_Timekeeper: ..._ [If needed]
 
 | Time          | Length | Description                                         |
 |---------------|--------|-----------------------------------------------------|

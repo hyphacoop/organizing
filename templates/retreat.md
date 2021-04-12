@@ -40,7 +40,7 @@ During the retreat you're encouraged to share a few thoughts from the following 
 
 ## Retreat Day X [or Session X]  
 
-_Length: 3 hours_  
+_Length: X hours_  
 _Format: In person|Video call_
 
 | Time          | Length | Description                                         |
@@ -53,9 +53,9 @@ _Format: In person|Video call_
 
 ### Introductions
 
-_Cultivator: X_ [If needed]
-_Scribe: X_ [If needed]
-_Timekeeper: X_ [If needed]
+_Cultivator: ..._ [If needed]
+_Scribe: ..._ [If needed]
+_Timekeeper: ..._ [If needed]
 
 
 

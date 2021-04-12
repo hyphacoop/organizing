@@ -63,9 +63,9 @@ Indicate when you have completed the above on [**Loomio**](#): [https://loomio.h
 
 _Length: 3 hours_
 
-Chair: Dawn
-Timekeeper: Benedict
-Scribe: Patcon
+_Cultivator: ..._ [If needed]
+_Scribe: ..._ [If needed]
+_Timekeeper: ..._ [If needed]
 
 
 | Time          | Length | Description                                      |
@@ -116,9 +116,9 @@ Scribe: Patcon
 
 _Length: 1 hour_
 
-_Cultivator: X_ [If needed]
-_Scribe: X_ [If needed]
-_Timekeeper: X_ [If needed]
+_Cultivator: ..._ [If needed]
+_Scribe: ..._ [If needed]
+_Timekeeper: ..._ [If needed]
 
 
 | Time          | Length | Description                          |
@@ -153,9 +153,9 @@ _Timekeeper: X_ [If needed]
 
 _Length: 1.5 hours_
 
-_Cultivator: X_ [If needed]
-_Scribe: X_ [If needed]
-_Timekeeper: X_ [If needed]
+_Cultivator: ..._ [If needed]
+_Scribe: ..._ [If needed]
+_Timekeeper: ..._ [If needed]
    
 | Time          | Length | Description                          |
 |---------------|--------|--------------------------------------|
