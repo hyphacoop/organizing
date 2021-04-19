@@ -18,7 +18,8 @@ gem "jemoji", "~> 0.11.1"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-commonmark-ghpages", "~> 0.1.6"
+  gem "jekyll-commonmark-ghpages",
+    github: "hugmanrique/jekyll-commonmark-ghpages"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
