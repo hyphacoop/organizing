@@ -6,7 +6,7 @@ tags: Hypha
 
 Time:       5:00-6:00pm ET  
 Location:   https://link.hypha.coop/calls  
-Attending:  bl, el, yj, dc   
+Attending:  bl, el, yj, dc, pc (after vote)   
 Cultivator: dc  
 Notetaker:  bl  
 
@@ -24,7 +24,7 @@ Notetaker:  bl
 
 ### Resolution on Amended Articles of Incorporation
 
-- VOTED **unanimously** 4 of 4 directors present approved an amendment of the articles for incorporation with the following changes:
+- VOTED unanimously and 4 of 4 directors present approved an amendment of the articles for incorporation with the following changes:
 
  Article 15 is amended from:
 
