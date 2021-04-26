@@ -29,7 +29,7 @@ Cultivator: gi
     - infra-wg keep an eye on it: monitor CPU/Disk usage in proxmox/hypervisor
     - members continue reporting degraded service
 
-### Bug: Shared calendar doesn't allow non-owner members with write permissions to send calendar invites #419
+### Bug: Shared calendar doesn't allow non-owner members with write permissions to send calendar invites [#419](https://github.com/hyphacoop/organizing/issues/419)
 - https://github.com/hyphacoop/organizing/issues/419
 - next steps:
     - gi close issue and repost the shared calendar workflow
