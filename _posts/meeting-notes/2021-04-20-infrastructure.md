@@ -34,7 +34,7 @@ Cultivator: gi
 - next steps:
     - gi close issue and repost the shared calendar workflow
 
-### Bug: Accepted calendar invites not showing up in calendar #393
+### Bug: Accepted calendar invites not showing up in calendar [#393](https://github.com/hyphacoop/organizing/issues/393)
 - https://github.com/hyphacoop/organizing/issues/393
 - next steps:
     - infra-wg continue investigations
