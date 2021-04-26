@@ -40,8 +40,8 @@ Cultivator: gi
     - infra-wg continue investigations
     - looking for reproducible steps and client info from members
 
-### Bug: Our emails to Gmail going to spam #422
-- https://github.com/hyphacoop/organizing/issues/418 (merged into #422)
+### Bug: Our emails to Gmail going to spam [#422](https://github.com/hyphacoop/organizing/issues/422)
+- https://github.com/hyphacoop/organizing/issues/418 (merged into [#422](https://github.com/hyphacoop/organizing/issues/422))
 - https://github.com/hyphacoop/organizing/issues/422
 - issue 1: Google screwing up and marking email as spam
     - next steps:
