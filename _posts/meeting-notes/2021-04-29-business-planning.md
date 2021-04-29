@@ -15,7 +15,7 @@ Notetaker:  pc
 ## Post-Call Summary
 
 - quartering planning wrap: allocating time
-- dripline: last-mile on polis post #441
+- dripline: last-mile on polis post [#441](https://github.com/hyphacoop/organizing/issues/441)
 - CIU update
 - internship planning (social media strategy)
     - to be continued next week
@@ -51,7 +51,7 @@ Notetaker:  pc
 
 ### Discussions
 
-- plan for creating internship project #450
+- plan for creating internship project [#450](https://github.com/hyphacoop/organizing/issues/450)
     - setting up is ops, not bizdev
     - dc: seems like there are no _actual_ deadlines until 7 days after someone starts
     - first thing: prep to list and advertise job
@@ -93,10 +93,10 @@ Notetaker:  pc
     - young proselytzers 
     - connection to our internship?
     - #todo:uv bring to next meeting
-- Dripline update (15min?) #441
+- Dripline update (15min?) [#441](https://github.com/hyphacoop/organizing/issues/441)
     - #todo:dc publish to dripline
     - #todo:pc GIFs from polis convo
-- internship planning #450
+- internship planning [#450](https://github.com/hyphacoop/organizing/issues/450)
     - Marketing Co-ordinator (description and link below)
     - Start Date: May 10 (2 wk)
     - dc: process to amend if position radically different
