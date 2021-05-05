@@ -73,6 +73,8 @@ nav-sections:
     path: members-meetings/
   - title: Board Meetings
     path: board-meetings/
+  - title: Planning Meetings
+    path: planning-meetings/
   - title: Informational Interviews
     path: informational-interviews/
     show_archive_links: true
