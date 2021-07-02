@@ -77,12 +77,19 @@ Candidates for co-work:
 [l-pri-md]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:[priority-★★☆]
 [l-pri-lo]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:[priority-★☆☆]
 [l-pri-none]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=-label:[priority-★☆☆]+-label:[priority-★★☆]+-label:[priority-★★★]
-[l-biz]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:business-planning"
-[l-fin]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:finance"
-[l-gov]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:governance
-[l-inf]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:infrastructure"
-[l-ops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:operations"
-[l-none]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=-label:wg:operations+-label:wg:infrastructure+-label:wg:finance+-label:wg:governance+-label:wg:business-planning
+[l-fin]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"finance"
+[l-opp]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"opportunities"
+[l-inf]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"infrastructure"
+[l-ops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"operations"
+[l-chrysalis]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-chrysalis"
+[l-migration]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-migration"
+[l-drip ]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-drip"
+[l-hello]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-hello"
+[l-improvetech]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-improvetech"
+[l-homeostatis]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-homeostatis"
+[l-ochost]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-ochost"
+[l-radcoops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-radcoops"
+[l-socials]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-socials"
 
 <!-- Links: Archive -->
 [homeostasis-public]:   https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2021-MM-DD-homeostasis.md
