@@ -36,13 +36,13 @@ Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
 ### Initiative Updates
 
 - Back Office:
-    - [Finance][fin-wg] [`finance`][l-fin]
+    - Finance [`finance`][l-fin]
         - ...
-    - [Infrastructure][inf-wg] [`infrastructure`][l-inf]
+    - Infrastructure [`infrastructure`][l-inf]
         - ...
-    - [Opportunities][opp-wg] [`opportunities`][l-opp]
+    - Opportunities [`opportunities`][l-opp]
         - ...
-    - [Operations][ops-wg] [`operations`][l-ops]
+    - Operations [`operations`][l-ops]
         - ...
 - Initiatives:
     - chrysalis
@@ -94,13 +94,6 @@ Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
 [l-ochost]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-ochost"
 [l-radcoops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-radcoops"
 [l-socials]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-socials"
-
-<!-- Links: Working Groups -->
-[biz-wg]: https://link.hypha.coop/biz-wg
-[fin-wg]: https://link.hypha.coop/fin-wg
-[gov-wg]: https://link.hypha.coop/gov-wg
-[inf-wg]: https://link.hypha.coop/inf-wg
-[ops-wg]: https://link.hypha.coop/ops-wg
 
 <!-- Links: Archive -->
 [public]:   https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2021-MM-DD-all-hands.md
