@@ -18,11 +18,11 @@ Therefore be it resolved that...
 
 Dated in the Province of Ontario on the [XXth day of Month, 20XX]. Signed by: 
 
-__________________________________ :lock_with_ink_pen: [digital signature][sigfile-director-1]\
+__________________________________ 🔏 [digital signature][sigfile-director-1]\
 [Full Name of Director 1], [Officer Title]
 
 
-__________________________________ :lock_with_ink_pen: [digital signature][sigfile-director-2]\
+__________________________________ 🔏 [digital signature][sigfile-director-2]\
 [Full Name of Director 2], [Officer Title]
 
 
