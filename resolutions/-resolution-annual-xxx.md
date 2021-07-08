@@ -1,4 +1,4 @@
-# Template: ANNUAL RESOLUTIONS OF THE BOARD OF DIRECTORS
+# ANNUAL RESOLUTIONS OF THE BOARD OF DIRECTORS Template
 
 <sup>[From template][template]</sup>
 

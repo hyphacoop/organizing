@@ -1,4 +1,4 @@
-﻿# Template: RESOLUTIONS OF THE BOARD OF DIRECTORS
+﻿# RESOLUTIONS OF THE BOARD OF DIRECTORS Template
 
 <!-- Title: -->
 # [ Ordinary / Special ] resolution [action]
