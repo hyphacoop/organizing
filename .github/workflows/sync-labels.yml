@@ -7,7 +7,7 @@ on:
     paths:
       - .github/workflows/sync-labels.yml
     branches:
-      - master
+      - main
 
 jobs:
   label-sync:
