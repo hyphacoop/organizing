@@ -34,15 +34,15 @@
     <li>
       <span class="small">
         Archive as
-        <a href="{{ site.public-repo-url }}/new/master?filename=_posts/meeting-notes/{{ site.time | date: '%Y' }}-MM-DD-.md" target="_blank">open access</a>
+        <a href="{{ site.public-repo-url }}/new/main?filename=_posts/meeting-notes/{{ site.time | date: '%Y' }}-MM-DD-.md" target="_blank">open access</a>
       </span>
     </li>
     <li>
       <span class="small">
         Archive as
-        <a href="{{ site.private-repo-url }}/new/master?filename=meeting-notes/{{ site.time | date: '%Y' }}-MM-DD-.md" target="_blank">restricted access</a>
+        <a href="{{ site.private-repo-url }}/new/main?filename=meeting-notes/{{ site.time | date: '%Y' }}-MM-DD-.md" target="_blank">restricted access</a>
         with
-        <a href="{{ site.public-repo-url }}/new/master?filename=_posts/private/meeting-notes/{{ site.time | date: '%Y' }}-MM-DD-.md&value={{ 'Empty file for public indexing of access-restricted file.' | uri_escape }}" target="_blank">public stub</a>
+        <a href="{{ site.public-repo-url }}/new/main?filename=_posts/private/meeting-notes/{{ site.time | date: '%Y' }}-MM-DD-.md&value={{ 'Empty file for public indexing of access-restricted file.' | uri_escape }}" target="_blank">public stub</a>
       </span>
     </li>
   </ul>
@@ -55,15 +55,15 @@
       <li>
         <span class="small">
           Archive as
-          <a href="{{ site.public-repo-url }}/new/master?filename=_posts/{{ section.path }}{{ site.time | date: '%Y' }}-MM-DD-.md" target="_blank">open access</a>
+          <a href="{{ site.public-repo-url }}/new/main?filename=_posts/{{ section.path }}{{ site.time | date: '%Y' }}-MM-DD-.md" target="_blank">open access</a>
         </span>
       </li>
       <li>
         <span class="small">
           Archive as
-          <a href="{{ site.private-repo-url }}/new/master?filename={{ section.path }}{{ site.time | date: '%Y' }}-MM-DD-.md" target="_blank">restricted access</a>
+          <a href="{{ site.private-repo-url }}/new/main?filename={{ section.path }}{{ site.time | date: '%Y' }}-MM-DD-.md" target="_blank">restricted access</a>
           with
-          <a href="{{ site.public-repo-url }}/new/master?filename=_posts/{{ private_path }}{{ site.time | date: '%Y' }}-MM-DD-.md&value={{ 'Empty file for public indexing of access-restricted file.' | uri_escape }}" target="_blank">public stub</a>
+          <a href="{{ site.public-repo-url }}/new/main?filename=_posts/{{ private_path }}{{ site.time | date: '%Y' }}-MM-DD-.md&value={{ 'Empty file for public indexing of access-restricted file.' | uri_escape }}" target="_blank">public stub</a>
         </span>
       </li>
     </ul>
