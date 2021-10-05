@@ -48,6 +48,6 @@ Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
 [drive]:    https://link.hypha.coop/drive
 
 <!-- Links: Archive -->
-[public]:   https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2021-MM-DD-standup.md
-[index]:    https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2021-MM-DD-standup.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
-[private]:  https://github.com/hyphacoop/organizing-private/new/master?filename=meeting-notes/2021-MM-DD-standup.md
+[public]:   https://github.com/hyphacoop/organizing/new/main?filename=_posts/meeting-notes/2021-MM-DD-standup.md
+[index]:    https://github.com/hyphacoop/organizing/new/main?filename=_posts/private/meeting-notes/2021-MM-DD-standup.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
+[private]:  https://github.com/hyphacoop/organizing-private/new/main?filename=meeting-notes/2021-MM-DD-standup.md
