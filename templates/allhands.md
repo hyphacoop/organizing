@@ -96,6 +96,6 @@ Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
 [l-socials]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-socials"
 
 <!-- Links: Archive -->
-[public]:   https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2021-MM-DD-all-hands.md
-[index]:    https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2021-MM-DD-all-hands.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
-[private]:  https://github.com/hyphacoop/organizing-private/new/master?filename=meeting-notes/2021-MM-DD-all-hands.md
+[public]:   https://github.com/hyphacoop/organizing/new/main?filename=_posts/meeting-notes/2021-MM-DD-all-hands.md
+[index]:    https://github.com/hyphacoop/organizing/new/main?filename=_posts/private/meeting-notes/2021-MM-DD-all-hands.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
+[private]:  https://github.com/hyphacoop/organizing-private/new/main?filename=meeting-notes/2021-MM-DD-all-hands.md

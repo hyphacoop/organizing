@@ -92,18 +92,18 @@ Candidates for co-work:
 [l-socials]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-socials"
 
 <!-- Links: Archive -->
-[homeostasis-public]:   https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2021-MM-DD-homeostasis.md
-[homeostasis-index]:    https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2021-MM-DD-homeostasis.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
-[homeostasis-private]:  https://github.com/hyphacoop/organizing-private/new/master?filename=meeting-notes/2021-MM-DD-homeostasis.md
-[initiative-public]:   https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2021-MM-DD-initiative.md
-[initiative-index]:    https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2021-MM-DD-initiative.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
-[initiative-private]:  https://github.com/hyphacoop/organizing-private/new/master?filename=meeting-notes/2021-MM-DD-initiative.md
-[inf-public]:   https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2021-MM-DD-infrastructure.md
-[inf-index]:    https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2021-MM-DD-infrastructure.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
-[inf-private]:  https://github.com/hyphacoop/organizing-private/new/master?filename=meeting-notes/2021-MM-DD-infrastructure.md
-[fin-public]:   https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2021-MM-DD-finance.md
-[fin-index]:    https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2021-MM-DD-finance.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
-[fin-private]:  https://github.com/hyphacoop/organizing-private/new/master?filename=meeting-notes/2021-MM-DD-finance.md
-[ops-public]:   https://github.com/hyphacoop/organizing/new/master?filename=_posts/meeting-notes/2021-MM-DD-operations.md
-[ops-index]:    https://github.com/hyphacoop/organizing/new/master?filename=_posts/private/meeting-notes/2021-MM-DD-operations.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
-[ops-private]:  https://github.com/hyphacoop/organizing-private/new/master?filename=meeting-notes/2021-MM-DD-operations.md
+[homeostasis-public]:   https://github.com/hyphacoop/organizing/new/main?filename=_posts/meeting-notes/2021-MM-DD-homeostasis.md
+[homeostasis-index]:    https://github.com/hyphacoop/organizing/new/main?filename=_posts/private/meeting-notes/2021-MM-DD-homeostasis.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
+[homeostasis-private]:  https://github.com/hyphacoop/organizing-private/new/main?filename=meeting-notes/2021-MM-DD-homeostasis.md
+[initiative-public]:   https://github.com/hyphacoop/organizing/new/main?filename=_posts/meeting-notes/2021-MM-DD-initiative.md
+[initiative-index]:    https://github.com/hyphacoop/organizing/new/main?filename=_posts/private/meeting-notes/2021-MM-DD-initiative.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
+[initiative-private]:  https://github.com/hyphacoop/organizing-private/new/main?filename=meeting-notes/2021-MM-DD-initiative.md
+[inf-public]:   https://github.com/hyphacoop/organizing/new/main?filename=_posts/meeting-notes/2021-MM-DD-infrastructure.md
+[inf-index]:    https://github.com/hyphacoop/organizing/new/main?filename=_posts/private/meeting-notes/2021-MM-DD-infrastructure.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
+[inf-private]:  https://github.com/hyphacoop/organizing-private/new/main?filename=meeting-notes/2021-MM-DD-infrastructure.md
+[fin-public]:   https://github.com/hyphacoop/organizing/new/main?filename=_posts/meeting-notes/2021-MM-DD-finance.md
+[fin-index]:    https://github.com/hyphacoop/organizing/new/main?filename=_posts/private/meeting-notes/2021-MM-DD-finance.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
+[fin-private]:  https://github.com/hyphacoop/organizing-private/new/main?filename=meeting-notes/2021-MM-DD-finance.md
+[ops-public]:   https://github.com/hyphacoop/organizing/new/main?filename=_posts/meeting-notes/2021-MM-DD-operations.md
+[ops-index]:    https://github.com/hyphacoop/organizing/new/main?filename=_posts/private/meeting-notes/2021-MM-DD-operations.md&value=Empty%20file%20for%20public%20indexing%20of%20access-restricted%20file.
+[ops-private]:  https://github.com/hyphacoop/organizing-private/new/main?filename=meeting-notes/2021-MM-DD-operations.md
