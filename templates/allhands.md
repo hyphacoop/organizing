@@ -45,15 +45,16 @@ Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
     - Operations [`operations`][l-ops]
         - ...
 - Initiatives:
-    - chrysalis
-    - migration
     - drip
     - hello
     - improvetech
     - homeostatis
     - ochost
     - radcoops
-    - socials
+    - socialspaces
+    - hiring
+    - handbookrefresh (docsprint)
+    - compensation
 
 
 ### Discussions
