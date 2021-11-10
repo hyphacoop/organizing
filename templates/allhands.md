@@ -44,7 +44,7 @@ Notetaker:  ... :raising_hand: COPY-FROM-PAST-WEEK
         - ...
     - Operations [`operations`][l-ops]
         - ...
-- Initiatives:
+- [Initiatives](https://docs.google.com/spreadsheets/d/1LyElXvLj7ASclSPQqcgOnuEWqBWBStilEfOhIosZzhA/edit#gid=858595530):
     - drip
     - hello
     - improvetech
