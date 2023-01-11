@@ -1,4 +1,4 @@
-# 2022-MM-DD Hypha Worker Co-op: All Hands
+# 2023-MM-DD Hypha Worker Co-op: All Hands
 
 Attending:  ...  
 Cultivator: ...  
@@ -35,14 +35,17 @@ Notetaker:  ...
 
 _List of [Initiatives][initiatives]._
 
-- Cosmos
+- Cosmos Testnet
+- Cosmos Relations
+- Validator
+- Saturn
 - Starling Lab
 - EQTY
 - Restructuring Futures
 - Sacred Stacks
 - Meet.coop
-- Distributed Press/COMPOST
-- Website refresh
+- Distributed Press
+- COMPOST
 - Dripline
 - Creative Users
 - Other projects?
