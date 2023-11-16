@@ -53,6 +53,17 @@ To:
 - Alexandra Michaelides: Secretary.
 
 
+## CURRENT STATE OF THE CO-OP:
+Members: yj, uv, bl, el, am, ds, aa
+
+Directors: yj, uv, bl, el, am, ds, aa
+
+Officers: 
+* President: ds
+* Vice president: uv
+* Treasurer: bl
+* Secretary: am
+
 This resolution may be executed in counterparts. Facsimile, scanned, or digital signatures are binding and are considered to be original signatures.
 
 Dated in the Province of Ontario on the 23rd day of October, 2023.
