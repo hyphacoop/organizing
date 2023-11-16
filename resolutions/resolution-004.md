@@ -1,17 +1,6 @@
 # RESOLUTIONS OF THE BOARD OF DIRECTORS
 Resolution in writing of the board of directors of Hypha Worker Co-operative Inc. (the "Co-operative") held on this 20th day of September, 2022.
 
-## CURRENT STATE OF THE CO-OP
-Members: yj, uv, bl, el
-
-Directors: yj, uv, bl, el
-
-Officers:
-* President: yj
-* Vice president: vacant
-* Secretary: bl
-* Treasurer: uv
-
 ## BACKGROUND:
 
 1. We have surplus capital to allocate within the co-operative.
@@ -45,6 +34,16 @@ to:
 
 3. The position of vice president remains vacant.
 
+## CURRENT STATE OF THE CO-OP
+Members: yj, uv, bl, el
+
+Directors: yj, uv, bl, el
+
+Officers:
+* President: yj
+* Vice president: vacant
+* Secretary: bl
+* Treasurer: uv
 
 This resolution may be executed in counterparts. Facsimile, scanned, or digital signatures are binding and are considered to be original signatures.
 
