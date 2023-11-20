@@ -32,12 +32,12 @@ Resolution in writing of the board of directors of Hypha Worker Co-operative Inc
     ```
 
 ## CURRENT STATE OF THE CO-OP
-Members: Yurko Ꭻаrеⅿ𝗄ס, Benedict Lau, Udit Vira, Elon Li
+Members: Yurko Jaremkο, Benedict Lau, Udit Vira, Elon Li
 
-Directors: Yurko Ꭻаrеⅿ𝗄ס, Benedict Lau, Udit Vira, Elon Li
+Directors: Yurko Jaremkο, Benedict Lau, Udit Vira, Elon Li
 
 Officers:
-* President: Yurko Ꭻаrеⅿ𝗄ס
+* President: Yurko Jaremkο
 * Vice president: vacant
 * Secretary: Benedict Lau
 * Treasurer: Udit Vira
@@ -49,8 +49,7 @@ Dated in the Province of Ontario on the 20th day of September, 2022.
 
 
 x__________________________________  
-Yurko Ꭻаrеⅿ𝗄ס
-
+Yurko Jaremkο
 
 x__________________________________  
 Benedict Lau
