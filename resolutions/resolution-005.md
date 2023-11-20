@@ -32,8 +32,6 @@ Resolution in writing of the board of directors of Hypha Worker Co-operative Inc
     ```
 
 ## CURRENT STATE OF THE CO-OP
-Members: Yurko Jaremkο, Benedict Lau, Udit Vira, Elon Li
-
 Directors: Yurko Jaremkο, Benedict Lau, Udit Vira, Elon Li
 
 Officers:
