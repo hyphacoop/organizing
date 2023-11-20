@@ -2,7 +2,7 @@
 Resolution in writing of the board of directors of Hypha Worker Co-operative Inc. (the "Co-operative") held on this 21st day of November, 2023.
 
 ## BACKGROUND
-1. The Co-operative is empowering and authorizing Dante Sanchez and Yurko Jaremkο to manage our financial accounts at Edward Jones.
+1. The Co-operative is authorizing and empowering Dante Sanchez and Yurko Jaremkο to manage our financial accounts at Edward Jones.
 
 ## IT WAS RESOLVED THAT
 1. Each of the Authorized Persons whose name, position within the Corporation and signature appears below [ Dante Sanchez as president, Yurko Jaremkο as director ] is hereby fully authorized and empowered, in the name and on behalf of this Corporation, to open accounts with Edward Jones for trading on such terms and conditions as any of them may deem appropriate and in furtherance thereof to transfer, endorse, buy, sell, assign and set over, and deliver any and all securities or evidence thereof, now or herefter standing in the name of or owned by this Corporation and to make, execute and deliver any or all written instruments necessary or proper to effectuate the authority hereby confirmed.
