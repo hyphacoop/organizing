@@ -31,7 +31,7 @@ Resolution in writing of the board of directors of Hypha Worker Co-operative Inc
     5. Foreign Contractors – Foreign contractors must be non-residents of and conducting work remotely outside of Canada. They are eligible for probationary membership upon special approval by the board of directors, and may apply for full membership according to the application process detailed in section 2.4.
     ```
 
-## CURRENT STATE OF THE CO-OP
+## CURRENT STATE OF THE CO-OPERATIVE
 Directors: Yurko Jaremkο, Benedict Lau, Udit Vira, Elon Li
 
 Officers:
