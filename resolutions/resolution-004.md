@@ -11,7 +11,7 @@ Resolution in writing of the board of directors of Hypha Worker Co-operative Inc
 
 2. The position of vice president remain vacant.
 
-## CURRENT STATE OF THE CO-OP
+## CURRENT STATE OF THE CO-OPERATIVE
 Directors: Yurko Jaremkο, Benedict Lau, Udit Vira, Elon Li, Dawn Walker
 
 Officers:
