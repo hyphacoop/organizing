@@ -9,7 +9,7 @@ Resolution in writing of the board of directors of Hypha Worker Co-operative Inc
 ## IT WAS RESOLVED THAT
 1. The directors unanimously approve of allocating 80% of surplus capital to reserve funds and 20% to member capital accounts.
 
-2. The position of vice president remain vacant.
+2. The position of vice president remains vacant.
 
 ## CURRENT STATE OF THE CO-OPERATIVE
 Directors: Yurko Jaremkο, Benedict Lau, Udit Vira, Elon Li, Dawn Walker
