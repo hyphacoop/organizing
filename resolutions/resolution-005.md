@@ -16,18 +16,18 @@ Resolution in writing of the board of directors of Hypha Worker Co-operative Inc
     _Section 2.1 Membership, Employment Requirements_
 
     From:
-    ```
+    ```txt
     1. Qualifications for Membership:
          A. is an employee of the Co-operative;
     ```
     to:
-    ```
+    ```txt
     1. Qualifications for Membership:
         A. is an employee or foreign contractor of the Co-operative;
     ```
 
     _Section 2.5 Membership, Employment Requirements_
-    ```
+    ```txt
     5. Foreign Contractors – Foreign contractors must be non-residents of and conducting work remotely outside of Canada. They are eligible for probationary membership upon special approval by the board of directors, and may apply for full membership according to the application process detailed in section 2.4.
     ```
 

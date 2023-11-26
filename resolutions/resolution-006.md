@@ -15,7 +15,7 @@ Resolution in writing of the board of directors of Hypha Worker Co-operative Inc
    _Section 2.2 Membership, Employment Requirements_
 
     From:
-    ```
+    ```txt
     Employment Requirements – All permanent employees must be members of the Co-operatives. An employee is not a permanent employee if:
     
         A. the employee is employed for a probationary period of 1 year or less; or
@@ -23,20 +23,20 @@ Resolution in writing of the board of directors of Hypha Worker Co-operative Inc
         B. the employee is employed under a contract for a term of 1 year or less.
     ```
     to:
-    ```
+    ```txt
     Employment Requirements – All permanent employees must be members of the Co-operative. An employee is a permanent employee if the employee has been employed for a probationary period of at least 1 year.
     
     The probationary period commences from the first day of employment. Employees who have less than 5 years of cumulative professional work experience may be subject to additional probationary membership terms; this is at the discretion of the board. 
     ```
 
     _Section 6.4 - Surplus, Loss, and Internal Capital Accounts_
-    ```
     From:
+    ```txt
     After this allocation is made, as cash flow and capital requirements permit, the board of directors may direct the Co-operative to pay out in cash a fixed percentage of all member loans as they stand after the year’s surplus allocations. The balance of the individual member’s capital account shall be adjusted accordingly.
     ```
     to:
-    ```
-    After this allocation is made, as cash flow and capital requirements permit, the board of directors may direct the Co-operative to pay out in cash a fixed percentage of all member loans as they stand after the year’s surplus **or loss** allocations. The balance of the individual member’s capital account shall be adjusted accordingly.
+    ```txt
+    After this allocation is made, as cash flow and capital requirements permit, the board of directors may direct the Co-operative to pay out in cash a fixed percentage of all member loans as they stand after the year’s surplus or loss allocations. The balance of the individual member’s capital account shall be adjusted accordingly.
     ```
 
 2. The following individuals are confirmed as diretors of the Co-operative for a term of two years or until replaced:
@@ -63,7 +63,7 @@ Officers:
 
 This resolution may be executed in counterparts. Facsimile, scanned, or digital signatures are binding and are considered to be original signatures.
 
-ated in the Province of Ontario on the 20th day of September, 2022.
+Dated in the Province of Ontario on the 23rd day of October, 2023.
 
 
 
