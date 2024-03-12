@@ -30,9 +30,9 @@ At the end of 2 (3 hour) sessions on 2 different dates (Dec 4th and 8th of 2018)
 To ensure the sync time we have together is productive, we are asking all meeting attendees to do the following before the meeting:
 
 - Sign up to [Loomio](https://loomio.cryptography.dog) and fill out your profile :v: 
-- Read essential and selected [Readings](#Readings)
-- Complete the [Solo Visioning Exercise](#Solo-Visioning-Exercise)
-- Complete the [Solo Values Prioritization Exercise](#Solo-Values-Prioritization-Exercise)
+- Read essential and selected [Readings](#readings)
+- Complete the [Solo Visioning Exercise](#solo-visioning-exercise)
+- Complete the [Solo Values Prioritization Exercise](#solo-values-prioritization-exercise)
 - Review the [Summary of Legal Requirements](./ontario-coop-requirements.md)
 
 ### Readings
@@ -67,7 +67,7 @@ _____________________________________
 *Time Required: 1 hour*  
 *When to do: Before Day 1*
 
-If you are unfamiliar with or would like a refresher on our use of the terms **mission**, **vision**, and **values**, review the reference material (if needed) in [Appendix A](#Appendix-A-Reference-Material-on-Mission-Vision-Values). The solo activities that follow will help us establish the shared vision of this cooperative.
+If you are unfamiliar with or would like a refresher on our use of the terms **mission**, **vision**, and **values**, review the reference material (if needed) in [Appendix A](#appendix-a-reference-material-on-mission-vision-values). The solo activities that follow will help us establish the shared vision of this cooperative.
 
 Organize your thoughts around the following questions to share during Day 1. You could write 2-3 sentences or a few bullet points for the following:
 
@@ -142,7 +142,7 @@ Value 4: _________ Why: _____________
 Value 5: _________ Why: _____________
 ```
 
-If you need a starting point, [Appendix B](#Appendix-B-Reference-List-of-Values) has some words from a creative toolkit to get you thinking. 
+If you need a starting point, [Appendix B](#appendix-b-reference-list-of-values) has some words from a creative toolkit to get you thinking. 
 
 ### Understanding Co-op Requirements for Incorporation, Development, and Compliance
 
@@ -202,8 +202,8 @@ This is a broad overview of the steps required to start a worker co-op that shou
 | 00:00 - 00:15 | 15mins | [Introductions](#introductions) |
 | 00:15 - 01:00 | 45mins | [5-minute sharebacks of solo visioning and readings](#5-minute-sharebacks) |
 | 01:00 - 01:15 | 15mins | Break!                                                                     |
-| 01:15 - 02:30 | 75mins | [Co-drafting vision & mission template](#Co-drafting-vision-amp-mission)   |
-| 02:30 - 03:00 | 30mins | [Finding value alignment](#Finding-value-alignment)                        |
+| 01:15 - 02:30 | 75mins | [Co-drafting vision & mission template](#co-drafting-vision-amp-mission)   |
+| 02:30 - 03:00 | 30mins | [Finding value alignment](#finding-value-alignment)                        |
 
 ### Introductions
 
@@ -282,11 +282,11 @@ This is a broad overview of the steps required to start a worker co-op that shou
 
 | Time          | Length  | Description                                            |
 |---------------|---------|--------------------------------------------------------|
-| 00:00 - 00:30 | 30 mins | [Recap and consensing on vision and mission from async work](#Consense-on-vision-and-mission) |
-| 00:30 - 01:30 | 60 mins | [Roadmapping (capacity and milestones)](#Roadmapping)         |
+| 00:00 - 00:30 | 30 mins | [Recap and consensing on vision and mission from async work](#consense-on-vision-and-mission) |
+| 00:30 - 01:30 | 60 mins | [Roadmapping (capacity and milestones)](#roadmapping)         |
 | 02:15 - 02:30 | 15 mins | Break!                                                 |
-| 01:45 - 02:30 | 45 mins | [Roadmapping (prioritizing and working groups)](#Roadmapping-priorities) |
-| 02:30 - 03:00 | 30 mins | [Governance needs and future plans](#Governance-and-future-plans)        |
+| 01:45 - 02:30 | 45 mins | [Roadmapping (prioritizing and working groups)](#roadmapping-priorities) |
+| 02:30 - 03:00 | 30 mins | [Governance needs and future plans](#governance-and-future-plans)        |
 
 ### Consense on vision and mission
 
