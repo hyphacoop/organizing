@@ -34,7 +34,7 @@ Resolution in writing of the board of directors of Hypha Worker Co-operative Inc
 
 
 2. The following individuals are appointed and confirmed as officers of the Co-operative for a term of two years or until replaced:
-    3. Cameron Fyfe: Treasurer
+    1. Cameron Fyfe: Treasurer
 3. Financial statements for the fiscal year of the Co-operative ending June 30, 2024 are approved.
 4. $ 459,660 has been allocated to special allocations for FY5.
 5. $ 53,431 has been allocated to member accounts for FY5.
